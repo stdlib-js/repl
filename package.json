@@ -58,7 +58,6 @@
     "debug": "^2.6.9"
   },
   "devDependencies": {
-    "@stdlib/_tools": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
     "@stdlib/random": "^0.0.x",
     "proxyquire": "^2.0.0",
