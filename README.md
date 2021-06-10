@@ -1189,14 +1189,14 @@ function done() {
 
 ## CLI
 
-<!-- CLI usage documentation. -->
-
 <section class="installation">
 
 ## Installation
 
+To use the module as a general utility, install the module globally
+
 ```bash
-npm install @stdlib/repl
+npm install -g @stdlib/repl
 ```
 
 </section>
