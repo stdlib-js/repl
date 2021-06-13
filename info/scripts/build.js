@@ -27,7 +27,7 @@ var objectKeys = require( '@stdlib/utils/keys' );
 var replace = require( '@stdlib/string/replace' );
 var hasOwnProp = require( '@stdlib/assert/has-own-property' );
 var aliases = require( '@stdlib/namespace/aliases' );
-var help = require( '@stdlib/repl/help' );
+var help = require( './../../help' );
 var parse = require( '@stdlib/_tools/repl-txt/parse' );
 var node2info = require( '@stdlib/_tools/repl-txt/abridge' );
 

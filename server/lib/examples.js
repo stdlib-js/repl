@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var examples = require( '@stdlib/repl/code-blocks/data/data.json' );
+var examples = require( './../../code-blocks/data/data.json' );
 
 
 // EXPORTS //

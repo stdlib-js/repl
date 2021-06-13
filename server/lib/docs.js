@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var help = require( '@stdlib/repl/help/data/data.json' );
+var help = require( './../../help/data/data.json' );
 
 
 // EXPORTS //

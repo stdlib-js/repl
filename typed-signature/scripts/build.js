@@ -27,7 +27,7 @@ var replace = require( '@stdlib/string/replace' );
 var pluck = require( '@stdlib/utils/pluck' );
 var contains = require( '@stdlib/assert/contains' );
 var aliases = require( '@stdlib/namespace/aliases' );
-var help = require( '@stdlib/repl/help' );
+var help = require( './../../help' );
 var parse = require( '@stdlib/_tools/repl-txt/parse' );
 var signature2typed = require( '@stdlib/_tools/repl-txt/typed-signature' );
 

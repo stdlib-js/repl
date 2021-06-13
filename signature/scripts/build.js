@@ -25,7 +25,7 @@ var logger = require( 'debug' );
 var writeFile = require( '@stdlib/fs/write-file' ).sync;
 var replace = require( '@stdlib/string/replace' );
 var aliases = require( '@stdlib/namespace/aliases' );
-var help = require( '@stdlib/repl/help' );
+var help = require( './../../help' );
 var parse = require( '@stdlib/_tools/repl-txt/parse' );
 
 
