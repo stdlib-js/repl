@@ -1318,9 +1318,9 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/repl/main/LICENSE
 
-[@stdlib/streams/node/stdin]: https://github.com/stdlib-js/stdlib
+[@stdlib/streams/node/stdin]: https://github.com/stdlib-js/streams-node-stdin
 
-[@stdlib/streams/node/stdout]: https://github.com/stdlib-js/stdlib
+[@stdlib/streams/node/stdout]: https://github.com/stdlib-js/streams-node-stdout
 
 [@stdlib/repl/presentation]: https://github.com/stdlib-js/repl/tree/main/presentation
 
