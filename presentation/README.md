@@ -1574,9 +1574,9 @@ cat ./path/to/presentation.txt | stdlib-repl-presentation
 
 [@stdlib/repl]: https://github.com/stdlib-js/repl/tree/main
 
-[@stdlib/datasets/emoji]: https://github.com/stdlib-js/stdlib
+[@stdlib/datasets/emoji]: https://github.com/stdlib-js/datasets-emoji
 
-[@stdlib/datasets/emoji-code-picto]: https://github.com/stdlib-js/stdlib
+[@stdlib/datasets/emoji-code-picto]: https://github.com/stdlib-js/datasets-emoji-code-picto
 
 </section>
 
