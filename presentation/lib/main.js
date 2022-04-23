@@ -151,7 +151,7 @@ function Presentation() { // eslint-disable-line stdlib/no-redeclare
 	} else { // nargs === 3
 		text = arguments[ 0 ];
 		if ( !isString( text ) ) {
-			throw new TypeError( format( 'invalid argument. Presentation text argument must be a string. Value: `%s`.', text ) );
+			throw new TypeError( format( 'invalid argument. Presentation text must be a string. Value: `%s`.', text ) );
 		}
 		repl = arguments[ 1 ];
 		options = arguments[ 2 ];
@@ -934,7 +934,7 @@ setNonEnumerableReadOnly( Presentation.prototype, 'reload', function reload() {
 	try {
 		this.load( this._source );
 	} catch ( err ) {
-		throw new Error( 'unexpected error. Unable to reload presentation. Error: '+err.message );
+		throw new Error( format( 'unexpected error. Unable to reload presentation. Error: %s', err.message ) );
 	}
 	this.jumpTo( currentSlide );
 	debug( 'Successfully reloaded presentation.' );
@@ -1368,7 +1368,7 @@ setNonEnumerableReadOnly( Presentation.prototype, 'watch', function watch() {
 	try {
 		w = watchFile( this._source, opts, onChange );
 	} catch ( err ) {
-		throw new Error( 'unexpected error. Unable to watch presentation source file. Error: ' + err.message );
+		throw new Error( format( 'unexpected error. Unable to watch presentation source file. Error: %s', err.message ) );
 	}
 	w.on( 'error', onError );
 
