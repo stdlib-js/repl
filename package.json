@@ -56,7 +56,8 @@
     "acorn": "^8.1.0",
     "acorn-loose": "^8.0.2",
     "acorn-walk": "^8.0.2",
-    "debug": "^2.6.9"
+    "debug": "^2.6.9",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench",
