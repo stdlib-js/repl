@@ -1,3 +1,0 @@
-var x = base.sin( 0.5 )
-var y = base.cos( 0.5 )
-var r = base.random.randu()

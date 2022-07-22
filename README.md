@@ -40,30 +40,38 @@ The REPL environment exposed here is available both as a standalone application 
 
 <!-- Package usage documentation. -->
 
-<section class="installation">
 
-## Installation
-
-```bash
-npm install @stdlib/repl
-```
-
-Alternatively,
-
--   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
--   If you are using Deno, visit the [`deno` branch][deno-url].
--   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
-
-The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
-
-</section>
 
 <section class="usage">
 
 ## Usage
 
+To use in Observable,
+
 ```javascript
-var REPL = require( '@stdlib/repl' );
+REPL = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/repl@umd/browser.js' )
+```
+
+To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
+
+```javascript
+var REPL = require( 'path/to/vendor/umd/repl/index.js' )
+```
+
+To include the bundle in a webpage,
+
+```html
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/repl@umd/browser.js"></script>
+```
+
+If no recognized module system is present, access bundle contents via the global scope:
+
+```html
+<script type="text/javascript">
+(function () {
+    window.REPL;
+})();
+</script>
 ```
 
 #### REPL( \[options] )
@@ -1163,7 +1171,12 @@ In [1]: workspaces( { 'details': true  } )
 
 <!-- eslint no-undef: "error" -->
 
-```javascript
+```html
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<script type="text/javascript">
+(function () {
 var join = require( 'path' ).join;
 var REPL = require( '@stdlib/repl' );
 
@@ -1183,6 +1196,11 @@ function done() {
     // Close the REPL:
     repl.close();
 }
+
+})();
+</script>
+</body>
+</html>
 ```
 
 </section>
@@ -1191,77 +1209,7 @@ function done() {
 
 <!-- Section for describing a command-line interface. -->
 
-* * *
 
-<section class="cli">
-
-## CLI
-
-<section class="installation">
-
-## Installation
-
-To use the module as a general utility, install the module globally
-
-```bash
-npm install -g @stdlib/repl
-```
-
-</section>
-<!-- CLI usage documentation. -->
-
-
-<section class="usage">
-
-### Usage
-
-```text
-Usage: stdlib-repl [options]
-
-Options:
-
-  -h, --help                    Print this message.
-  -V, --version                 Print the package version.
-      --welcome <message>       Welcome message.
-      --input-prompt <prompt>   Input prompt. Default: 'In [%d]: '.
-      --output-prompt <prompt>  Output prompt. Default: 'Out[%d]: '.
-      --padding <padding>       Empty lines between commands. Default: 1.
-      --load <filepath>         JavaScript file to evaluate line-by-line.
-      --save <filepath>         File to save REPL command history.
-      --logfile <filepath>      File to log REPL commands and printed output.
-      --timeout <timeout>       Milliseconds before terminating a command.
-      --quiet                   Disable printing of REPL logs and diagnostics.
-```
-
-</section>
-
-<!-- /.usage -->
-
-<!-- CLI usage notes. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
-
-<section class="notes">
-
-</section>
-
-<!-- /.notes -->
-
-<!-- CLI usage examples. -->
-
-<section class="examples">
-
-### Examples
-
-```bash
-$ stdlib-repl
-```
-
-</section>
-
-<!-- /.examples -->
-
-</section>
-
-<!-- /.cli -->
 
 <!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
@@ -1348,9 +1296,9 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/repl/main/LICENSE
 
-[@stdlib/streams/node/stdin]: https://github.com/stdlib-js/streams-node-stdin
+[@stdlib/streams/node/stdin]: https://github.com/stdlib-js/streams-node-stdin/tree/umd
 
-[@stdlib/streams/node/stdout]: https://github.com/stdlib-js/streams-node-stdout
+[@stdlib/streams/node/stdout]: https://github.com/stdlib-js/streams-node-stdout/tree/umd
 
 [@stdlib/repl/presentation]: https://github.com/stdlib-js/repl/tree/main/presentation
 
