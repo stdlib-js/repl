@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/boolean": "github:stdlib-js/boolean#main",
     "@stdlib/cli": "github:stdlib-js/cli#main",
     "@stdlib/datasets": "github:stdlib-js/datasets#main",
     "@stdlib/fs": "github:stdlib-js/fs#main",
