@@ -53,6 +53,7 @@
     "@stdlib/regexp": "github:stdlib-js/regexp#main",
     "@stdlib/streams": "github:stdlib-js/streams#main",
     "@stdlib/string": "github:stdlib-js/string#main",
+    "@stdlib/time": "github:stdlib-js/time#main",
     "@stdlib/utils": "github:stdlib-js/utils#main",
     "acorn": "^8.1.0",
     "acorn-loose": "^8.0.2",
