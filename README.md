@@ -1193,10 +1193,10 @@ function done() {
 
 ## Installation
 
-To use the module as a general utility, install the module globally
+To use as a general utility, install the CLI package globally
 
 ```bash
-npm install -g @stdlib/repl
+npm install -g @stdlib/repl-cli
 ```
 
 </section>
@@ -1329,6 +1329,10 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
+
+[cli-section]: https://github.com/stdlib-js/repl#cli
+[cli-url]: https://github.com/stdlib-js/repl/tree/cli
+[main-url]: https://github.com/stdlib-js/repl
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/repl/main/LICENSE
 
