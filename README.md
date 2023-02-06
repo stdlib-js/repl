@@ -1332,7 +1332,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [cli-section]: https://github.com/stdlib-js/repl#cli
 [cli-url]: https://github.com/stdlib-js/repl/tree/cli
-[main-url]: https://github.com/stdlib-js/repl
+[@stdlib/repl]: https://github.com/stdlib-js/repl/tree/main
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/repl/main/LICENSE
 
