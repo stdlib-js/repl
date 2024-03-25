@@ -62,6 +62,7 @@
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench#main",
+    "@stdlib/object": "github:stdlib-js/object#main",
     "@stdlib/random": "github:stdlib-js/random#main",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
