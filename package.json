@@ -17,7 +17,10 @@
     "stdlib-repl": "./bin/cli"
   },
   "main": "./lib",
-  "browser": "./lib/browser/index.js",
+  "browser": {
+    "./lib": "./lib/browser/index.js",
+    "process": "process/"
+  },
   "directories": {
     "benchmark": "./benchmark",
     "data": "./data",
@@ -60,7 +63,8 @@
     "acorn": "^8.1.0",
     "acorn-loose": "^8.0.2",
     "acorn-walk": "^8.0.2",
-    "debug": "^2.6.9"
+    "debug": "^2.6.9",
+    "readable-stream": "^2.1.4"
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench#main",
