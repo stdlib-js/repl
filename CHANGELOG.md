@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-06)
+## Unreleased (2024-06-07)
 
 <section class="packages">
 
@@ -255,6 +255,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`f85ed2a`](https://github.com/stdlib-js/stdlib/commit/f85ed2aafc393cfbac360ad14b97af0ee28d450b) - **docs:** update REPL namespace documentation [(#2313)](https://github.com/stdlib-js/stdlib/pull/2313) _(by stdlib-bot, Athan Reines)_
 -   [`f10aaf2`](https://github.com/stdlib-js/stdlib/commit/f10aaf243f4873488bf04be4bad5c3d256415a41) - **docs:** update REPL namespace documentation [(#2311)](https://github.com/stdlib-js/stdlib/pull/2311) _(by stdlib-bot, Athan Reines)_
 -   [`34ef42e`](https://github.com/stdlib-js/stdlib/commit/34ef42e798ec33e1f3a62a15a460dd46ae7c693c) - **docs:** update REPL namespace documentation [(#2246)](https://github.com/stdlib-js/stdlib/pull/2246) _(by stdlib-bot, Athan Reines)_
 -   [`e09eeb2`](https://github.com/stdlib-js/stdlib/commit/e09eeb231ec9800aa3e934f4d34bb6991a7afe81) - **fix:** update incorrect `isScrollable` constraints [(##2293)](#2293) _(by Snehil Shah)_
