@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-07)
+## Unreleased (2024-06-08)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`b4c12b7`](https://github.com/stdlib-js/stdlib/commit/b4c12b7c4a76cfa71164d1b01fcbfca0426abbb3) - add APIs, commands, and tests for REPL syntax-highlighting [(#2291)](https://github.com/stdlib-js/stdlib/pull/2291)
 -   [`24f4a8f`](https://github.com/stdlib-js/stdlib/commit/24f4a8f24c08dd25686afc4cfb78be2e0045e844) - add syntax highlighting in the REPL
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`3c31c1f`](https://github.com/stdlib-js/stdlib/commit/3c31c1f54ab8e1148fd9104490245c60cc540280) - add REPL pager [(#2162)](https://github.com/stdlib-js/stdlib/pull/2162)
@@ -255,6 +256,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`b4c12b7`](https://github.com/stdlib-js/stdlib/commit/b4c12b7c4a76cfa71164d1b01fcbfca0426abbb3) - **feat:** add APIs, commands, and tests for REPL syntax-highlighting [(#2291)](https://github.com/stdlib-js/stdlib/pull/2291) _(by Snehil Shah, Athan Reines)_
 -   [`f85ed2a`](https://github.com/stdlib-js/stdlib/commit/f85ed2aafc393cfbac360ad14b97af0ee28d450b) - **docs:** update REPL namespace documentation [(#2313)](https://github.com/stdlib-js/stdlib/pull/2313) _(by stdlib-bot, Athan Reines)_
 -   [`f10aaf2`](https://github.com/stdlib-js/stdlib/commit/f10aaf243f4873488bf04be4bad5c3d256415a41) - **docs:** update REPL namespace documentation [(#2311)](https://github.com/stdlib-js/stdlib/pull/2311) _(by stdlib-bot, Athan Reines)_
 -   [`34ef42e`](https://github.com/stdlib-js/stdlib/commit/34ef42e798ec33e1f3a62a15a460dd46ae7c693c) - **docs:** update REPL namespace documentation [(#2246)](https://github.com/stdlib-js/stdlib/pull/2246) _(by stdlib-bot, Athan Reines)_
