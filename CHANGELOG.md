@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-08)
+## Unreleased (2024-06-09)
 
 <section class="packages">
 
@@ -36,6 +36,7 @@
 
 ##### Bug Fixes
 
+-   [`9f3dcaf`](https://github.com/stdlib-js/stdlib/commit/9f3dcaf4d19fde9e7066f7dc12a49cf87e6fd0f7) - update error message
 -   [`e09eeb2`](https://github.com/stdlib-js/stdlib/commit/e09eeb231ec9800aa3e934f4d34bb6991a7afe81) - update incorrect `isScrollable` constraints [(##2293)](#2293)
 -   [`e538d43`](https://github.com/stdlib-js/stdlib/commit/e538d43621114665ffc5996c712abb65b270615a) - resolve clash between syntax-highlighter and auto-closer [(#2290)](https://github.com/stdlib-js/stdlib/pull/2290)
 -   [`8716bc6`](https://github.com/stdlib-js/stdlib/commit/8716bc6111c276ff676025afa230a2fb1f30932f) - resolve unrecognized keywords bug in the REPL's syntax-highlighter [(##2284)](#2284)
@@ -256,6 +257,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`9f3dcaf`](https://github.com/stdlib-js/stdlib/commit/9f3dcaf4d19fde9e7066f7dc12a49cf87e6fd0f7) - **fix:** update error message _(by Athan Reines)_
 -   [`b4c12b7`](https://github.com/stdlib-js/stdlib/commit/b4c12b7c4a76cfa71164d1b01fcbfca0426abbb3) - **feat:** add APIs, commands, and tests for REPL syntax-highlighting [(#2291)](https://github.com/stdlib-js/stdlib/pull/2291) _(by Snehil Shah, Athan Reines)_
 -   [`f85ed2a`](https://github.com/stdlib-js/stdlib/commit/f85ed2aafc393cfbac360ad14b97af0ee28d450b) - **docs:** update REPL namespace documentation [(#2313)](https://github.com/stdlib-js/stdlib/pull/2313) _(by stdlib-bot, Athan Reines)_
 -   [`f10aaf2`](https://github.com/stdlib-js/stdlib/commit/f10aaf243f4873488bf04be4bad5c3d256415a41) - **docs:** update REPL namespace documentation [(#2311)](https://github.com/stdlib-js/stdlib/pull/2311) _(by stdlib-bot, Athan Reines)_
