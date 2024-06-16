@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-13)
+## Unreleased (2024-06-16)
 
 <section class="packages">
 
@@ -235,13 +235,12 @@ A total of 4 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
 -   Philipp Burckhardt
 -   Planeshifter
--   Snehil Shah
 -   Snehil Shah
 -   Tudor Pagu
 -   Tudor Stefan Pagu
@@ -258,6 +257,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`1e37af3`](https://github.com/stdlib-js/stdlib/commit/1e37af3451db8f67aa91f5e34f33a728526025a9) - **docs:** update REPL namespace documentation [(#2382)](https://github.com/stdlib-js/stdlib/pull/2382) _(by stdlib-bot, Athan Reines)_
 -   [`d74b255`](https://github.com/stdlib-js/stdlib/commit/d74b255023995b97cb1fc3bdaa76a1fc86a0ce1c) - **docs:** update REPL namespace documentation [(#2372)](https://github.com/stdlib-js/stdlib/pull/2372) _(by stdlib-bot, Athan Reines)_
 -   [`0856277`](https://github.com/stdlib-js/stdlib/commit/0856277523259bf111501ff87d54104b361b0fa3) - **feat:** add combined styles and inbuilt syntax highlighting themes in the REPL _(by Snehil Shah)_
 -   [`9f3dcaf`](https://github.com/stdlib-js/stdlib/commit/9f3dcaf4d19fde9e7066f7dc12a49cf87e6fd0f7) - **fix:** update error message _(by Athan Reines)_
