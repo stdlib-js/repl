@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-17)
+## Unreleased (2024-06-18)
 
 <section class="packages">
 
@@ -76,6 +76,7 @@ A total of 4 issues were closed in this release:
 
 ##### Features
 
+-   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(##1352)](#1352)
@@ -107,6 +108,7 @@ A total of 4 issues were closed in this release:
 
 ##### Features
 
+-   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(##1352)](#1352)
@@ -257,6 +259,8 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`e9f214c`](https://github.com/stdlib-js/stdlib/commit/e9f214cdceba326caa8a129f5da941db6fe5ba08) - **docs:** update REPL docs _(by Athan Reines)_
+-   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - **feat:** add `aput` to namespace _(by Athan Reines)_
 -   [`e190a54`](https://github.com/stdlib-js/stdlib/commit/e190a548efc5748792be5e3af09b7d2bf8dd987e) - **docs:** update REPL namespace documentation [(#2395)](https://github.com/stdlib-js/stdlib/pull/2395) _(by stdlib-bot, Athan Reines)_
 -   [`aae2b85`](https://github.com/stdlib-js/stdlib/commit/aae2b854ea853853efa6504c6953a8c5aa703128) - **docs:** update REPL namespace documentation [(#2386)](https://github.com/stdlib-js/stdlib/pull/2386) _(by stdlib-bot, Athan Reines)_
 -   [`1e37af3`](https://github.com/stdlib-js/stdlib/commit/1e37af3451db8f67aa91f5e34f33a728526025a9) - **docs:** update REPL namespace documentation [(#2382)](https://github.com/stdlib-js/stdlib/pull/2382) _(by stdlib-bot, Athan Reines)_
