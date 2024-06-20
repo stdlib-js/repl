@@ -260,6 +260,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`642d473`](https://github.com/stdlib-js/stdlib/commit/642d4736d832f9dd83df75dfb63e56689e1fbb89) - **docs:** update REPL namespace documentation [(#2416)](https://github.com/stdlib-js/stdlib/pull/2416) _(by stdlib-bot, Athan Reines)_
 -   [`1036087`](https://github.com/stdlib-js/stdlib/commit/1036087c00b59cc981530e66b3aaa1966c6e74e0) - **fix:** prevent access if properties couldn't be resolved when syntax highlighting in the REPL [(##2412)](#2412) _(by Snehil Shah)_
 -   [`379f259`](https://github.com/stdlib-js/stdlib/commit/379f259a529c407cf0223754ee171fce76e8f5d8) - **docs:** update REPL namespace documentation [(#2403)](https://github.com/stdlib-js/stdlib/pull/2403) _(by stdlib-bot, Athan Reines)_
 -   [`e9f214c`](https://github.com/stdlib-js/stdlib/commit/e9f214cdceba326caa8a129f5da941db6fe5ba08) - **docs:** update REPL docs _(by Athan Reines)_
