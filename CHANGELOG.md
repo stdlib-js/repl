@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-18)
+## Unreleased (2024-06-20)
 
 <section class="packages">
 
@@ -37,6 +37,7 @@
 
 ##### Bug Fixes
 
+-   [`1036087`](https://github.com/stdlib-js/stdlib/commit/1036087c00b59cc981530e66b3aaa1966c6e74e0) - prevent access if properties couldn't be resolved when syntax highlighting in the REPL [(##2412)](#2412)
 -   [`9f3dcaf`](https://github.com/stdlib-js/stdlib/commit/9f3dcaf4d19fde9e7066f7dc12a49cf87e6fd0f7) - update error message
 -   [`e09eeb2`](https://github.com/stdlib-js/stdlib/commit/e09eeb231ec9800aa3e934f4d34bb6991a7afe81) - update incorrect `isScrollable` constraints [(##2293)](#2293)
 -   [`e538d43`](https://github.com/stdlib-js/stdlib/commit/e538d43621114665ffc5996c712abb65b270615a) - resolve clash between syntax-highlighter and auto-closer [(#2290)](https://github.com/stdlib-js/stdlib/pull/2290)
@@ -259,6 +260,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`1036087`](https://github.com/stdlib-js/stdlib/commit/1036087c00b59cc981530e66b3aaa1966c6e74e0) - **fix:** prevent access if properties couldn't be resolved when syntax highlighting in the REPL [(##2412)](#2412) _(by Snehil Shah)_
 -   [`379f259`](https://github.com/stdlib-js/stdlib/commit/379f259a529c407cf0223754ee171fce76e8f5d8) - **docs:** update REPL namespace documentation [(#2403)](https://github.com/stdlib-js/stdlib/pull/2403) _(by stdlib-bot, Athan Reines)_
 -   [`e9f214c`](https://github.com/stdlib-js/stdlib/commit/e9f214cdceba326caa8a129f5da941db6fe5ba08) - **docs:** update REPL docs _(by Athan Reines)_
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - **feat:** add `aput` to namespace _(by Athan Reines)_
