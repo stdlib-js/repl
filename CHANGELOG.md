@@ -268,6 +268,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a480f85`](https://github.com/stdlib-js/stdlib/commit/a480f8585f99b2ff001b470c82414cf34a61c59d) - **docs:** update REPL namespace documentation [(#2427)](https://github.com/stdlib-js/stdlib/pull/2427) _(by stdlib-bot, Athan Reines)_
 -   [`1c27809`](https://github.com/stdlib-js/stdlib/commit/1c27809160d824ad9c4b7f21f1f36e7331df7e9d) - **docs:** update REPL namespace documentation [(#2426)](https://github.com/stdlib-js/stdlib/pull/2426) _(by stdlib-bot, Athan Reines)_
 -   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - **feat:** add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347) _(by Snehil Shah, Athan Reines)_
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - **feat:** add `amskput` to namespace _(by Athan Reines)_
