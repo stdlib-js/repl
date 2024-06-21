@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347)
 -   [`0856277`](https://github.com/stdlib-js/stdlib/commit/0856277523259bf111501ff87d54104b361b0fa3) - add combined styles and inbuilt syntax highlighting themes in the REPL
 -   [`b4c12b7`](https://github.com/stdlib-js/stdlib/commit/b4c12b7c4a76cfa71164d1b01fcbfca0426abbb3) - add APIs, commands, and tests for REPL syntax-highlighting [(#2291)](https://github.com/stdlib-js/stdlib/pull/2291)
 -   [`24f4a8f`](https://github.com/stdlib-js/stdlib/commit/24f4a8f24c08dd25686afc4cfb78be2e0045e844) - add syntax highlighting in the REPL
@@ -53,9 +54,9 @@
 
 ##### Closed Issues
 
-A total of 4 issues were closed in this release:
+A total of 5 issues were closed in this release:
 
-[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175)
+[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175)
 
 </section>
 
@@ -233,9 +234,9 @@ A total of 4 issues were closed in this release:
 
 ### Closed Issues
 
-A total of 4 issues were closed in this release:
+A total of 5 issues were closed in this release:
 
-[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175)
+[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175)
 
 </section>
 
@@ -267,6 +268,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - **feat:** add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347) _(by Snehil Shah, Athan Reines)_
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - **feat:** add `amskput` to namespace _(by Athan Reines)_
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - **feat:** add `aplace` to namespace _(by Athan Reines)_
 -   [`642d473`](https://github.com/stdlib-js/stdlib/commit/642d4736d832f9dd83df75dfb63e56689e1fbb89) - **docs:** update REPL namespace documentation [(#2416)](https://github.com/stdlib-js/stdlib/pull/2416) _(by stdlib-bot, Athan Reines)_
