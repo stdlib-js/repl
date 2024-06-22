@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-21)
+## Unreleased (2024-06-22)
 
 <section class="packages">
 
@@ -38,6 +38,7 @@
 
 ##### Bug Fixes
 
+-   [`d2cd4c3`](https://github.com/stdlib-js/stdlib/commit/d2cd4c355302240f3cc5ea050d349715925be744) - pass options when parsing to suppress warnings in the REPL [(#2430)](https://github.com/stdlib-js/stdlib/pull/2430)
 -   [`1036087`](https://github.com/stdlib-js/stdlib/commit/1036087c00b59cc981530e66b3aaa1966c6e74e0) - prevent access if properties couldn't be resolved when syntax highlighting in the REPL [(##2412)](#2412)
 -   [`9f3dcaf`](https://github.com/stdlib-js/stdlib/commit/9f3dcaf4d19fde9e7066f7dc12a49cf87e6fd0f7) - update error message
 -   [`e09eeb2`](https://github.com/stdlib-js/stdlib/commit/e09eeb231ec9800aa3e934f4d34bb6991a7afe81) - update incorrect `isScrollable` constraints [(##2293)](#2293)
@@ -54,9 +55,9 @@
 
 ##### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 6 issues were closed in this release:
 
-[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175)
+[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175), [#2429](https://github.com/stdlib-js/stdlib/issues/2429)
 
 </section>
 
@@ -234,9 +235,9 @@ A total of 5 issues were closed in this release:
 
 ### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 6 issues were closed in this release:
 
-[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175)
+[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175), [#2429](https://github.com/stdlib-js/stdlib/issues/2429)
 
 </section>
 
@@ -268,6 +269,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`d2cd4c3`](https://github.com/stdlib-js/stdlib/commit/d2cd4c355302240f3cc5ea050d349715925be744) - **fix:** pass options when parsing to suppress warnings in the REPL [(#2430)](https://github.com/stdlib-js/stdlib/pull/2430) _(by Snehil Shah)_
 -   [`a480f85`](https://github.com/stdlib-js/stdlib/commit/a480f8585f99b2ff001b470c82414cf34a61c59d) - **docs:** update REPL namespace documentation [(#2427)](https://github.com/stdlib-js/stdlib/pull/2427) _(by stdlib-bot, Athan Reines)_
 -   [`1c27809`](https://github.com/stdlib-js/stdlib/commit/1c27809160d824ad9c4b7f21f1f36e7331df7e9d) - **docs:** update REPL namespace documentation [(#2426)](https://github.com/stdlib-js/stdlib/pull/2426) _(by stdlib-bot, Athan Reines)_
 -   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - **feat:** add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347) _(by Snehil Shah, Athan Reines)_
