@@ -269,6 +269,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`6c876f7`](https://github.com/stdlib-js/stdlib/commit/6c876f7b20aecec6d2f402e11a04c4c9f5e19215) - **docs:** update REPL namespace documentation [(#2433)](https://github.com/stdlib-js/stdlib/pull/2433) _(by stdlib-bot, Athan Reines)_
 -   [`d2cd4c3`](https://github.com/stdlib-js/stdlib/commit/d2cd4c355302240f3cc5ea050d349715925be744) - **fix:** pass options when parsing to suppress warnings in the REPL [(#2430)](https://github.com/stdlib-js/stdlib/pull/2430) _(by Snehil Shah)_
 -   [`a480f85`](https://github.com/stdlib-js/stdlib/commit/a480f8585f99b2ff001b470c82414cf34a61c59d) - **docs:** update REPL namespace documentation [(#2427)](https://github.com/stdlib-js/stdlib/pull/2427) _(by stdlib-bot, Athan Reines)_
 -   [`1c27809`](https://github.com/stdlib-js/stdlib/commit/1c27809160d824ad9c4b7f21f1f36e7331df7e9d) - **docs:** update REPL namespace documentation [(#2426)](https://github.com/stdlib-js/stdlib/pull/2426) _(by stdlib-bot, Athan Reines)_
