@@ -269,6 +269,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ebb5167`](https://github.com/stdlib-js/stdlib/commit/ebb5167498be78c43ce809bc13a750f1c0887c7b) - **docs:** update REPL namespace documentation [(#2467)](https://github.com/stdlib-js/stdlib/pull/2467) _(by stdlib-bot, Athan Reines)_
 -   [`882197a`](https://github.com/stdlib-js/stdlib/commit/882197a80d23b8488e3d1b169151e506477e5b9a) - **docs:** update REPL namespace documentation [(#2466)](https://github.com/stdlib-js/stdlib/pull/2466) _(by stdlib-bot, Athan Reines)_
 -   [`bfd5b70`](https://github.com/stdlib-js/stdlib/commit/bfd5b7069450a1469a68e52b334412596b8892ef) - **docs:** update REPL namespace documentation [(#2444)](https://github.com/stdlib-js/stdlib/pull/2444) _(by stdlib-bot, Athan Reines)_
 -   [`211c131`](https://github.com/stdlib-js/stdlib/commit/211c131b7d2761f3627a85ab47fdb07e242cc1c9) - **docs:** update REPL namespace documentation [(#2437)](https://github.com/stdlib-js/stdlib/pull/2437) _(by stdlib-bot, Athan Reines)_
