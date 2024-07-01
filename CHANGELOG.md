@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-29)
+## Unreleased (2024-07-01)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`1d49bc6`](https://github.com/stdlib-js/stdlib/commit/1d49bc691bce0634e7b0508ff495fca733c48a4c) - add UX to cycle through completions in the REPL [(#2463)](https://github.com/stdlib-js/stdlib/pull/2463)
 -   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347)
 -   [`0856277`](https://github.com/stdlib-js/stdlib/commit/0856277523259bf111501ff87d54104b361b0fa3) - add combined styles and inbuilt syntax highlighting themes in the REPL
 -   [`b4c12b7`](https://github.com/stdlib-js/stdlib/commit/b4c12b7c4a76cfa71164d1b01fcbfca0426abbb3) - add APIs, commands, and tests for REPL syntax-highlighting [(#2291)](https://github.com/stdlib-js/stdlib/pull/2291)
@@ -269,6 +270,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`1d49bc6`](https://github.com/stdlib-js/stdlib/commit/1d49bc691bce0634e7b0508ff495fca733c48a4c) - **feat:** add UX to cycle through completions in the REPL [(#2463)](https://github.com/stdlib-js/stdlib/pull/2463) _(by Snehil Shah, Athan Reines)_
 -   [`581f17e`](https://github.com/stdlib-js/stdlib/commit/581f17e69ee0eb47edc2991a3e80581f7e0af338) - **docs:** update REPL namespace documentation [(#2476)](https://github.com/stdlib-js/stdlib/pull/2476) _(by stdlib-bot, Athan Reines)_
 -   [`cfb39e4`](https://github.com/stdlib-js/stdlib/commit/cfb39e4db74a499fe1af830de2f9305ae851a7b2) - **docs:** update REPL namespace documentation [(#2475)](https://github.com/stdlib-js/stdlib/pull/2475) _(by stdlib-bot, Athan Reines)_
 -   [`ebb5167`](https://github.com/stdlib-js/stdlib/commit/ebb5167498be78c43ce809bc13a750f1c0887c7b) - **docs:** update REPL namespace documentation [(#2467)](https://github.com/stdlib-js/stdlib/pull/2467) _(by stdlib-bot, Athan Reines)_

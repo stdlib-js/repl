@@ -56,6 +56,7 @@
     "@stdlib/object": "github:stdlib-js/object#main",
     "@stdlib/process": "github:stdlib-js/process#main",
     "@stdlib/regexp": "github:stdlib-js/regexp#main",
+    "@stdlib/stats": "github:stdlib-js/stats#main",
     "@stdlib/streams": "github:stdlib-js/streams#main",
     "@stdlib/string": "github:stdlib-js/string#main",
     "@stdlib/time": "github:stdlib-js/time#main",
