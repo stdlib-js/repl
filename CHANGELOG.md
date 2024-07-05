@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-04)
+## Unreleased (2024-07-05)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`7ba179c`](https://github.com/stdlib-js/stdlib/commit/7ba179c7f5084a9b39e22282b02e756c9671d6d8) - add bracketed-paste mode in the REPL [(#2502)](https://github.com/stdlib-js/stdlib/pull/2502)
 -   [`1d49bc6`](https://github.com/stdlib-js/stdlib/commit/1d49bc691bce0634e7b0508ff495fca733c48a4c) - add UX to cycle through completions in the REPL [(#2463)](https://github.com/stdlib-js/stdlib/pull/2463)
 -   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347)
 -   [`0856277`](https://github.com/stdlib-js/stdlib/commit/0856277523259bf111501ff87d54104b361b0fa3) - add combined styles and inbuilt syntax highlighting themes in the REPL
@@ -56,9 +57,9 @@
 
 ##### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175), [#2429](https://github.com/stdlib-js/stdlib/issues/2429)
+[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2068](https://github.com/stdlib-js/stdlib/issues/2068), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175), [#2429](https://github.com/stdlib-js/stdlib/issues/2429)
 
 </section>
 
@@ -236,9 +237,9 @@ A total of 6 issues were closed in this release:
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175), [#2429](https://github.com/stdlib-js/stdlib/issues/2429)
+[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2068](https://github.com/stdlib-js/stdlib/issues/2068), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175), [#2429](https://github.com/stdlib-js/stdlib/issues/2429)
 
 </section>
 
@@ -270,6 +271,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`7ba179c`](https://github.com/stdlib-js/stdlib/commit/7ba179c7f5084a9b39e22282b02e756c9671d6d8) - **feat:** add bracketed-paste mode in the REPL [(#2502)](https://github.com/stdlib-js/stdlib/pull/2502) _(by Snehil Shah, Athan Reines)_
 -   [`fc67e61`](https://github.com/stdlib-js/stdlib/commit/fc67e61cc8ee361df87fdceae53d32baaa4b54ff) - **docs:** update REPL namespace documentation [(#2511)](https://github.com/stdlib-js/stdlib/pull/2511) _(by stdlib-bot, Athan Reines)_
 -   [`77ecc3a`](https://github.com/stdlib-js/stdlib/commit/77ecc3afbf2912bb05a5d995439e04e26017db34) - **docs:** update REPL namespace documentation [(#2501)](https://github.com/stdlib-js/stdlib/pull/2501) _(by stdlib-bot, Athan Reines)_
 -   [`d2d46ed`](https://github.com/stdlib-js/stdlib/commit/d2d46ed18a02ef8c87a8a896c4bd4b46343a631b) - **docs:** update REPL namespace documentation [(#2492)](https://github.com/stdlib-js/stdlib/pull/2492) _(by stdlib-bot, Athan Reines)_
