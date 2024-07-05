@@ -271,6 +271,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`243ab4d`](https://github.com/stdlib-js/stdlib/commit/243ab4d0fbd85acb68e4d394fac8d84011621a44) - **test:** fix failing tests in the REPL [(#2516)](https://github.com/stdlib-js/stdlib/pull/2516) _(by Snehil Shah)_
 -   [`350aa53`](https://github.com/stdlib-js/stdlib/commit/350aa5304430dc8b29acbfcecd9e23f9780bd5a1) - **docs:** update REPL namespace documentation [(#2515)](https://github.com/stdlib-js/stdlib/pull/2515) _(by stdlib-bot, Athan Reines)_
 -   [`7ba179c`](https://github.com/stdlib-js/stdlib/commit/7ba179c7f5084a9b39e22282b02e756c9671d6d8) - **feat:** add bracketed-paste mode in the REPL [(#2502)](https://github.com/stdlib-js/stdlib/pull/2502) _(by Snehil Shah, Athan Reines)_
 -   [`fc67e61`](https://github.com/stdlib-js/stdlib/commit/fc67e61cc8ee361df87fdceae53d32baaa4b54ff) - **docs:** update REPL namespace documentation [(#2511)](https://github.com/stdlib-js/stdlib/pull/2511) _(by stdlib-bot, Athan Reines)_
