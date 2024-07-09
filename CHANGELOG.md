@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-05)
+## Unreleased (2024-07-09)
 
 <section class="packages">
 
@@ -40,6 +40,7 @@
 
 ##### Bug Fixes
 
+-   [`3efb708`](https://github.com/stdlib-js/stdlib/commit/3efb708f62e31603de837db5621522471046b27d) - address duplicate token bug when syntax-highlighting [(#2542)](https://github.com/stdlib-js/stdlib/pull/2542)
 -   [`d2cd4c3`](https://github.com/stdlib-js/stdlib/commit/d2cd4c355302240f3cc5ea050d349715925be744) - pass options when parsing to suppress warnings in the REPL [(#2430)](https://github.com/stdlib-js/stdlib/pull/2430)
 -   [`1036087`](https://github.com/stdlib-js/stdlib/commit/1036087c00b59cc981530e66b3aaa1966c6e74e0) - prevent access if properties couldn't be resolved when syntax highlighting in the REPL [(##2412)](#2412)
 -   [`9f3dcaf`](https://github.com/stdlib-js/stdlib/commit/9f3dcaf4d19fde9e7066f7dc12a49cf87e6fd0f7) - update error message
@@ -271,6 +272,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`3efb708`](https://github.com/stdlib-js/stdlib/commit/3efb708f62e31603de837db5621522471046b27d) - **fix:** address duplicate token bug when syntax-highlighting [(#2542)](https://github.com/stdlib-js/stdlib/pull/2542) _(by Snehil Shah)_
 -   [`243ab4d`](https://github.com/stdlib-js/stdlib/commit/243ab4d0fbd85acb68e4d394fac8d84011621a44) - **test:** fix failing tests in the REPL [(#2516)](https://github.com/stdlib-js/stdlib/pull/2516) _(by Snehil Shah)_
 -   [`350aa53`](https://github.com/stdlib-js/stdlib/commit/350aa5304430dc8b29acbfcecd9e23f9780bd5a1) - **docs:** update REPL namespace documentation [(#2515)](https://github.com/stdlib-js/stdlib/pull/2515) _(by stdlib-bot, Athan Reines)_
 -   [`7ba179c`](https://github.com/stdlib-js/stdlib/commit/7ba179c7f5084a9b39e22282b02e756c9671d6d8) - **feat:** add bracketed-paste mode in the REPL [(#2502)](https://github.com/stdlib-js/stdlib/pull/2502) _(by Snehil Shah, Athan Reines)_
