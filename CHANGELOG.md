@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-09)
+## Unreleased (2024-07-12)
 
 <section class="packages">
 
@@ -272,6 +272,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`8751c3d`](https://github.com/stdlib-js/stdlib/commit/8751c3d047ee41fa9b12901121180416484f5348) - **docs:** update REPL namespace documentation [(#2570)](https://github.com/stdlib-js/stdlib/pull/2570) _(by stdlib-bot, Athan Reines)_
 -   [`3efb708`](https://github.com/stdlib-js/stdlib/commit/3efb708f62e31603de837db5621522471046b27d) - **fix:** address duplicate token bug when syntax-highlighting [(#2542)](https://github.com/stdlib-js/stdlib/pull/2542) _(by Snehil Shah)_
 -   [`243ab4d`](https://github.com/stdlib-js/stdlib/commit/243ab4d0fbd85acb68e4d394fac8d84011621a44) - **test:** fix failing tests in the REPL [(#2516)](https://github.com/stdlib-js/stdlib/pull/2516) _(by Snehil Shah)_
 -   [`350aa53`](https://github.com/stdlib-js/stdlib/commit/350aa5304430dc8b29acbfcecd9e23f9780bd5a1) - **docs:** update REPL namespace documentation [(#2515)](https://github.com/stdlib-js/stdlib/pull/2515) _(by stdlib-bot, Athan Reines)_
