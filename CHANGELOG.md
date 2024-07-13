@@ -272,6 +272,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`b184238`](https://github.com/stdlib-js/stdlib/commit/b184238b9400c26d444ba5e843002641702b58e5) - **docs:** update REPL namespace documentation [(#2583)](https://github.com/stdlib-js/stdlib/pull/2583) _(by stdlib-bot, Athan Reines)_
 -   [`f35fdd1`](https://github.com/stdlib-js/stdlib/commit/f35fdd13e3fea642378db323489aef31b0d3612a) - **docs:** update REPL namespace documentation [(#2581)](https://github.com/stdlib-js/stdlib/pull/2581) _(by stdlib-bot, Athan Reines)_
 -   [`8751c3d`](https://github.com/stdlib-js/stdlib/commit/8751c3d047ee41fa9b12901121180416484f5348) - **docs:** update REPL namespace documentation [(#2570)](https://github.com/stdlib-js/stdlib/pull/2570) _(by stdlib-bot, Athan Reines)_
 -   [`3efb708`](https://github.com/stdlib-js/stdlib/commit/3efb708f62e31603de837db5621522471046b27d) - **fix:** address duplicate token bug when syntax-highlighting [(#2542)](https://github.com/stdlib-js/stdlib/pull/2542) _(by Snehil Shah)_
