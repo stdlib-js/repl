@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-13)
+## Unreleased (2024-07-15)
 
 <section class="packages">
 
@@ -272,6 +272,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`60d2ac3`](https://github.com/stdlib-js/stdlib/commit/60d2ac3e0057d35e6b2208426cc354320172e471) - **docs:** update REPL namespace documentation [(#2608)](https://github.com/stdlib-js/stdlib/pull/2608) _(by stdlib-bot, Athan Reines)_
 -   [`1dc058b`](https://github.com/stdlib-js/stdlib/commit/1dc058b58ad228b9b0d2ca29055a4243473bbddf) - **docs:** update REPL namespace documentation [(#2594)](https://github.com/stdlib-js/stdlib/pull/2594) _(by stdlib-bot, Athan Reines)_
 -   [`6a106fb`](https://github.com/stdlib-js/stdlib/commit/6a106fb22401248973ca13b614a01712acbd5108) - **docs:** update REPL namespace documentation [(#2592)](https://github.com/stdlib-js/stdlib/pull/2592) _(by stdlib-bot, Athan Reines)_
 -   [`b184238`](https://github.com/stdlib-js/stdlib/commit/b184238b9400c26d444ba5e843002641702b58e5) - **docs:** update REPL namespace documentation [(#2583)](https://github.com/stdlib-js/stdlib/pull/2583) _(by stdlib-bot, Athan Reines)_
