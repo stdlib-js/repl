@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-15)
+## Unreleased (2024-07-16)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`07e6c5a`](https://github.com/stdlib-js/stdlib/commit/07e6c5a761733e6df1258f3b35b75e2b271fcbed) - allow cycling through multiline commands using up/down in the REPL
 -   [`7ba179c`](https://github.com/stdlib-js/stdlib/commit/7ba179c7f5084a9b39e22282b02e756c9671d6d8) - add bracketed-paste mode in the REPL [(#2502)](https://github.com/stdlib-js/stdlib/pull/2502)
 -   [`1d49bc6`](https://github.com/stdlib-js/stdlib/commit/1d49bc691bce0634e7b0508ff495fca733c48a4c) - add UX to cycle through completions in the REPL [(#2463)](https://github.com/stdlib-js/stdlib/pull/2463)
 -   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347)
@@ -272,6 +273,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`07e6c5a`](https://github.com/stdlib-js/stdlib/commit/07e6c5a761733e6df1258f3b35b75e2b271fcbed) - **feat:** allow cycling through multiline commands using up/down in the REPL _(by Snehil Shah, Athan Reines)_
 -   [`60d2ac3`](https://github.com/stdlib-js/stdlib/commit/60d2ac3e0057d35e6b2208426cc354320172e471) - **docs:** update REPL namespace documentation [(#2608)](https://github.com/stdlib-js/stdlib/pull/2608) _(by stdlib-bot, Athan Reines)_
 -   [`1dc058b`](https://github.com/stdlib-js/stdlib/commit/1dc058b58ad228b9b0d2ca29055a4243473bbddf) - **docs:** update REPL namespace documentation [(#2594)](https://github.com/stdlib-js/stdlib/pull/2594) _(by stdlib-bot, Athan Reines)_
 -   [`6a106fb`](https://github.com/stdlib-js/stdlib/commit/6a106fb22401248973ca13b614a01712acbd5108) - **docs:** update REPL namespace documentation [(#2592)](https://github.com/stdlib-js/stdlib/pull/2592) _(by stdlib-bot, Athan Reines)_
