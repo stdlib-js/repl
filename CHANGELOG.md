@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-16)
+## Unreleased (2024-07-18)
 
 <section class="packages">
 
@@ -273,6 +273,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`203021c`](https://github.com/stdlib-js/stdlib/commit/203021c9da83f016ffd95e454fa057d8cc37b0ff) - **docs:** update REPL namespace documentation [(##2622)](#2622) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`07e6c5a`](https://github.com/stdlib-js/stdlib/commit/07e6c5a761733e6df1258f3b35b75e2b271fcbed) - **feat:** allow cycling through multiline commands using up/down in the REPL _(by Snehil Shah, Athan Reines)_
 -   [`60d2ac3`](https://github.com/stdlib-js/stdlib/commit/60d2ac3e0057d35e6b2208426cc354320172e471) - **docs:** update REPL namespace documentation [(#2608)](https://github.com/stdlib-js/stdlib/pull/2608) _(by stdlib-bot, Athan Reines)_
 -   [`1dc058b`](https://github.com/stdlib-js/stdlib/commit/1dc058b58ad228b9b0d2ca29055a4243473bbddf) - **docs:** update REPL namespace documentation [(#2594)](https://github.com/stdlib-js/stdlib/pull/2594) _(by stdlib-bot, Athan Reines)_
