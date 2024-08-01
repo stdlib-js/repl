@@ -274,6 +274,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`19abe48`](https://github.com/stdlib-js/stdlib/commit/19abe4839bccbe8b48fbe92f5fe9737f304a5cd9) - **docs:** update REPL namespace documentation [(#2722)](https://github.com/stdlib-js/stdlib/pull/2722) _(by stdlib-bot, Athan Reines)_
 -   [`9147f69`](https://github.com/stdlib-js/stdlib/commit/9147f69c07d3beda24bfa63870694fbf7500d707) - **fix:** `example` command hanging in REPL when executing multi-line code _(by Snehil Shah)_
 -   [`70eb789`](https://github.com/stdlib-js/stdlib/commit/70eb789d85da0d8470a61b28ed0a80ee1009d179) - **docs:** update REPL namespace documentation [(#2682)](https://github.com/stdlib-js/stdlib/pull/2682) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`cde60a1`](https://github.com/stdlib-js/stdlib/commit/cde60a1467279750ff2251c5663e99fb7983841a) - **docs:** update REPL namespace documentation [(#2643)](https://github.com/stdlib-js/stdlib/pull/2643) _(by stdlib-bot, Athan Reines)_
