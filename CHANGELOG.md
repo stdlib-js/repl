@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-08)
+## Unreleased (2024-08-10)
 
 <section class="packages">
 
@@ -41,6 +41,7 @@
 
 ##### Bug Fixes
 
+-   [`ea8303e`](https://github.com/stdlib-js/stdlib/commit/ea8303ef51c9543e3c9b3851fb2ad0a5e8dfee01) - handle tokens where start idx is greater than end idx [(#2770)](https://github.com/stdlib-js/stdlib/pull/2770)
 -   [`e9c6d40`](https://github.com/stdlib-js/stdlib/commit/e9c6d40b6d4d382f39d2000c1996bd7ccb38bb29) - remove syntax highlighting upon encountering invalid JS [(#2758)](https://github.com/stdlib-js/stdlib/pull/2758)
 -   [`9147f69`](https://github.com/stdlib-js/stdlib/commit/9147f69c07d3beda24bfa63870694fbf7500d707) - `example` command hanging in REPL when executing multi-line code
 -   [`3efb708`](https://github.com/stdlib-js/stdlib/commit/3efb708f62e31603de837db5621522471046b27d) - address duplicate token bug when syntax-highlighting [(#2542)](https://github.com/stdlib-js/stdlib/pull/2542)
@@ -275,6 +276,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ea8303e`](https://github.com/stdlib-js/stdlib/commit/ea8303ef51c9543e3c9b3851fb2ad0a5e8dfee01) - **fix:** handle tokens where start idx is greater than end idx [(#2770)](https://github.com/stdlib-js/stdlib/pull/2770) _(by Snehil Shah)_
 -   [`e9c6d40`](https://github.com/stdlib-js/stdlib/commit/e9c6d40b6d4d382f39d2000c1996bd7ccb38bb29) - **fix:** remove syntax highlighting upon encountering invalid JS [(#2758)](https://github.com/stdlib-js/stdlib/pull/2758) _(by Snehil Shah)_
 -   [`19abe48`](https://github.com/stdlib-js/stdlib/commit/19abe4839bccbe8b48fbe92f5fe9737f304a5cd9) - **docs:** update REPL namespace documentation [(#2722)](https://github.com/stdlib-js/stdlib/pull/2722) _(by stdlib-bot, Athan Reines)_
 -   [`9147f69`](https://github.com/stdlib-js/stdlib/commit/9147f69c07d3beda24bfa63870694fbf7500d707) - **fix:** `example` command hanging in REPL when executing multi-line code _(by Snehil Shah)_
