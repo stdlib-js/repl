@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-10)
+## Unreleased (2024-08-11)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`07e6c5a`](https://github.com/stdlib-js/stdlib/commit/07e6c5a761733e6df1258f3b35b75e2b271fcbed) - allow cycling through multiline commands using up/down in the REPL
 -   [`7ba179c`](https://github.com/stdlib-js/stdlib/commit/7ba179c7f5084a9b39e22282b02e756c9671d6d8) - add bracketed-paste mode in the REPL [(#2502)](https://github.com/stdlib-js/stdlib/pull/2502)
 -   [`1d49bc6`](https://github.com/stdlib-js/stdlib/commit/1d49bc691bce0634e7b0508ff495fca733c48a4c) - add UX to cycle through completions in the REPL [(#2463)](https://github.com/stdlib-js/stdlib/pull/2463)
@@ -86,6 +87,7 @@ A total of 7 issues were closed in this release:
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
@@ -120,6 +122,7 @@ A total of 7 issues were closed in this release:
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
@@ -276,6 +279,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - **feat:** add `nditerSelectDimension` to namespace _(by Athan Reines)_
 -   [`ea8303e`](https://github.com/stdlib-js/stdlib/commit/ea8303ef51c9543e3c9b3851fb2ad0a5e8dfee01) - **fix:** handle tokens where start idx is greater than end idx [(#2770)](https://github.com/stdlib-js/stdlib/pull/2770) _(by Snehil Shah)_
 -   [`e9c6d40`](https://github.com/stdlib-js/stdlib/commit/e9c6d40b6d4d382f39d2000c1996bd7ccb38bb29) - **fix:** remove syntax highlighting upon encountering invalid JS [(#2758)](https://github.com/stdlib-js/stdlib/pull/2758) _(by Snehil Shah)_
 -   [`19abe48`](https://github.com/stdlib-js/stdlib/commit/19abe4839bccbe8b48fbe92f5fe9737f304a5cd9) - **docs:** update REPL namespace documentation [(#2722)](https://github.com/stdlib-js/stdlib/pull/2722) _(by stdlib-bot, Athan Reines)_
