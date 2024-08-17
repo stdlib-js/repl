@@ -298,6 +298,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`5f8d50d`](https://github.com/stdlib-js/stdlib/commit/5f8d50df14363d06b37b9d551143fc46d90c79bd) - **docs:** update REPL docs _(by Athan Reines)_
 -   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - **feat:** add `ndarraylike2ndarray` to namespace _(by Athan Reines)_
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - **feat:** add `nditerInterleaveSubarrays` to namespace _(by Athan Reines)_
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - **feat:** add `nditerStacks` to namespace _(by Athan Reines)_
