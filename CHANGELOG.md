@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.1">
+
+## 0.3.1 (2024-08-18)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-08-17)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="repl-unreleased">
+<section class="package" id="repl-v0.3.0">
 
 #### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
 
@@ -78,7 +88,7 @@ A total of 7 issues were closed in this release:
 
 <!-- /.package -->
 
-<section class="package" id="repl-code-blocks-unreleased">
+<section class="package" id="repl-code-blocks-v0.3.0">
 
 #### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
 
@@ -117,7 +127,7 @@ A total of 7 issues were closed in this release:
 
 <!-- /.package -->
 
-<section class="package" id="repl-help-unreleased">
+<section class="package" id="repl-help-v0.3.0">
 
 #### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
 
@@ -156,7 +166,7 @@ A total of 7 issues were closed in this release:
 
 <!-- /.package -->
 
-<section class="package" id="repl-info-unreleased">
+<section class="package" id="repl-info-v0.3.0">
 
 #### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
 
@@ -190,7 +200,7 @@ A total of 7 issues were closed in this release:
 
 <!-- /.package -->
 
-<section class="package" id="repl-signature-unreleased">
+<section class="package" id="repl-signature-v0.3.0">
 
 #### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
 
@@ -224,7 +234,7 @@ A total of 7 issues were closed in this release:
 
 <!-- /.package -->
 
-<section class="package" id="repl-typed-signature-unreleased">
+<section class="package" id="repl-typed-signature-v0.3.0">
 
 #### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
 
