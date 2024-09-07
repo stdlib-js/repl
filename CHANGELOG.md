@@ -4,23 +4,70 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-01)
+## Unreleased (2024-09-07)
 
 <section class="packages">
 
 ### Packages
 
+<section class="package" id="repl-unreleased">
+
+#### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
+
+<details>
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`890427d`](https://github.com/stdlib-js/stdlib/commit/890427dadc0cf66b1569bb0ad739bb63abbf620e) - update completer to generate REPL completions for member expressions [(#2883)](https://github.com/stdlib-js/stdlib/pull/2883)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#2882](https://github.com/stdlib-js/stdlib/issues/2882)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#2882](https://github.com/stdlib-js/stdlib/issues/2882)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="contributors">
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Snehil Shah
 
 </section>
 
@@ -32,6 +79,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`890427d`](https://github.com/stdlib-js/stdlib/commit/890427dadc0cf66b1569bb0ad739bb63abbf620e) - **fix:** update completer to generate REPL completions for member expressions [(#2883)](https://github.com/stdlib-js/stdlib/pull/2883) _(by Snehil Shah)_
 -   [`cf3e438`](https://github.com/stdlib-js/stdlib/commit/cf3e438ecf31260a2ebff08f6477bb4d29e8440f) - **docs:** update REPL docs _(by Athan Reines)_
 
 </details>
