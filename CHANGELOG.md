@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-07)
+## Unreleased (2024-09-09)
 
 <section class="packages">
 
@@ -15,6 +15,16 @@
 #### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
 
 <details>
+
+<section class="features">
+
+##### Features
+
+-   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
+
+</section>
+
+<!-- /.features -->
 
 <section class="bug-fixes">
 
@@ -37,6 +47,50 @@ This release closes the following issue:
 </section>
 
 <!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-code-blocks-unreleased">
+
+#### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-help-unreleased">
+
+#### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
+
+</section>
+
+<!-- /.features -->
 
 </details>
 
@@ -79,6 +133,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - **feat:** add `isSameArrayLike` to namespace _(by Athan Reines)_
 -   [`890427d`](https://github.com/stdlib-js/stdlib/commit/890427dadc0cf66b1569bb0ad739bb63abbf620e) - **fix:** update completer to generate REPL completions for member expressions [(#2883)](https://github.com/stdlib-js/stdlib/pull/2883) _(by Snehil Shah)_
 -   [`cf3e438`](https://github.com/stdlib-js/stdlib/commit/cf3e438ecf31260a2ebff08f6477bb4d29e8440f) - **docs:** update REPL docs _(by Athan Reines)_
 
