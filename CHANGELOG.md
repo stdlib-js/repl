@@ -64,6 +64,7 @@ This release closes the following issue:
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -86,7 +87,74 @@ This release closes the following issue:
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-info-unreleased">
+
+#### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-signature-unreleased">
+
+#### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-typed-signature-unreleased">
+
+#### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 
 </section>
 
@@ -133,6 +201,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - **feat:** add `isEqualArray` to namespace _(by Athan Reines)_
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - **feat:** add `isSameArrayLike` to namespace _(by Athan Reines)_
 -   [`890427d`](https://github.com/stdlib-js/stdlib/commit/890427dadc0cf66b1569bb0ad739bb63abbf620e) - **fix:** update completer to generate REPL completions for member expressions [(#2883)](https://github.com/stdlib-js/stdlib/pull/2883) _(by Snehil Shah)_
 -   [`cf3e438`](https://github.com/stdlib-js/stdlib/commit/cf3e438ecf31260a2ebff08f6477bb4d29e8440f) - **docs:** update REPL docs _(by Athan Reines)_
