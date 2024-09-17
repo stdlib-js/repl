@@ -1464,7 +1464,7 @@ In [3]: varsWorkspace( 'base', { 'details': true } )
 
 #### workspace( name )
 
-Switch to a specified workspace.
+Switches to a specified workspace.
 
 ```text
 In [1]: workspace( 'foobar' );

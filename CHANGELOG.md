@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-16)
+## Unreleased (2024-09-17)
 
 <section class="packages">
 
@@ -201,9 +201,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   Snehil Shah
 
 </section>
@@ -216,6 +217,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - **feat:** add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace _(by Athan Reines)_
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - **feat:** add `hasBtoaSupport` to namespace _(by Athan Reines)_
 -   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - **feat:** add `hasAtobSupport` to namespace _(by Athan Reines)_
