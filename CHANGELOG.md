@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-17)
+## Unreleased (2024-09-20)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -64,6 +65,7 @@ This release closes the following issue:
 
 ##### Features
 
+-   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
 -   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
@@ -90,6 +92,7 @@ This release closes the following issue:
 
 ##### Features
 
+-   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
 -   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
@@ -116,6 +119,7 @@ This release closes the following issue:
 
 ##### Features
 
+-   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
 -   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
@@ -141,6 +145,7 @@ This release closes the following issue:
 
 ##### Features
 
+-   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
 -   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
@@ -166,6 +171,7 @@ This release closes the following issue:
 
 ##### Features
 
+-   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
 -   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
@@ -217,6 +223,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - **feat:** add `isndarrayLikeWithDataType` to namespace _(by Athan Reines)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - **feat:** add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace _(by Athan Reines)_
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - **feat:** add `hasBtoaSupport` to namespace _(by Athan Reines)_
