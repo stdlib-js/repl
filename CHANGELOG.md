@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.3">
+
+## 0.3.3 (2024-11-05)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.2">
 
 ## 0.3.2 (2024-11-05)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="repl-unreleased">
+<section class="package" id="repl-v0.3.2">
 
 #### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
 
@@ -56,7 +66,7 @@ This release closes the following issue:
 
 <!-- /.package -->
 
-<section class="package" id="repl-code-blocks-unreleased">
+<section class="package" id="repl-code-blocks-v0.3.2">
 
 #### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
 
@@ -84,7 +94,7 @@ This release closes the following issue:
 
 <!-- /.package -->
 
-<section class="package" id="repl-help-unreleased">
+<section class="package" id="repl-help-v0.3.2">
 
 #### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
 
@@ -112,7 +122,7 @@ This release closes the following issue:
 
 <!-- /.package -->
 
-<section class="package" id="repl-info-unreleased">
+<section class="package" id="repl-info-v0.3.2">
 
 #### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
 
@@ -139,7 +149,7 @@ This release closes the following issue:
 
 <!-- /.package -->
 
-<section class="package" id="repl-signature-unreleased">
+<section class="package" id="repl-signature-v0.3.2">
 
 #### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
 
@@ -166,7 +176,7 @@ This release closes the following issue:
 
 <!-- /.package -->
 
-<section class="package" id="repl-typed-signature-unreleased">
+<section class="package" id="repl-typed-signature-v0.3.2">
 
 #### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
 
