@@ -2,6 +2,48 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-11-20)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`4b1d77d`](https://github.com/stdlib-js/stdlib/commit/4b1d77d2bd001d5970ce93230765a579fb41349d) - **docs:** update REPL namespace documentation [(#3191)](https://github.com/stdlib-js/stdlib/pull/3191) _(by stdlib-bot, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.3">
 
 ## 0.3.3 (2024-11-05)
