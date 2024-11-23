@@ -4,11 +4,33 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-20)
+## Unreleased (2024-11-23)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="repl-unreleased">
+
+#### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`917119f`](https://github.com/stdlib-js/stdlib/commit/917119ffdb42b1c15214e4accaa928b279bcd17b) - add support for custom keybindings and editor actions in the REPL [(#2739)](https://github.com/stdlib-js/stdlib/pull/2739)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 </section>
 
@@ -18,9 +40,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
+-   Snehil Shah
 
 </section>
 
@@ -32,6 +56,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`917119f`](https://github.com/stdlib-js/stdlib/commit/917119ffdb42b1c15214e4accaa928b279bcd17b) - **feat:** add support for custom keybindings and editor actions in the REPL [(#2739)](https://github.com/stdlib-js/stdlib/pull/2739) _(by Snehil Shah, Athan Reines)_
 -   [`4b1d77d`](https://github.com/stdlib-js/stdlib/commit/4b1d77d2bd001d5970ce93230765a579fb41349d) - **docs:** update REPL namespace documentation [(#3191)](https://github.com/stdlib-js/stdlib/pull/3191) _(by stdlib-bot, Philipp Burckhardt)_
 
 </details>
