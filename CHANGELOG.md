@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-24)
+## Unreleased (2024-11-25)
 
 <section class="packages">
 
@@ -56,6 +56,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`c314fa2`](https://github.com/stdlib-js/stdlib/commit/c314fa2199b8bd2deaac417184a363e5272767a5) - **docs:** update REPL namespace documentation [(#3260)](https://github.com/stdlib-js/stdlib/pull/3260) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`136231d`](https://github.com/stdlib-js/stdlib/commit/136231d9a98f773662721f5f292cf50220deafc5) - **docs:** update REPL namespace documentation [(#3244)](https://github.com/stdlib-js/stdlib/pull/3244) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`917119f`](https://github.com/stdlib-js/stdlib/commit/917119ffdb42b1c15214e4accaa928b279bcd17b) - **feat:** add support for custom keybindings and editor actions in the REPL [(#2739)](https://github.com/stdlib-js/stdlib/pull/2739) _(by Snehil Shah, Athan Reines)_
 -   [`4b1d77d`](https://github.com/stdlib-js/stdlib/commit/4b1d77d2bd001d5970ce93230765a579fb41349d) - **docs:** update REPL namespace documentation [(#3191)](https://github.com/stdlib-js/stdlib/pull/3191) _(by stdlib-bot, Philipp Burckhardt)_
