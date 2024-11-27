@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-26)
+## Unreleased (2024-11-27)
 
 <section class="packages">
 
@@ -56,6 +56,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9a17ee3`](https://github.com/stdlib-js/stdlib/commit/9a17ee335a8976668e06b0a41f4b19cb52380b5b) - **docs:** update REPL namespace documentation [(#3276)](https://github.com/stdlib-js/stdlib/pull/3276) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`875c99b`](https://github.com/stdlib-js/stdlib/commit/875c99b2678d23e498677e367d5cd6079d0f55fb) - **docs:** update REPL namespace documentation [(#3265)](https://github.com/stdlib-js/stdlib/pull/3265) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`c314fa2`](https://github.com/stdlib-js/stdlib/commit/c314fa2199b8bd2deaac417184a363e5272767a5) - **docs:** update REPL namespace documentation [(#3260)](https://github.com/stdlib-js/stdlib/pull/3260) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`136231d`](https://github.com/stdlib-js/stdlib/commit/136231d9a98f773662721f5f292cf50220deafc5) - **docs:** update REPL namespace documentation [(#3244)](https://github.com/stdlib-js/stdlib/pull/3244) _(by stdlib-bot, Philipp Burckhardt)_
