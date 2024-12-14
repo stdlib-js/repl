@@ -32,6 +32,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="repl-help-unreleased">
+
+#### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -56,6 +78,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - **feat:** add `ndmap` and `ndfilter` to namespace _(by Athan Reines)_
 -   [`05e89d4`](https://github.com/stdlib-js/stdlib/commit/05e89d4f958c0363eddb9e18e1610289e8d64377) - **docs:** update REPL namespace documentation [(#3901)](https://github.com/stdlib-js/stdlib/pull/3901) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`3ca45d4`](https://github.com/stdlib-js/stdlib/commit/3ca45d4730ad8d978e424697e9bffc5bc5ba6680) - **docs:** update REPL namespace documentation [(#3381)](https://github.com/stdlib-js/stdlib/pull/3381) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`911e839`](https://github.com/stdlib-js/stdlib/commit/911e839cdb47eaed4d3f87f9b22d337c872fbbb3) - **docs:** update REPL namespace documentation [(#3372)](https://github.com/stdlib-js/stdlib/pull/3372) _(by stdlib-bot, Philipp Burckhardt)_
