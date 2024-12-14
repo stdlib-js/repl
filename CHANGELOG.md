@@ -32,6 +32,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="repl-code-blocks-unreleased">
+
+#### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="repl-help-unreleased">
 
 #### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
@@ -42,7 +64,74 @@
 
 ##### Features
 
+-   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
 -   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-info-unreleased">
+
+#### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-signature-unreleased">
+
+#### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="repl-typed-signature-unreleased">
+
+#### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
 
 </section>
 
@@ -78,6 +167,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - **feat:** add `ndreject` to namespace _(by Athan Reines)_
 -   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - **feat:** add `ndmap` and `ndfilter` to namespace _(by Athan Reines)_
 -   [`05e89d4`](https://github.com/stdlib-js/stdlib/commit/05e89d4f958c0363eddb9e18e1610289e8d64377) - **docs:** update REPL namespace documentation [(#3901)](https://github.com/stdlib-js/stdlib/pull/3901) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`3ca45d4`](https://github.com/stdlib-js/stdlib/commit/3ca45d4730ad8d978e424697e9bffc5bc5ba6680) - **docs:** update REPL namespace documentation [(#3381)](https://github.com/stdlib-js/stdlib/pull/3381) _(by stdlib-bot, Philipp Burckhardt)_
