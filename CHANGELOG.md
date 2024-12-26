@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2024-12-26)
 
 <section class="packages">
 
@@ -174,6 +174,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`87f80c5`](https://github.com/stdlib-js/stdlib/commit/87f80c54979f503d87b8a630a57a32ec461dda89) - **docs:** update REPL namespace documentation [(#4244)](https://github.com/stdlib-js/stdlib/pull/4244) _(by stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`4b70046`](https://github.com/stdlib-js/stdlib/commit/4b70046a90794cfab03c25c4a796edfd0c7a89a6) - **docs:** update REPL docs _(by Athan Reines)_
 -   [`fa0ac0e`](https://github.com/stdlib-js/stdlib/commit/fa0ac0ec61a0137144d4fbfb886db49a0fa98f60) - **docs:** update REPL namespace documentation [(#4115)](https://github.com/stdlib-js/stdlib/pull/4115) _(by stdlib-bot, Philipp Burckhardt)_
