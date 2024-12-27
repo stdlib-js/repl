@@ -158,11 +158,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
 -   Snehil Shah
+-   Vinit Pandit
 
 </section>
 
@@ -174,6 +175,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ff3b298`](https://github.com/stdlib-js/stdlib/commit/ff3b29838a24c64004d792c8b2f8305f6d4f7b6c) - **docs:** fix copy-paste error in source comment [(#4280)](https://github.com/stdlib-js/stdlib/pull/4280) _(by Vinit Pandit)_
 -   [`bcd06cf`](https://github.com/stdlib-js/stdlib/commit/bcd06cfb0b7e8f4b0e623ebd462b77a3510e2795) - **docs:** update REPL namespace documentation [(#4267)](https://github.com/stdlib-js/stdlib/pull/4267) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`87f80c5`](https://github.com/stdlib-js/stdlib/commit/87f80c54979f503d87b8a630a57a32ec461dda89) - **docs:** update REPL namespace documentation [(#4244)](https://github.com/stdlib-js/stdlib/pull/4244) _(by stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
