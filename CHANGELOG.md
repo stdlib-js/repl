@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-31)
+## Unreleased (2025-01-01)
 
 <section class="packages">
 
@@ -180,6 +180,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`b718cde`](https://github.com/stdlib-js/stdlib/commit/b718cde9cbff4b49da9caa3282dc72969243903b) - **docs:** update REPL namespace documentation [(#4427)](https://github.com/stdlib-js/stdlib/pull/4427) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`8d7f8e2`](https://github.com/stdlib-js/stdlib/commit/8d7f8e26975ffa5ca2ff11a24eac5f3bba589104) - **refactor:** add specialized handling for displaying ndarrays _(by Athan Reines)_
 -   [`109c303`](https://github.com/stdlib-js/stdlib/commit/109c3034461f70d36339206cf05237230aba0902) - **docs:** update REPL namespace documentation [(#4364)](https://github.com/stdlib-js/stdlib/pull/4364) _(by stdlib-bot)_
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - **feat:** add ndarray APIs and float32 constants to namespace _(by Athan Reines)_
