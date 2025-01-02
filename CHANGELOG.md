@@ -27,6 +27,16 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`2de9ed7`](https://github.com/stdlib-js/stdlib/commit/2de9ed76d79a2f10a26a5246077199cf70819a89) - guard against proxy traps raising exceptions in REPL tokenizer [(#4457)](https://github.com/stdlib-js/stdlib/pull/4457)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 </details>
 
 </section>
@@ -180,6 +190,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`2de9ed7`](https://github.com/stdlib-js/stdlib/commit/2de9ed76d79a2f10a26a5246077199cf70819a89) - **fix:** guard against proxy traps raising exceptions in REPL tokenizer [(#4457)](https://github.com/stdlib-js/stdlib/pull/4457) _(by Snehil Shah)_
 -   [`8dfa851`](https://github.com/stdlib-js/stdlib/commit/8dfa8515051fc7dde731cd8373b17377c7f015b8) - **docs:** update REPL namespace documentation [(#4447)](https://github.com/stdlib-js/stdlib/pull/4447) _(by stdlib-bot)_
 -   [`b718cde`](https://github.com/stdlib-js/stdlib/commit/b718cde9cbff4b49da9caa3282dc72969243903b) - **docs:** update REPL namespace documentation [(#4427)](https://github.com/stdlib-js/stdlib/pull/4427) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`8d7f8e2`](https://github.com/stdlib-js/stdlib/commit/8d7f8e26975ffa5ca2ff11a24eac5f3bba589104) - **refactor:** add specialized handling for displaying ndarrays _(by Athan Reines)_
