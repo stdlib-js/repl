@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-01)
+## Unreleased (2025-01-02)
 
 <section class="packages">
 
@@ -180,6 +180,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`8dfa851`](https://github.com/stdlib-js/stdlib/commit/8dfa8515051fc7dde731cd8373b17377c7f015b8) - **docs:** update REPL namespace documentation [(#4447)](https://github.com/stdlib-js/stdlib/pull/4447) _(by stdlib-bot)_
 -   [`b718cde`](https://github.com/stdlib-js/stdlib/commit/b718cde9cbff4b49da9caa3282dc72969243903b) - **docs:** update REPL namespace documentation [(#4427)](https://github.com/stdlib-js/stdlib/pull/4427) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`8d7f8e2`](https://github.com/stdlib-js/stdlib/commit/8d7f8e26975ffa5ca2ff11a24eac5f3bba589104) - **refactor:** add specialized handling for displaying ndarrays _(by Athan Reines)_
 -   [`109c303`](https://github.com/stdlib-js/stdlib/commit/109c3034461f70d36339206cf05237230aba0902) - **docs:** update REPL namespace documentation [(#4364)](https://github.com/stdlib-js/stdlib/pull/4364) _(by stdlib-bot)_
