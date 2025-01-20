@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-19)
+## Unreleased (2025-01-20)
 
 <section class="packages">
 
@@ -215,6 +215,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ea9828a`](https://github.com/stdlib-js/stdlib/commit/ea9828a5cc6ab326bb4e4fb4c88a621cb8e7d362) - **docs:** update REPL namespace documentation [(#4818)](https://github.com/stdlib-js/stdlib/pull/4818) _(by stdlib-bot)_
 -   [`2bbed30`](https://github.com/stdlib-js/stdlib/commit/2bbed3060f43e3d98cecff5c5b068a48f7f56d3d) - **docs:** update REPL namespace documentation [(#4810)](https://github.com/stdlib-js/stdlib/pull/4810) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`05f1fc1`](https://github.com/stdlib-js/stdlib/commit/05f1fc16a5fab47bf6584f3be948e2eba20d61ad) - **docs:** update REPL namespace documentation [(#4795)](https://github.com/stdlib-js/stdlib/pull/4795) _(by stdlib-bot)_
 -   [`6f85e44`](https://github.com/stdlib-js/stdlib/commit/6f85e44e067eb8dd189d6a80b11a4538d29f1f80) - **feat(repl):** add settings and prototype methods for keybindings [(#3331)](https://github.com/stdlib-js/stdlib/pull/3331) _(by Snehil Shah, Athan Reines)_
