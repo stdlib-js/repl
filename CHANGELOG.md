@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-24)
+## Unreleased (2025-02-02)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`6a2426c`](https://github.com/stdlib-js/stdlib/commit/6a2426c0caeb5ecb86b70dcd6b90983d99fecdd0) - add logic for eager evaluation in REPL [(#4277)](https://github.com/stdlib-js/stdlib/pull/4277)
 -   [`6f85e44`](https://github.com/stdlib-js/stdlib/commit/6f85e44e067eb8dd189d6a80b11a4538d29f1f80) - **repl:** add settings and prototype methods for keybindings [(#3331)](https://github.com/stdlib-js/stdlib/pull/3331)
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
 -   [`917119f`](https://github.com/stdlib-js/stdlib/commit/917119ffdb42b1c15214e4accaa928b279bcd17b) - add support for custom keybindings and editor actions in the REPL [(#2739)](https://github.com/stdlib-js/stdlib/pull/2739)
@@ -32,6 +33,7 @@
 
 ##### Bug Fixes
 
+-   [`da56225`](https://github.com/stdlib-js/stdlib/commit/da56225a2166c87339716018163780bbf8e8d21c) - catch unexpected errors from `acorn-loose` in REPL tokenizer [(#4956)](https://github.com/stdlib-js/stdlib/pull/4956)
 -   [`2de9ed7`](https://github.com/stdlib-js/stdlib/commit/2de9ed76d79a2f10a26a5246077199cf70819a89) - guard against proxy traps raising exceptions in REPL tokenizer [(#4457)](https://github.com/stdlib-js/stdlib/pull/4457)
 
 </section>
@@ -215,6 +217,9 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`6a2426c`](https://github.com/stdlib-js/stdlib/commit/6a2426c0caeb5ecb86b70dcd6b90983d99fecdd0) - **feat:** add logic for eager evaluation in REPL [(#4277)](https://github.com/stdlib-js/stdlib/pull/4277) _(by Vinit Pandit, Athan Reines, Snehil Shah)_
+-   [`da56225`](https://github.com/stdlib-js/stdlib/commit/da56225a2166c87339716018163780bbf8e8d21c) - **fix:** catch unexpected errors from `acorn-loose` in REPL tokenizer [(#4956)](https://github.com/stdlib-js/stdlib/pull/4956) _(by Snehil Shah)_
+-   [`cc63ccf`](https://github.com/stdlib-js/stdlib/commit/cc63ccf92c1051f6b7ac6d4684e089b9766181f3) - **docs:** update REPL namespace documentation [(#4971)](https://github.com/stdlib-js/stdlib/pull/4971) _(by stdlib-bot)_
 -   [`7aff79a`](https://github.com/stdlib-js/stdlib/commit/7aff79a20c90ad7042a8d182614f2566bde5b693) - **docs:** update REPL namespace documentation [(#4878)](https://github.com/stdlib-js/stdlib/pull/4878) _(by stdlib-bot)_
 -   [`72e5575`](https://github.com/stdlib-js/stdlib/commit/72e557573ae2d293313cd834eb8da8dd0e99ffb3) - **docs:** update REPL namespace documentation [(#4857)](https://github.com/stdlib-js/stdlib/pull/4857) _(by stdlib-bot)_
 -   [`8883b2a`](https://github.com/stdlib-js/stdlib/commit/8883b2a54364d6517f0bad59379d16615f7a07d5) - **docs:** update REPL namespace documentation [(#4844)](https://github.com/stdlib-js/stdlib/pull/4844) _(by stdlib-bot)_
