@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-02)
+## Unreleased (2025-02-03)
 
 <section class="packages">
 
@@ -217,6 +217,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9bed043`](https://github.com/stdlib-js/stdlib/commit/9bed043556e84cf5f039ce90b9d9d242dedb645d) - **docs:** update REPL namespace documentation [(#5040)](https://github.com/stdlib-js/stdlib/pull/5040) _(by stdlib-bot)_
 -   [`6a2426c`](https://github.com/stdlib-js/stdlib/commit/6a2426c0caeb5ecb86b70dcd6b90983d99fecdd0) - **feat:** add logic for eager evaluation in REPL [(#4277)](https://github.com/stdlib-js/stdlib/pull/4277) _(by Vinit Pandit, Athan Reines, Snehil Shah)_
 -   [`da56225`](https://github.com/stdlib-js/stdlib/commit/da56225a2166c87339716018163780bbf8e8d21c) - **fix:** catch unexpected errors from `acorn-loose` in REPL tokenizer [(#4956)](https://github.com/stdlib-js/stdlib/pull/4956) _(by Snehil Shah)_
 -   [`cc63ccf`](https://github.com/stdlib-js/stdlib/commit/cc63ccf92c1051f6b7ac6d4684e089b9766181f3) - **docs:** update REPL namespace documentation [(#4971)](https://github.com/stdlib-js/stdlib/pull/4971) _(by stdlib-bot)_
