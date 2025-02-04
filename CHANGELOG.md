@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`19d5ec9`](https://github.com/stdlib-js/stdlib/commit/19d5ec9452cc6e106fea60c2900d021391beedff) - add logic for eager evaluation of additional expression types [(#5053)](https://github.com/stdlib-js/stdlib/pull/5053)
 -   [`6a2426c`](https://github.com/stdlib-js/stdlib/commit/6a2426c0caeb5ecb86b70dcd6b90983d99fecdd0) - add logic for eager evaluation in REPL [(#4277)](https://github.com/stdlib-js/stdlib/pull/4277)
 -   [`6f85e44`](https://github.com/stdlib-js/stdlib/commit/6f85e44e067eb8dd189d6a80b11a4538d29f1f80) - **repl:** add settings and prototype methods for keybindings [(#3331)](https://github.com/stdlib-js/stdlib/pull/3331)
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -218,6 +219,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`19d5ec9`](https://github.com/stdlib-js/stdlib/commit/19d5ec9452cc6e106fea60c2900d021391beedff) - **feat:** add logic for eager evaluation of additional expression types [(#5053)](https://github.com/stdlib-js/stdlib/pull/5053) _(by Vinit Pandit)_
 -   [`6c52481`](https://github.com/stdlib-js/stdlib/commit/6c524811da8db39bd376d6243a24ed3fbf3a2c5f) - **docs:** update REPL namespace documentation [(#5050)](https://github.com/stdlib-js/stdlib/pull/5050) _(by stdlib-bot)_
 -   [`079b5ac`](https://github.com/stdlib-js/stdlib/commit/079b5accfe214e1131ce3406091506a31b0c574e) - **fix:** add `MemberExpression` check [(#5046)](https://github.com/stdlib-js/stdlib/pull/5046) _(by Vinit Pandit)_
 -   [`9bed043`](https://github.com/stdlib-js/stdlib/commit/9bed043556e84cf5f039ce90b9d9d242dedb645d) - **docs:** update REPL namespace documentation [(#5040)](https://github.com/stdlib-js/stdlib/pull/5040) _(by stdlib-bot)_
