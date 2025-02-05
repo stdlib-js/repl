@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-04)
+## Unreleased (2025-02-05)
 
 <section class="packages">
 
@@ -219,6 +219,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f52e3b9`](https://github.com/stdlib-js/stdlib/commit/f52e3b993e5a8f9763207968f0ac7c2dc80f2554) - **docs:** update REPL namespace documentation [(#5061)](https://github.com/stdlib-js/stdlib/pull/5061) _(by stdlib-bot)_
 -   [`19d5ec9`](https://github.com/stdlib-js/stdlib/commit/19d5ec9452cc6e106fea60c2900d021391beedff) - **feat:** add logic for eager evaluation of additional expression types [(#5053)](https://github.com/stdlib-js/stdlib/pull/5053) _(by Vinit Pandit)_
 -   [`6c52481`](https://github.com/stdlib-js/stdlib/commit/6c524811da8db39bd376d6243a24ed3fbf3a2c5f) - **docs:** update REPL namespace documentation [(#5050)](https://github.com/stdlib-js/stdlib/pull/5050) _(by stdlib-bot)_
 -   [`079b5ac`](https://github.com/stdlib-js/stdlib/commit/079b5accfe214e1131ce3406091506a31b0c574e) - **fix:** add `MemberExpression` check [(#5046)](https://github.com/stdlib-js/stdlib/pull/5046) _(by Vinit Pandit)_
