@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-06)
+## Unreleased (2025-02-09)
 
 <section class="packages">
 
@@ -219,6 +219,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`502c87c`](https://github.com/stdlib-js/stdlib/commit/502c87cea01e40e40b7cb5bba335a943e148e613) - **docs:** update REPL namespace documentation [(#5131)](https://github.com/stdlib-js/stdlib/pull/5131) _(by stdlib-bot)_
 -   [`51c17ee`](https://github.com/stdlib-js/stdlib/commit/51c17eeee374825b340a660b98056e24eab987f5) - **docs:** update REPL namespace documentation [(#5076)](https://github.com/stdlib-js/stdlib/pull/5076) _(by stdlib-bot)_
 -   [`f52e3b9`](https://github.com/stdlib-js/stdlib/commit/f52e3b993e5a8f9763207968f0ac7c2dc80f2554) - **docs:** update REPL namespace documentation [(#5061)](https://github.com/stdlib-js/stdlib/pull/5061) _(by stdlib-bot)_
 -   [`19d5ec9`](https://github.com/stdlib-js/stdlib/commit/19d5ec9452cc6e106fea60c2900d021391beedff) - **feat:** add logic for eager evaluation of additional expression types [(#5053)](https://github.com/stdlib-js/stdlib/pull/5053) _(by Vinit Pandit)_
