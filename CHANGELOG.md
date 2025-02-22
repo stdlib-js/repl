@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-21)
+## Unreleased (2025-02-22)
 
 <section class="packages">
 
@@ -219,6 +219,11 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`0625d8e`](https://github.com/stdlib-js/stdlib/commit/0625d8e45c3f5ad868b15c0999e4c1da32326dd7) - **docs:** update REPL namespace documentation [(#5365)](https://github.com/stdlib-js/stdlib/pull/5365) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`5875a2c`](https://github.com/stdlib-js/stdlib/commit/5875a2c8878cf2b966d61e886efd99b91e6793f3) - **docs:** update repl help _(by Athan Reines)_
+-   [`79dbcc6`](https://github.com/stdlib-js/stdlib/commit/79dbcc60d4d9fa8b51460b64c1961e4b985830ff) - **refactor:** update path _(by Athan Reines)_
+-   [`5c1514b`](https://github.com/stdlib-js/stdlib/commit/5c1514b6b9dcdad79252d2c3ed26fec7884172dd) - **refactor:** update path _(by Athan Reines)_
+-   [`0dce656`](https://github.com/stdlib-js/stdlib/commit/0dce656b394bedfa2da7be1afd041f6b4e0aaab8) - **refactor:** update path _(by Athan Reines)_
 -   [`d67d2d9`](https://github.com/stdlib-js/stdlib/commit/d67d2d9b20812b307da729b50475a297c00fa57c) - **docs:** update REPL namespace documentation [(#5350)](https://github.com/stdlib-js/stdlib/pull/5350) _(by stdlib-bot)_
 -   [`5831b72`](https://github.com/stdlib-js/stdlib/commit/5831b728172f2f0d09cbb08b1138823692ad54e6) - **docs:** update REPL namespace documentation [(#5331)](https://github.com/stdlib-js/stdlib/pull/5331) _(by stdlib-bot)_
 -   [`380a2b8`](https://github.com/stdlib-js/stdlib/commit/380a2b855177749b308a72136e28c8df6b7f71bb) - **docs:** update REPL namespace documentation [(#5309)](https://github.com/stdlib-js/stdlib/pull/5309) _(by stdlib-bot)_
