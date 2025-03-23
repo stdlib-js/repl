@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`19d5ec9`](https://github.com/stdlib-js/stdlib/commit/19d5ec9452cc6e106fea60c2900d021391beedff) - add logic for eager evaluation of additional expression types [(#5053)](https://github.com/stdlib-js/stdlib/pull/5053)
 -   [`6a2426c`](https://github.com/stdlib-js/stdlib/commit/6a2426c0caeb5ecb86b70dcd6b90983d99fecdd0) - add logic for eager evaluation in REPL [(#4277)](https://github.com/stdlib-js/stdlib/pull/4277)
 -   [`6f85e44`](https://github.com/stdlib-js/stdlib/commit/6f85e44e067eb8dd189d6a80b11a4538d29f1f80) - **repl:** add settings and prototype methods for keybindings [(#3331)](https://github.com/stdlib-js/stdlib/pull/3331)
@@ -94,6 +95,7 @@ A total of 2 issues were closed in this release:
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -220,6 +222,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - **feat:** add `ndfillBy` to namespace _(by Athan Reines)_
 -   [`3d9933c`](https://github.com/stdlib-js/stdlib/commit/3d9933c64e0b7bb95251b3425b046cf0af8036b2) - **docs:** update REPL namespace documentation [(#6316)](https://github.com/stdlib-js/stdlib/pull/6316) _(by stdlib-bot)_
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - **feat:** add `ndfill` to namespace _(by Athan Reines)_
 -   [`60310a4`](https://github.com/stdlib-js/stdlib/commit/60310a466ebe2a37ab66135c59cc880ca3183ade) - **docs:** fix related package _(by Athan Reines)_
