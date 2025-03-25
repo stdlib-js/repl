@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-03-25)
 
 <section class="packages">
 
@@ -222,6 +222,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`26df9b1`](https://github.com/stdlib-js/stdlib/commit/26df9b11112500578d57913e239006f758677d87) - **docs:** update REPL namespace documentation [(#6358)](https://github.com/stdlib-js/stdlib/pull/6358) _(by stdlib-bot)_
 -   [`1aa6f0f`](https://github.com/stdlib-js/stdlib/commit/1aa6f0f0ca8b33af12fea9d5546ee7f88aea4045) - **docs:** update REPL namespace documentation [(#6338)](https://github.com/stdlib-js/stdlib/pull/6338) _(by stdlib-bot)_
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - **feat:** add `ndfillBy` to namespace _(by Athan Reines)_
 -   [`3d9933c`](https://github.com/stdlib-js/stdlib/commit/3d9933c64e0b7bb95251b3425b046cf0af8036b2) - **docs:** update REPL namespace documentation [(#6316)](https://github.com/stdlib-js/stdlib/pull/6316) _(by stdlib-bot)_
