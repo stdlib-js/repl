@@ -4,27 +4,22 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-24)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="repl-unreleased">
-
-#### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
-
-<details>
+## Unreleased (2025-04-26)
 
 <section class="features">
 
-##### Features
+### Features
 
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
+-   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`19d5ec9`](https://github.com/stdlib-js/stdlib/commit/19d5ec9452cc6e106fea60c2900d021391beedff) - add logic for eager evaluation of additional expression types [(#5053)](https://github.com/stdlib-js/stdlib/pull/5053)
 -   [`6a2426c`](https://github.com/stdlib-js/stdlib/commit/6a2426c0caeb5ecb86b70dcd6b90983d99fecdd0) - add logic for eager evaluation in REPL [(#4277)](https://github.com/stdlib-js/stdlib/pull/4277)
 -   [`6f85e44`](https://github.com/stdlib-js/stdlib/commit/6f85e44e067eb8dd189d6a80b11a4538d29f1f80) - **repl:** add settings and prototype methods for keybindings [(#3331)](https://github.com/stdlib-js/stdlib/pull/3331)
+-   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
+-   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - add `ndfilterMap` to namespace
+-   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
 -   [`917119f`](https://github.com/stdlib-js/stdlib/commit/917119ffdb42b1c15214e4accaa928b279bcd17b) - add support for custom keybindings and editor actions in the REPL [(#2739)](https://github.com/stdlib-js/stdlib/pull/2739)
 
 </section>
@@ -33,7 +28,7 @@
 
 <section class="bug-fixes">
 
-##### Bug Fixes
+### Bug Fixes
 
 -   [`079b5ac`](https://github.com/stdlib-js/stdlib/commit/079b5accfe214e1131ce3406091506a31b0c574e) - add `MemberExpression` check [(#5046)](https://github.com/stdlib-js/stdlib/pull/5046)
 -   [`da56225`](https://github.com/stdlib-js/stdlib/commit/da56225a2166c87339716018163780bbf8e8d21c) - catch unexpected errors from `acorn-loose` in REPL tokenizer [(#4956)](https://github.com/stdlib-js/stdlib/pull/4956)
@@ -42,152 +37,6 @@
 </section>
 
 <!-- /.bug-fixes -->
-
-<section class="issues">
-
-##### Closed Issues
-
-A total of 2 issues were closed in this release:
-
-[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-code-blocks-unreleased">
-
-#### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
--   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - add `ndfilterMap` to namespace
--   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-help-unreleased">
-
-#### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
--   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
--   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
--   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
--   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - add `ndfilterMap` to namespace
--   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
--   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-info-unreleased">
-
-#### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
--   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - add `ndfilterMap` to namespace
--   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-signature-unreleased">
-
-#### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
--   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - add `ndfilterMap` to namespace
--   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-typed-signature-unreleased">
-
-#### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
--   [`2c01b65`](https://github.com/stdlib-js/stdlib/commit/2c01b654e7fcfae9bde232c5fdda10d14f02e30e) - add `ndfilterMap` to namespace
--   [`9ecc3d3`](https://github.com/stdlib-js/stdlib/commit/9ecc3d30b87a0d38cc7608a35024a15c920a2f29) - add `ndreject` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="issues">
 
@@ -201,27 +50,13 @@ A total of 2 issues were closed in this release:
 
 <!-- /.issues -->
 
-<section class="contributors">
-
-### Contributors
-
-A total of 4 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
--   Snehil Shah
--   Vinit Pandit
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`178ac6e`](https://github.com/stdlib-js/stdlib/commit/178ac6ee87b2e5ebf8a3c51763fc444ba433bec8) - **docs:** update REPL namespace documentation [(#6818)](https://github.com/stdlib-js/stdlib/pull/6818) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`e3cfb73`](https://github.com/stdlib-js/stdlib/commit/e3cfb73b8b77d4c5a34babcd56dece21cc5210ea) - **docs:** update REPL namespace documentation [(#6802)](https://github.com/stdlib-js/stdlib/pull/6802) _(by stdlib-bot)_
 -   [`2ae417a`](https://github.com/stdlib-js/stdlib/commit/2ae417ab03cbc2b6fb426a749cbe12843bcac257) - **docs:** update REPL namespace documentation [(#6789)](https://github.com/stdlib-js/stdlib/pull/6789) _(by stdlib-bot)_
 -   [`4d1ed1a`](https://github.com/stdlib-js/stdlib/commit/4d1ed1af10fbb497aaa1aab4806d253169958583) - **docs:** update REPL namespace documentation [(#6780)](https://github.com/stdlib-js/stdlib/pull/6780) _(by stdlib-bot)_
@@ -353,6 +188,21 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 4 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Snehil Shah
+-   Vinit Pandit
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -371,22 +221,16 @@ No changes reported for this release.
 
 ## 0.3.2 (2024-11-05)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="repl-v0.3.2">
-
-#### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
+-   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
+-   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
+-   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -395,172 +239,13 @@ No changes reported for this release.
 
 <section class="bug-fixes">
 
-##### Bug Fixes
+### Bug Fixes
 
 -   [`890427d`](https://github.com/stdlib-js/stdlib/commit/890427dadc0cf66b1569bb0ad739bb63abbf620e) - update completer to generate REPL completions for member expressions [(#2883)](https://github.com/stdlib-js/stdlib/pull/2883)
 
 </section>
 
 <!-- /.bug-fixes -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#2882](https://github.com/stdlib-js/stdlib/issues/2882)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-code-blocks-v0.3.2">
-
-#### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
--   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
--   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
--   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
--   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
--   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
--   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-help-v0.3.2">
-
-#### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
--   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
--   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
--   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
--   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
--   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
--   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-info-v0.3.2">
-
-#### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
--   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
--   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
--   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
--   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
--   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-signature-v0.3.2">
-
-#### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
--   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
--   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
--   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
--   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
--   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-typed-signature-v0.3.2">
-
-#### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
--   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
--   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
--   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
--   [`48de2fd`](https://github.com/stdlib-js/stdlib/commit/48de2fd9ae3b4ffa9679e86d86339848ca612399) - add `hasAtobSupport` to namespace
--   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="issues">
 
@@ -573,20 +258,6 @@ This release closes the following issue:
 </section>
 
 <!-- /.issues -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 3 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
--   Snehil Shah
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -611,6 +282,20 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Snehil Shah
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -629,26 +314,22 @@ No changes reported for this release.
 
 ## 0.3.0 (2024-08-17)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="repl-v0.3.0">
-
-#### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
+-   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
+-   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`07e6c5a`](https://github.com/stdlib-js/stdlib/commit/07e6c5a761733e6df1258f3b35b75e2b271fcbed) - allow cycling through multiline commands using up/down in the REPL
 -   [`7ba179c`](https://github.com/stdlib-js/stdlib/commit/7ba179c7f5084a9b39e22282b02e756c9671d6d8) - add bracketed-paste mode in the REPL [(#2502)](https://github.com/stdlib-js/stdlib/pull/2502)
 -   [`1d49bc6`](https://github.com/stdlib-js/stdlib/commit/1d49bc691bce0634e7b0508ff495fca733c48a4c) - add UX to cycle through completions in the REPL [(#2463)](https://github.com/stdlib-js/stdlib/pull/2463)
 -   [`32b9ebf`](https://github.com/stdlib-js/stdlib/commit/32b9ebf43277ff53c079178ba563fb3597661a2c) - add multiline editing in the REPL [(#2347)](https://github.com/stdlib-js/stdlib/pull/2347)
+-   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
+-   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0856277`](https://github.com/stdlib-js/stdlib/commit/0856277523259bf111501ff87d54104b361b0fa3) - add combined styles and inbuilt syntax highlighting themes in the REPL
 -   [`b4c12b7`](https://github.com/stdlib-js/stdlib/commit/b4c12b7c4a76cfa71164d1b01fcbfca0426abbb3) - add APIs, commands, and tests for REPL syntax-highlighting [(#2291)](https://github.com/stdlib-js/stdlib/pull/2291)
 -   [`24f4a8f`](https://github.com/stdlib-js/stdlib/commit/24f4a8f24c08dd25686afc4cfb78be2e0045e844) - add syntax highlighting in the REPL
@@ -657,6 +338,15 @@ No changes reported for this release.
 -   [`ebd3878`](https://github.com/stdlib-js/stdlib/commit/ebd387824c78db3211ab39ab118db6984f6b0342) - update default welcome message in the REPL [(#2178)](https://github.com/stdlib-js/stdlib/pull/2178)
 -   [`8314237`](https://github.com/stdlib-js/stdlib/commit/83142377ae560b0b7b741437d117ea4aa6a0bd6d) - add support for auto-closing brackets/quotations in the REPL [(#1680)](https://github.com/stdlib-js/stdlib/pull/1680)
 -   [`ec283ec`](https://github.com/stdlib-js/stdlib/commit/ec283ec9a2a522454f15a62cecd03e7e94b2ded8) - add auto-completion preview for REPL [(#1832)](https://github.com/stdlib-js/stdlib/pull/1832)
+-   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
+-   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352)
+-   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
+-   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
+-   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - add `ArrayIndex` to namespace
+-   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - add `atake` to namespace
+-   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - add `array2fancy` to namespace
+-   [`c1d6282`](https://github.com/stdlib-js/stdlib/commit/c1d628249a148deaf55e5b87493b7cdec6a527b8) - add `scalar2array` to namespace
+-   [`8c4047d`](https://github.com/stdlib-js/stdlib/commit/8c4047dc8b22a290115beb849387bde1e2e181bf) - add `arrayMostlySafeCasts` to namespace
 
 </section>
 
@@ -664,7 +354,7 @@ No changes reported for this release.
 
 <section class="bug-fixes">
 
-##### Bug Fixes
+### Bug Fixes
 
 -   [`ea8303e`](https://github.com/stdlib-js/stdlib/commit/ea8303ef51c9543e3c9b3851fb2ad0a5e8dfee01) - handle tokens where start idx is greater than end idx [(#2770)](https://github.com/stdlib-js/stdlib/pull/2770)
 -   [`e9c6d40`](https://github.com/stdlib-js/stdlib/commit/e9c6d40b6d4d382f39d2000c1996bd7ccb38bb29) - remove syntax highlighting upon encountering invalid JS [(#2758)](https://github.com/stdlib-js/stdlib/pull/2758)
@@ -685,208 +375,6 @@ No changes reported for this release.
 
 <section class="issues">
 
-##### Closed Issues
-
-A total of 7 issues were closed in this release:
-
-[#1672](https://github.com/stdlib-js/stdlib/issues/1672), [#1775](https://github.com/stdlib-js/stdlib/issues/1775), [#2060](https://github.com/stdlib-js/stdlib/issues/2060), [#2068](https://github.com/stdlib-js/stdlib/issues/2068), [#2149](https://github.com/stdlib-js/stdlib/issues/2149), [#2175](https://github.com/stdlib-js/stdlib/issues/2175), [#2429](https://github.com/stdlib-js/stdlib/issues/2429)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-code-blocks-v0.3.0">
-
-#### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
--   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
--   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
--   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
--   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
--   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
--   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
--   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
--   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
--   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352)
--   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
--   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
--   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - add `ArrayIndex` to namespace
--   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - add `atake` to namespace
--   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - add `array2fancy` to namespace
--   [`c1d6282`](https://github.com/stdlib-js/stdlib/commit/c1d628249a148deaf55e5b87493b7cdec6a527b8) - add `scalar2array` to namespace
--   [`8c4047d`](https://github.com/stdlib-js/stdlib/commit/8c4047dc8b22a290115beb849387bde1e2e181bf) - add `arrayMostlySafeCasts` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-help-v0.3.0">
-
-#### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
--   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
--   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
--   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
--   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
--   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
--   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
--   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
--   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
--   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352)
--   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
--   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
--   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - add `ArrayIndex` to namespace
--   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - add `atake` to namespace
--   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - add `array2fancy` to namespace
--   [`c1d6282`](https://github.com/stdlib-js/stdlib/commit/c1d628249a148deaf55e5b87493b7cdec6a527b8) - add `scalar2array` to namespace
--   [`8c4047d`](https://github.com/stdlib-js/stdlib/commit/8c4047dc8b22a290115beb849387bde1e2e181bf) - add `arrayMostlySafeCasts` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-info-v0.3.0">
-
-#### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
--   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
--   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
--   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
--   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
--   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352)
--   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
--   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
--   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - add `ArrayIndex` to namespace
--   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - add `atake` to namespace
--   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - add `array2fancy` to namespace
--   [`c1d6282`](https://github.com/stdlib-js/stdlib/commit/c1d628249a148deaf55e5b87493b7cdec6a527b8) - add `scalar2array` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-signature-v0.3.0">
-
-#### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
--   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
--   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
--   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
--   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
--   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352)
--   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
--   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
--   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - add `ArrayIndex` to namespace
--   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - add `atake` to namespace
--   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - add `array2fancy` to namespace
--   [`c1d6282`](https://github.com/stdlib-js/stdlib/commit/c1d628249a148deaf55e5b87493b7cdec6a527b8) - add `scalar2array` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-typed-signature-v0.3.0">
-
-#### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
--   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
--   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
--   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
--   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
--   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`2370b7a`](https://github.com/stdlib-js/stdlib/commit/2370b7a641a0d6c4029e2127d6fd2235458b19e3) - update REPL namespace [(#1352)](https://github.com/stdlib-js/stdlib/pull/1352)
--   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
--   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
--   [`3eb2db4`](https://github.com/stdlib-js/stdlib/commit/3eb2db4e846f2345bcb2531f89d55d0db1e14f58) - add `ArrayIndex` to namespace
--   [`7ee6291`](https://github.com/stdlib-js/stdlib/commit/7ee62912eb404662378afa904f5a712f4a205915) - add `atake` to namespace
--   [`92abe29`](https://github.com/stdlib-js/stdlib/commit/92abe29dd113ec750b19579f04f781f2a0bb215c) - add `array2fancy` to namespace
--   [`c1d6282`](https://github.com/stdlib-js/stdlib/commit/c1d628249a148deaf55e5b87493b7cdec6a527b8) - add `scalar2array` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="issues">
-
 ### Closed Issues
 
 A total of 7 issues were closed in this release:
@@ -896,23 +384,6 @@ A total of 7 issues were closed in this release:
 </section>
 
 <!-- /.issues -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 6 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
--   Snehil Shah
--   Tudor Pagu
--   Tudor Stefan Pagu
--   kgryte
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -1063,6 +534,23 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 6 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Snehil Shah
+-   Tudor Pagu
+-   Tudor Stefan Pagu
+-   kgryte
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -1081,125 +569,9 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-05)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="repl-v0.2.0">
-
-#### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
-
-<details>
-
 <section class="features">
 
-##### Features
-
--   [`7746224`](https://github.com/stdlib-js/stdlib/commit/7746224337fae4691bf87ae5d2640f87a4db694f) - add `add4` and `add5` to namespace
--   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-code-blocks-v0.2.0">
-
-#### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`4877282`](https://github.com/stdlib-js/stdlib/commit/4877282c798840743cf64baaddf415260d86270d) - add `random.strided.t` to namespace
--   [`44ac21f`](https://github.com/stdlib-js/stdlib/commit/44ac21f70792d8639928c16bccb3e703185b57e6) - add `random.strided.rayleigh` to namespace
--   [`30aa5ec`](https://github.com/stdlib-js/stdlib/commit/30aa5ec568c8f0bea59fb89e8f53f84eb8b9d5f9) - add `random.strided.poisson` to namespace
--   [`383a569`](https://github.com/stdlib-js/stdlib/commit/383a569842a89f563af54cd10bbf02b93f1ff1f4) - add `random.strided.geometric` to namespace
--   [`a75f17e`](https://github.com/stdlib-js/stdlib/commit/a75f17ed3138f56e48be7063cf49e8dc213cb03b) - add `random.strided.chisquare` to namespace
--   [`91ffbcb`](https://github.com/stdlib-js/stdlib/commit/91ffbcb4e0a110504134d3988dc0755c49bc45b4) - add `random.strided.chi` to namespace
--   [`f6feaf5`](https://github.com/stdlib-js/stdlib/commit/f6feaf56b6598a70476fb6a83e23e1d9fb10dcdb) - add `random.strided.bernoulli` to namespace
--   [`0d3e0b1`](https://github.com/stdlib-js/stdlib/commit/0d3e0b1209e646e8f8f4b20a1a748667d9ff903f) - add `aslice` to namespace
--   [`24736d2`](https://github.com/stdlib-js/stdlib/commit/24736d2f857ec3ab94b035a2dca2d602bb9c08c9) - add `acartesianPower` to namespace
--   [`87ac458`](https://github.com/stdlib-js/stdlib/commit/87ac458d1542b6e91aee23786e50bce6d3e780be) - add `acartesianProduct` and `acartesianSquare` to namespace
--   [`e479c0b`](https://github.com/stdlib-js/stdlib/commit/e479c0bd401ebd5854b98481b3e4a2e7070a3a31) - add `ndat` to namespace
--   [`183264d`](https://github.com/stdlib-js/stdlib/commit/183264ddb5cdf7d888f4c9d2a7ac2ef308b3ad84) - add `isSameArray` to namespace
--   [`8a9967b`](https://github.com/stdlib-js/stdlib/commit/8a9967b427830e5932d137f36f3f98a0b0ef33fc) - add `aoneToLike` to namespace
--   [`01c1a00`](https://github.com/stdlib-js/stdlib/commit/01c1a006cb69b918e6119dde3d2d981b644d3755) - add `azeroToLike` to namespace
--   [`2771f9e`](https://github.com/stdlib-js/stdlib/commit/2771f9ec78932b40f1f002121c7cc737be37475e) - add `aoneTo` to namespace
--   [`74e8faa`](https://github.com/stdlib-js/stdlib/commit/74e8faa7a531123f28b662d5cd1278caaa36f40a) - add `azeroTo` to namespace
--   [`cc219df`](https://github.com/stdlib-js/stdlib/commit/cc219dff09c3f63cbf512799508763cf7739ddd4) - add `isSameComplex64` to namespace
--   [`bda78f8`](https://github.com/stdlib-js/stdlib/commit/bda78f8f1616055a00f24150039ba3325dbb48b0) - add `isSameComplex128` to namespace
--   [`c096551`](https://github.com/stdlib-js/stdlib/commit/c09655109f78750aa2ae9cd6f4c4f0521dc11a08) - add `isSameComplex64Array` to namespace
--   [`722bff4`](https://github.com/stdlib-js/stdlib/commit/722bff40a8aae808ede63fa9cbcaf4e02823e83c) - add `isSameComplex128Array` to namespace
--   [`9042c6f`](https://github.com/stdlib-js/stdlib/commit/9042c6fc997c52ffcca383771cc614fbc7c79d2e) - add `isSameFloat32Array` to namespace
--   [`07979d6`](https://github.com/stdlib-js/stdlib/commit/07979d642df5ec98d4fe4b3c42a640eadd6dfbc1) - add `isSameFloat64Array` to namespace
--   [`20b4078`](https://github.com/stdlib-js/stdlib/commit/20b4078d2e7b17b8e250b5ac4676fe19f2ef16c0) - add `NAN` and `FLOAT32_NAN` to namespace
--   [`8696241`](https://github.com/stdlib-js/stdlib/commit/8696241c724d19f58e4fb2790a4628e5bc059b7e) - add `COMPLEX64_NAN` to namespace
--   [`a97c806`](https://github.com/stdlib-js/stdlib/commit/a97c8063d92e61092af63fbb170fceaf89c06133) - add `COMPLEX128_NAN` to namespace
--   [`cd65542`](https://github.com/stdlib-js/stdlib/commit/cd65542b506ebcd1abbfb4224cba89935195f930) - add `COMPLEX64_ZERO` to namespace
--   [`8c0f26a`](https://github.com/stdlib-js/stdlib/commit/8c0f26a539ea1cfa786e95eb1d2393352f03277a) - update related packages
--   [`11d5c34`](https://github.com/stdlib-js/stdlib/commit/11d5c34b5dc00f418e9e98032c1084b416873c74) - add `random.array.hypergeometric` to namespace
--   [`e188958`](https://github.com/stdlib-js/stdlib/commit/e18895893d79cdf071907182b78c9b7d8977436c) - add `random.array.frechet` to namespace
--   [`324dfed`](https://github.com/stdlib-js/stdlib/commit/324dfed727b5be34c836897b8bb5ed8f773ec111) - add `random.array.triangular` to namespace
--   [`b92d0bb`](https://github.com/stdlib-js/stdlib/commit/b92d0bbd17035a0baa1ba56edf52358c75aaacd6) - add `random.array.negativeBinomial` to namespace
--   [`bc10bb7`](https://github.com/stdlib-js/stdlib/commit/bc10bb7e02b764b1b05e2304accf2901a908954f) - add `random.array.binomial` to namespace
--   [`d85313a`](https://github.com/stdlib-js/stdlib/commit/d85313a72e5d0d6bbc3a0b10b5edb2ddc70bb592) - add `random.array.kumaraswamy` to namespace
--   [`a6efd1f`](https://github.com/stdlib-js/stdlib/commit/a6efd1f9857282ea96b76821d5051cc64838582d) - add `random.array.pareto1` to namespace
--   [`eee8a07`](https://github.com/stdlib-js/stdlib/commit/eee8a0784b12ae15af87897950bdfd13c18cfc18) - add `random.array.weibull` to namespace
--   [`1da4138`](https://github.com/stdlib-js/stdlib/commit/1da4138858a0297c8912e662103c294481ff60fe) - add `random.array.logistic` to namespace
--   [`ea7442a`](https://github.com/stdlib-js/stdlib/commit/ea7442a7b91eb7350ddc70b87fc02ebcdb48bb7b) - add `random.array.levy`
--   [`c149857`](https://github.com/stdlib-js/stdlib/commit/c14985727dd06ec382708ce78819200fd88fdb7a) - add `random.array.laplace` to namespace
--   [`6c964b9`](https://github.com/stdlib-js/stdlib/commit/6c964b9689d07dd4cfa7a63a8b352ab0e9b13696) - add `random.array.gumbel` to namespace
--   [`fe367da`](https://github.com/stdlib-js/stdlib/commit/fe367da44475b1a758eeec3a1b90b6858f13ba0e) - add `random.array.f` to namespace
--   [`3cdc7dd`](https://github.com/stdlib-js/stdlib/commit/3cdc7dd8afc6a0199b09f99491133e33b1160d6e) - add `random.array.erlang` to namespace
--   [`cd115d4`](https://github.com/stdlib-js/stdlib/commit/cd115d4d5591e115d207541ea744ef8fa3a9acab) - add `random.array.cauchy` to namespace
--   [`3107668`](https://github.com/stdlib-js/stdlib/commit/31076683a4c816d69ebe498f0f2ae7a76bae9192) - add `random.array.t` to namespace
--   [`2ec1499`](https://github.com/stdlib-js/stdlib/commit/2ec1499e0623b2086919fd03dd99a83dffaabf2f) - add `random.array.chisquare` to namespace
--   [`2c8abf3`](https://github.com/stdlib-js/stdlib/commit/2c8abf31b71fb33f80f615da5883e6c6cf142a91) - add `random.array.chi` to namespace
--   [`bfed92a`](https://github.com/stdlib-js/stdlib/commit/bfed92a276b2e55b0e2557e90be83f8801bc83f1) - add `random.array.rayleigh` to namespace
--   [`78c2c91`](https://github.com/stdlib-js/stdlib/commit/78c2c91a3efc2ec79120e034059e5dc732ed9a3c) - add `random.array.geometric` and `random.array.poisson` to namespace
--   [`0cb1c96`](https://github.com/stdlib-js/stdlib/commit/0cb1c9609816ed86207fafdd9e57a30a3e946f8d) - add `random.array.bernoulli` to namespace
--   [`06416f0`](https://github.com/stdlib-js/stdlib/commit/06416f01456f8a99d056d8f3c685f2dbb374db2a) - add `numelDimension` to namespace
--   [`5117239`](https://github.com/stdlib-js/stdlib/commit/5117239a2516565e02d4d1f308a98388b811e088) - add `ndarrayFlag` to namespace
--   [`8aad631`](https://github.com/stdlib-js/stdlib/commit/8aad6312c906b6d805cc80d34a18fe0febc39535) - add `ndarrayFlags` to namespace
--   [`9874a20`](https://github.com/stdlib-js/stdlib/commit/9874a20386302e459cb0f2f3ac974789945792c3) - add `maybeBroadcastArrays` to namespace
--   [`5e1d785`](https://github.com/stdlib-js/stdlib/commit/5e1d7852a61aedd3985994f4fce35be9b0f08d05) - add `broadcastArrays` to namespace
--   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - update REPL namespace [(#1164)](https://github.com/stdlib-js/stdlib/pull/1164)
--   [`9740fb4`](https://github.com/stdlib-js/stdlib/commit/9740fb4ca8f2ac5acd47909cfa3a69a8a55c81a0) - add `ndsliceFrom` to namespace
--   [`2d253ca`](https://github.com/stdlib-js/stdlib/commit/2d253ca915011cf9065748fa28bfa83896b17239) - add assertion utilities to namespace
--   [`e2d086c`](https://github.com/stdlib-js/stdlib/commit/e2d086cdf202fed9cd61e78489f5e5eaf4ff7eb9) - add `ndarrayStride` to namespace
--   [`bc6cb8e`](https://github.com/stdlib-js/stdlib/commit/bc6cb8e2805b61ef79465a642b2b12c2f86a78f0) - add `ndsliceTo` to namespace
--   [`7746224`](https://github.com/stdlib-js/stdlib/commit/7746224337fae4691bf87ae5d2640f87a4db694f) - add `add4` and `add5` to namespace
--   [`26aef28`](https://github.com/stdlib-js/stdlib/commit/26aef2895b8430b2db15e967df75e2eaebbac145) - add `base.add3` to namespace
--   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
--   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-help-v0.2.0">
-
-#### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
-
-<details>
-
-<section class="features">
-
-##### Features
+### Features
 
 -   [`4877282`](https://github.com/stdlib-js/stdlib/commit/4877282c798840743cf64baaddf415260d86270d) - add `random.strided.t` to namespace
 -   [`44ac21f`](https://github.com/stdlib-js/stdlib/commit/44ac21f70792d8639928c16bccb3e703185b57e6) - add `random.strided.rayleigh` to namespace
@@ -1269,275 +641,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-info-v0.2.0">
-
-#### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`4877282`](https://github.com/stdlib-js/stdlib/commit/4877282c798840743cf64baaddf415260d86270d) - add `random.strided.t` to namespace
--   [`44ac21f`](https://github.com/stdlib-js/stdlib/commit/44ac21f70792d8639928c16bccb3e703185b57e6) - add `random.strided.rayleigh` to namespace
--   [`30aa5ec`](https://github.com/stdlib-js/stdlib/commit/30aa5ec568c8f0bea59fb89e8f53f84eb8b9d5f9) - add `random.strided.poisson` to namespace
--   [`383a569`](https://github.com/stdlib-js/stdlib/commit/383a569842a89f563af54cd10bbf02b93f1ff1f4) - add `random.strided.geometric` to namespace
--   [`a75f17e`](https://github.com/stdlib-js/stdlib/commit/a75f17ed3138f56e48be7063cf49e8dc213cb03b) - add `random.strided.chisquare` to namespace
--   [`91ffbcb`](https://github.com/stdlib-js/stdlib/commit/91ffbcb4e0a110504134d3988dc0755c49bc45b4) - add `random.strided.chi` to namespace
--   [`f6feaf5`](https://github.com/stdlib-js/stdlib/commit/f6feaf56b6598a70476fb6a83e23e1d9fb10dcdb) - add `random.strided.bernoulli` to namespace
--   [`0d3e0b1`](https://github.com/stdlib-js/stdlib/commit/0d3e0b1209e646e8f8f4b20a1a748667d9ff903f) - add `aslice` to namespace
--   [`24736d2`](https://github.com/stdlib-js/stdlib/commit/24736d2f857ec3ab94b035a2dca2d602bb9c08c9) - add `acartesianPower` to namespace
--   [`87ac458`](https://github.com/stdlib-js/stdlib/commit/87ac458d1542b6e91aee23786e50bce6d3e780be) - add `acartesianProduct` and `acartesianSquare` to namespace
--   [`e479c0b`](https://github.com/stdlib-js/stdlib/commit/e479c0bd401ebd5854b98481b3e4a2e7070a3a31) - add `ndat` to namespace
--   [`183264d`](https://github.com/stdlib-js/stdlib/commit/183264ddb5cdf7d888f4c9d2a7ac2ef308b3ad84) - add `isSameArray` to namespace
--   [`8a9967b`](https://github.com/stdlib-js/stdlib/commit/8a9967b427830e5932d137f36f3f98a0b0ef33fc) - add `aoneToLike` to namespace
--   [`01c1a00`](https://github.com/stdlib-js/stdlib/commit/01c1a006cb69b918e6119dde3d2d981b644d3755) - add `azeroToLike` to namespace
--   [`2771f9e`](https://github.com/stdlib-js/stdlib/commit/2771f9ec78932b40f1f002121c7cc737be37475e) - add `aoneTo` to namespace
--   [`74e8faa`](https://github.com/stdlib-js/stdlib/commit/74e8faa7a531123f28b662d5cd1278caaa36f40a) - add `azeroTo` to namespace
--   [`cc219df`](https://github.com/stdlib-js/stdlib/commit/cc219dff09c3f63cbf512799508763cf7739ddd4) - add `isSameComplex64` to namespace
--   [`bda78f8`](https://github.com/stdlib-js/stdlib/commit/bda78f8f1616055a00f24150039ba3325dbb48b0) - add `isSameComplex128` to namespace
--   [`c096551`](https://github.com/stdlib-js/stdlib/commit/c09655109f78750aa2ae9cd6f4c4f0521dc11a08) - add `isSameComplex64Array` to namespace
--   [`722bff4`](https://github.com/stdlib-js/stdlib/commit/722bff40a8aae808ede63fa9cbcaf4e02823e83c) - add `isSameComplex128Array` to namespace
--   [`9042c6f`](https://github.com/stdlib-js/stdlib/commit/9042c6fc997c52ffcca383771cc614fbc7c79d2e) - add `isSameFloat32Array` to namespace
--   [`07979d6`](https://github.com/stdlib-js/stdlib/commit/07979d642df5ec98d4fe4b3c42a640eadd6dfbc1) - add `isSameFloat64Array` to namespace
--   [`20b4078`](https://github.com/stdlib-js/stdlib/commit/20b4078d2e7b17b8e250b5ac4676fe19f2ef16c0) - add `NAN` and `FLOAT32_NAN` to namespace
--   [`8696241`](https://github.com/stdlib-js/stdlib/commit/8696241c724d19f58e4fb2790a4628e5bc059b7e) - add `COMPLEX64_NAN` to namespace
--   [`a97c806`](https://github.com/stdlib-js/stdlib/commit/a97c8063d92e61092af63fbb170fceaf89c06133) - add `COMPLEX128_NAN` to namespace
--   [`cd65542`](https://github.com/stdlib-js/stdlib/commit/cd65542b506ebcd1abbfb4224cba89935195f930) - add `COMPLEX64_ZERO` to namespace
--   [`8c0f26a`](https://github.com/stdlib-js/stdlib/commit/8c0f26a539ea1cfa786e95eb1d2393352f03277a) - update related packages
--   [`11d5c34`](https://github.com/stdlib-js/stdlib/commit/11d5c34b5dc00f418e9e98032c1084b416873c74) - add `random.array.hypergeometric` to namespace
--   [`e188958`](https://github.com/stdlib-js/stdlib/commit/e18895893d79cdf071907182b78c9b7d8977436c) - add `random.array.frechet` to namespace
--   [`324dfed`](https://github.com/stdlib-js/stdlib/commit/324dfed727b5be34c836897b8bb5ed8f773ec111) - add `random.array.triangular` to namespace
--   [`b92d0bb`](https://github.com/stdlib-js/stdlib/commit/b92d0bbd17035a0baa1ba56edf52358c75aaacd6) - add `random.array.negativeBinomial` to namespace
--   [`bc10bb7`](https://github.com/stdlib-js/stdlib/commit/bc10bb7e02b764b1b05e2304accf2901a908954f) - add `random.array.binomial` to namespace
--   [`d85313a`](https://github.com/stdlib-js/stdlib/commit/d85313a72e5d0d6bbc3a0b10b5edb2ddc70bb592) - add `random.array.kumaraswamy` to namespace
--   [`a6efd1f`](https://github.com/stdlib-js/stdlib/commit/a6efd1f9857282ea96b76821d5051cc64838582d) - add `random.array.pareto1` to namespace
--   [`eee8a07`](https://github.com/stdlib-js/stdlib/commit/eee8a0784b12ae15af87897950bdfd13c18cfc18) - add `random.array.weibull` to namespace
--   [`1da4138`](https://github.com/stdlib-js/stdlib/commit/1da4138858a0297c8912e662103c294481ff60fe) - add `random.array.logistic` to namespace
--   [`ea7442a`](https://github.com/stdlib-js/stdlib/commit/ea7442a7b91eb7350ddc70b87fc02ebcdb48bb7b) - add `random.array.levy`
--   [`c149857`](https://github.com/stdlib-js/stdlib/commit/c14985727dd06ec382708ce78819200fd88fdb7a) - add `random.array.laplace` to namespace
--   [`6c964b9`](https://github.com/stdlib-js/stdlib/commit/6c964b9689d07dd4cfa7a63a8b352ab0e9b13696) - add `random.array.gumbel` to namespace
--   [`fe367da`](https://github.com/stdlib-js/stdlib/commit/fe367da44475b1a758eeec3a1b90b6858f13ba0e) - add `random.array.f` to namespace
--   [`3cdc7dd`](https://github.com/stdlib-js/stdlib/commit/3cdc7dd8afc6a0199b09f99491133e33b1160d6e) - add `random.array.erlang` to namespace
--   [`cd115d4`](https://github.com/stdlib-js/stdlib/commit/cd115d4d5591e115d207541ea744ef8fa3a9acab) - add `random.array.cauchy` to namespace
--   [`3107668`](https://github.com/stdlib-js/stdlib/commit/31076683a4c816d69ebe498f0f2ae7a76bae9192) - add `random.array.t` to namespace
--   [`2ec1499`](https://github.com/stdlib-js/stdlib/commit/2ec1499e0623b2086919fd03dd99a83dffaabf2f) - add `random.array.chisquare` to namespace
--   [`2c8abf3`](https://github.com/stdlib-js/stdlib/commit/2c8abf31b71fb33f80f615da5883e6c6cf142a91) - add `random.array.chi` to namespace
--   [`bfed92a`](https://github.com/stdlib-js/stdlib/commit/bfed92a276b2e55b0e2557e90be83f8801bc83f1) - add `random.array.rayleigh` to namespace
--   [`78c2c91`](https://github.com/stdlib-js/stdlib/commit/78c2c91a3efc2ec79120e034059e5dc732ed9a3c) - add `random.array.geometric` and `random.array.poisson` to namespace
--   [`0cb1c96`](https://github.com/stdlib-js/stdlib/commit/0cb1c9609816ed86207fafdd9e57a30a3e946f8d) - add `random.array.bernoulli` to namespace
--   [`06416f0`](https://github.com/stdlib-js/stdlib/commit/06416f01456f8a99d056d8f3c685f2dbb374db2a) - add `numelDimension` to namespace
--   [`5117239`](https://github.com/stdlib-js/stdlib/commit/5117239a2516565e02d4d1f308a98388b811e088) - add `ndarrayFlag` to namespace
--   [`8aad631`](https://github.com/stdlib-js/stdlib/commit/8aad6312c906b6d805cc80d34a18fe0febc39535) - add `ndarrayFlags` to namespace
--   [`9874a20`](https://github.com/stdlib-js/stdlib/commit/9874a20386302e459cb0f2f3ac974789945792c3) - add `maybeBroadcastArrays` to namespace
--   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - update REPL namespace [(#1164)](https://github.com/stdlib-js/stdlib/pull/1164)
--   [`9740fb4`](https://github.com/stdlib-js/stdlib/commit/9740fb4ca8f2ac5acd47909cfa3a69a8a55c81a0) - add `ndsliceFrom` to namespace
--   [`2d253ca`](https://github.com/stdlib-js/stdlib/commit/2d253ca915011cf9065748fa28bfa83896b17239) - add assertion utilities to namespace
--   [`e2d086c`](https://github.com/stdlib-js/stdlib/commit/e2d086cdf202fed9cd61e78489f5e5eaf4ff7eb9) - add `ndarrayStride` to namespace
--   [`bc6cb8e`](https://github.com/stdlib-js/stdlib/commit/bc6cb8e2805b61ef79465a642b2b12c2f86a78f0) - add `ndsliceTo` to namespace
--   [`7746224`](https://github.com/stdlib-js/stdlib/commit/7746224337fae4691bf87ae5d2640f87a4db694f) - add `add4` and `add5` to namespace
--   [`26aef28`](https://github.com/stdlib-js/stdlib/commit/26aef2895b8430b2db15e967df75e2eaebbac145) - add `base.add3` to namespace
--   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
--   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-signature-v0.2.0">
-
-#### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`4877282`](https://github.com/stdlib-js/stdlib/commit/4877282c798840743cf64baaddf415260d86270d) - add `random.strided.t` to namespace
--   [`44ac21f`](https://github.com/stdlib-js/stdlib/commit/44ac21f70792d8639928c16bccb3e703185b57e6) - add `random.strided.rayleigh` to namespace
--   [`30aa5ec`](https://github.com/stdlib-js/stdlib/commit/30aa5ec568c8f0bea59fb89e8f53f84eb8b9d5f9) - add `random.strided.poisson` to namespace
--   [`383a569`](https://github.com/stdlib-js/stdlib/commit/383a569842a89f563af54cd10bbf02b93f1ff1f4) - add `random.strided.geometric` to namespace
--   [`a75f17e`](https://github.com/stdlib-js/stdlib/commit/a75f17ed3138f56e48be7063cf49e8dc213cb03b) - add `random.strided.chisquare` to namespace
--   [`91ffbcb`](https://github.com/stdlib-js/stdlib/commit/91ffbcb4e0a110504134d3988dc0755c49bc45b4) - add `random.strided.chi` to namespace
--   [`f6feaf5`](https://github.com/stdlib-js/stdlib/commit/f6feaf56b6598a70476fb6a83e23e1d9fb10dcdb) - add `random.strided.bernoulli` to namespace
--   [`0d3e0b1`](https://github.com/stdlib-js/stdlib/commit/0d3e0b1209e646e8f8f4b20a1a748667d9ff903f) - add `aslice` to namespace
--   [`24736d2`](https://github.com/stdlib-js/stdlib/commit/24736d2f857ec3ab94b035a2dca2d602bb9c08c9) - add `acartesianPower` to namespace
--   [`87ac458`](https://github.com/stdlib-js/stdlib/commit/87ac458d1542b6e91aee23786e50bce6d3e780be) - add `acartesianProduct` and `acartesianSquare` to namespace
--   [`e479c0b`](https://github.com/stdlib-js/stdlib/commit/e479c0bd401ebd5854b98481b3e4a2e7070a3a31) - add `ndat` to namespace
--   [`183264d`](https://github.com/stdlib-js/stdlib/commit/183264ddb5cdf7d888f4c9d2a7ac2ef308b3ad84) - add `isSameArray` to namespace
--   [`8a9967b`](https://github.com/stdlib-js/stdlib/commit/8a9967b427830e5932d137f36f3f98a0b0ef33fc) - add `aoneToLike` to namespace
--   [`01c1a00`](https://github.com/stdlib-js/stdlib/commit/01c1a006cb69b918e6119dde3d2d981b644d3755) - add `azeroToLike` to namespace
--   [`2771f9e`](https://github.com/stdlib-js/stdlib/commit/2771f9ec78932b40f1f002121c7cc737be37475e) - add `aoneTo` to namespace
--   [`74e8faa`](https://github.com/stdlib-js/stdlib/commit/74e8faa7a531123f28b662d5cd1278caaa36f40a) - add `azeroTo` to namespace
--   [`cc219df`](https://github.com/stdlib-js/stdlib/commit/cc219dff09c3f63cbf512799508763cf7739ddd4) - add `isSameComplex64` to namespace
--   [`bda78f8`](https://github.com/stdlib-js/stdlib/commit/bda78f8f1616055a00f24150039ba3325dbb48b0) - add `isSameComplex128` to namespace
--   [`c096551`](https://github.com/stdlib-js/stdlib/commit/c09655109f78750aa2ae9cd6f4c4f0521dc11a08) - add `isSameComplex64Array` to namespace
--   [`722bff4`](https://github.com/stdlib-js/stdlib/commit/722bff40a8aae808ede63fa9cbcaf4e02823e83c) - add `isSameComplex128Array` to namespace
--   [`9042c6f`](https://github.com/stdlib-js/stdlib/commit/9042c6fc997c52ffcca383771cc614fbc7c79d2e) - add `isSameFloat32Array` to namespace
--   [`07979d6`](https://github.com/stdlib-js/stdlib/commit/07979d642df5ec98d4fe4b3c42a640eadd6dfbc1) - add `isSameFloat64Array` to namespace
--   [`20b4078`](https://github.com/stdlib-js/stdlib/commit/20b4078d2e7b17b8e250b5ac4676fe19f2ef16c0) - add `NAN` and `FLOAT32_NAN` to namespace
--   [`8696241`](https://github.com/stdlib-js/stdlib/commit/8696241c724d19f58e4fb2790a4628e5bc059b7e) - add `COMPLEX64_NAN` to namespace
--   [`a97c806`](https://github.com/stdlib-js/stdlib/commit/a97c8063d92e61092af63fbb170fceaf89c06133) - add `COMPLEX128_NAN` to namespace
--   [`cd65542`](https://github.com/stdlib-js/stdlib/commit/cd65542b506ebcd1abbfb4224cba89935195f930) - add `COMPLEX64_ZERO` to namespace
--   [`8c0f26a`](https://github.com/stdlib-js/stdlib/commit/8c0f26a539ea1cfa786e95eb1d2393352f03277a) - update related packages
--   [`11d5c34`](https://github.com/stdlib-js/stdlib/commit/11d5c34b5dc00f418e9e98032c1084b416873c74) - add `random.array.hypergeometric` to namespace
--   [`e188958`](https://github.com/stdlib-js/stdlib/commit/e18895893d79cdf071907182b78c9b7d8977436c) - add `random.array.frechet` to namespace
--   [`324dfed`](https://github.com/stdlib-js/stdlib/commit/324dfed727b5be34c836897b8bb5ed8f773ec111) - add `random.array.triangular` to namespace
--   [`b92d0bb`](https://github.com/stdlib-js/stdlib/commit/b92d0bbd17035a0baa1ba56edf52358c75aaacd6) - add `random.array.negativeBinomial` to namespace
--   [`bc10bb7`](https://github.com/stdlib-js/stdlib/commit/bc10bb7e02b764b1b05e2304accf2901a908954f) - add `random.array.binomial` to namespace
--   [`d85313a`](https://github.com/stdlib-js/stdlib/commit/d85313a72e5d0d6bbc3a0b10b5edb2ddc70bb592) - add `random.array.kumaraswamy` to namespace
--   [`a6efd1f`](https://github.com/stdlib-js/stdlib/commit/a6efd1f9857282ea96b76821d5051cc64838582d) - add `random.array.pareto1` to namespace
--   [`eee8a07`](https://github.com/stdlib-js/stdlib/commit/eee8a0784b12ae15af87897950bdfd13c18cfc18) - add `random.array.weibull` to namespace
--   [`1da4138`](https://github.com/stdlib-js/stdlib/commit/1da4138858a0297c8912e662103c294481ff60fe) - add `random.array.logistic` to namespace
--   [`ea7442a`](https://github.com/stdlib-js/stdlib/commit/ea7442a7b91eb7350ddc70b87fc02ebcdb48bb7b) - add `random.array.levy`
--   [`c149857`](https://github.com/stdlib-js/stdlib/commit/c14985727dd06ec382708ce78819200fd88fdb7a) - add `random.array.laplace` to namespace
--   [`6c964b9`](https://github.com/stdlib-js/stdlib/commit/6c964b9689d07dd4cfa7a63a8b352ab0e9b13696) - add `random.array.gumbel` to namespace
--   [`fe367da`](https://github.com/stdlib-js/stdlib/commit/fe367da44475b1a758eeec3a1b90b6858f13ba0e) - add `random.array.f` to namespace
--   [`3cdc7dd`](https://github.com/stdlib-js/stdlib/commit/3cdc7dd8afc6a0199b09f99491133e33b1160d6e) - add `random.array.erlang` to namespace
--   [`cd115d4`](https://github.com/stdlib-js/stdlib/commit/cd115d4d5591e115d207541ea744ef8fa3a9acab) - add `random.array.cauchy` to namespace
--   [`3107668`](https://github.com/stdlib-js/stdlib/commit/31076683a4c816d69ebe498f0f2ae7a76bae9192) - add `random.array.t` to namespace
--   [`2ec1499`](https://github.com/stdlib-js/stdlib/commit/2ec1499e0623b2086919fd03dd99a83dffaabf2f) - add `random.array.chisquare` to namespace
--   [`2c8abf3`](https://github.com/stdlib-js/stdlib/commit/2c8abf31b71fb33f80f615da5883e6c6cf142a91) - add `random.array.chi` to namespace
--   [`bfed92a`](https://github.com/stdlib-js/stdlib/commit/bfed92a276b2e55b0e2557e90be83f8801bc83f1) - add `random.array.rayleigh` to namespace
--   [`78c2c91`](https://github.com/stdlib-js/stdlib/commit/78c2c91a3efc2ec79120e034059e5dc732ed9a3c) - add `random.array.geometric` and `random.array.poisson` to namespace
--   [`0cb1c96`](https://github.com/stdlib-js/stdlib/commit/0cb1c9609816ed86207fafdd9e57a30a3e946f8d) - add `random.array.bernoulli` to namespace
--   [`06416f0`](https://github.com/stdlib-js/stdlib/commit/06416f01456f8a99d056d8f3c685f2dbb374db2a) - add `numelDimension` to namespace
--   [`5117239`](https://github.com/stdlib-js/stdlib/commit/5117239a2516565e02d4d1f308a98388b811e088) - add `ndarrayFlag` to namespace
--   [`8aad631`](https://github.com/stdlib-js/stdlib/commit/8aad6312c906b6d805cc80d34a18fe0febc39535) - add `ndarrayFlags` to namespace
--   [`9874a20`](https://github.com/stdlib-js/stdlib/commit/9874a20386302e459cb0f2f3ac974789945792c3) - add `maybeBroadcastArrays` to namespace
--   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - update REPL namespace [(#1164)](https://github.com/stdlib-js/stdlib/pull/1164)
--   [`9740fb4`](https://github.com/stdlib-js/stdlib/commit/9740fb4ca8f2ac5acd47909cfa3a69a8a55c81a0) - add `ndsliceFrom` to namespace
--   [`2d253ca`](https://github.com/stdlib-js/stdlib/commit/2d253ca915011cf9065748fa28bfa83896b17239) - add assertion utilities to namespace
--   [`e2d086c`](https://github.com/stdlib-js/stdlib/commit/e2d086cdf202fed9cd61e78489f5e5eaf4ff7eb9) - add `ndarrayStride` to namespace
--   [`bc6cb8e`](https://github.com/stdlib-js/stdlib/commit/bc6cb8e2805b61ef79465a642b2b12c2f86a78f0) - add `ndsliceTo` to namespace
--   [`7746224`](https://github.com/stdlib-js/stdlib/commit/7746224337fae4691bf87ae5d2640f87a4db694f) - add `add4` and `add5` to namespace
--   [`26aef28`](https://github.com/stdlib-js/stdlib/commit/26aef2895b8430b2db15e967df75e2eaebbac145) - add `base.add3` to namespace
--   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
--   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-typed-signature-v0.2.0">
-
-#### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`4877282`](https://github.com/stdlib-js/stdlib/commit/4877282c798840743cf64baaddf415260d86270d) - add `random.strided.t` to namespace
--   [`44ac21f`](https://github.com/stdlib-js/stdlib/commit/44ac21f70792d8639928c16bccb3e703185b57e6) - add `random.strided.rayleigh` to namespace
--   [`30aa5ec`](https://github.com/stdlib-js/stdlib/commit/30aa5ec568c8f0bea59fb89e8f53f84eb8b9d5f9) - add `random.strided.poisson` to namespace
--   [`383a569`](https://github.com/stdlib-js/stdlib/commit/383a569842a89f563af54cd10bbf02b93f1ff1f4) - add `random.strided.geometric` to namespace
--   [`a75f17e`](https://github.com/stdlib-js/stdlib/commit/a75f17ed3138f56e48be7063cf49e8dc213cb03b) - add `random.strided.chisquare` to namespace
--   [`91ffbcb`](https://github.com/stdlib-js/stdlib/commit/91ffbcb4e0a110504134d3988dc0755c49bc45b4) - add `random.strided.chi` to namespace
--   [`f6feaf5`](https://github.com/stdlib-js/stdlib/commit/f6feaf56b6598a70476fb6a83e23e1d9fb10dcdb) - add `random.strided.bernoulli` to namespace
--   [`0d3e0b1`](https://github.com/stdlib-js/stdlib/commit/0d3e0b1209e646e8f8f4b20a1a748667d9ff903f) - add `aslice` to namespace
--   [`24736d2`](https://github.com/stdlib-js/stdlib/commit/24736d2f857ec3ab94b035a2dca2d602bb9c08c9) - add `acartesianPower` to namespace
--   [`87ac458`](https://github.com/stdlib-js/stdlib/commit/87ac458d1542b6e91aee23786e50bce6d3e780be) - add `acartesianProduct` and `acartesianSquare` to namespace
--   [`e479c0b`](https://github.com/stdlib-js/stdlib/commit/e479c0bd401ebd5854b98481b3e4a2e7070a3a31) - add `ndat` to namespace
--   [`183264d`](https://github.com/stdlib-js/stdlib/commit/183264ddb5cdf7d888f4c9d2a7ac2ef308b3ad84) - add `isSameArray` to namespace
--   [`8a9967b`](https://github.com/stdlib-js/stdlib/commit/8a9967b427830e5932d137f36f3f98a0b0ef33fc) - add `aoneToLike` to namespace
--   [`01c1a00`](https://github.com/stdlib-js/stdlib/commit/01c1a006cb69b918e6119dde3d2d981b644d3755) - add `azeroToLike` to namespace
--   [`2771f9e`](https://github.com/stdlib-js/stdlib/commit/2771f9ec78932b40f1f002121c7cc737be37475e) - add `aoneTo` to namespace
--   [`74e8faa`](https://github.com/stdlib-js/stdlib/commit/74e8faa7a531123f28b662d5cd1278caaa36f40a) - add `azeroTo` to namespace
--   [`cc219df`](https://github.com/stdlib-js/stdlib/commit/cc219dff09c3f63cbf512799508763cf7739ddd4) - add `isSameComplex64` to namespace
--   [`bda78f8`](https://github.com/stdlib-js/stdlib/commit/bda78f8f1616055a00f24150039ba3325dbb48b0) - add `isSameComplex128` to namespace
--   [`c096551`](https://github.com/stdlib-js/stdlib/commit/c09655109f78750aa2ae9cd6f4c4f0521dc11a08) - add `isSameComplex64Array` to namespace
--   [`722bff4`](https://github.com/stdlib-js/stdlib/commit/722bff40a8aae808ede63fa9cbcaf4e02823e83c) - add `isSameComplex128Array` to namespace
--   [`9042c6f`](https://github.com/stdlib-js/stdlib/commit/9042c6fc997c52ffcca383771cc614fbc7c79d2e) - add `isSameFloat32Array` to namespace
--   [`07979d6`](https://github.com/stdlib-js/stdlib/commit/07979d642df5ec98d4fe4b3c42a640eadd6dfbc1) - add `isSameFloat64Array` to namespace
--   [`20b4078`](https://github.com/stdlib-js/stdlib/commit/20b4078d2e7b17b8e250b5ac4676fe19f2ef16c0) - add `NAN` and `FLOAT32_NAN` to namespace
--   [`8696241`](https://github.com/stdlib-js/stdlib/commit/8696241c724d19f58e4fb2790a4628e5bc059b7e) - add `COMPLEX64_NAN` to namespace
--   [`a97c806`](https://github.com/stdlib-js/stdlib/commit/a97c8063d92e61092af63fbb170fceaf89c06133) - add `COMPLEX128_NAN` to namespace
--   [`cd65542`](https://github.com/stdlib-js/stdlib/commit/cd65542b506ebcd1abbfb4224cba89935195f930) - add `COMPLEX64_ZERO` to namespace
--   [`8c0f26a`](https://github.com/stdlib-js/stdlib/commit/8c0f26a539ea1cfa786e95eb1d2393352f03277a) - update related packages
--   [`11d5c34`](https://github.com/stdlib-js/stdlib/commit/11d5c34b5dc00f418e9e98032c1084b416873c74) - add `random.array.hypergeometric` to namespace
--   [`e188958`](https://github.com/stdlib-js/stdlib/commit/e18895893d79cdf071907182b78c9b7d8977436c) - add `random.array.frechet` to namespace
--   [`324dfed`](https://github.com/stdlib-js/stdlib/commit/324dfed727b5be34c836897b8bb5ed8f773ec111) - add `random.array.triangular` to namespace
--   [`b92d0bb`](https://github.com/stdlib-js/stdlib/commit/b92d0bbd17035a0baa1ba56edf52358c75aaacd6) - add `random.array.negativeBinomial` to namespace
--   [`bc10bb7`](https://github.com/stdlib-js/stdlib/commit/bc10bb7e02b764b1b05e2304accf2901a908954f) - add `random.array.binomial` to namespace
--   [`d85313a`](https://github.com/stdlib-js/stdlib/commit/d85313a72e5d0d6bbc3a0b10b5edb2ddc70bb592) - add `random.array.kumaraswamy` to namespace
--   [`a6efd1f`](https://github.com/stdlib-js/stdlib/commit/a6efd1f9857282ea96b76821d5051cc64838582d) - add `random.array.pareto1` to namespace
--   [`eee8a07`](https://github.com/stdlib-js/stdlib/commit/eee8a0784b12ae15af87897950bdfd13c18cfc18) - add `random.array.weibull` to namespace
--   [`1da4138`](https://github.com/stdlib-js/stdlib/commit/1da4138858a0297c8912e662103c294481ff60fe) - add `random.array.logistic` to namespace
--   [`ea7442a`](https://github.com/stdlib-js/stdlib/commit/ea7442a7b91eb7350ddc70b87fc02ebcdb48bb7b) - add `random.array.levy`
--   [`c149857`](https://github.com/stdlib-js/stdlib/commit/c14985727dd06ec382708ce78819200fd88fdb7a) - add `random.array.laplace` to namespace
--   [`6c964b9`](https://github.com/stdlib-js/stdlib/commit/6c964b9689d07dd4cfa7a63a8b352ab0e9b13696) - add `random.array.gumbel` to namespace
--   [`fe367da`](https://github.com/stdlib-js/stdlib/commit/fe367da44475b1a758eeec3a1b90b6858f13ba0e) - add `random.array.f` to namespace
--   [`3cdc7dd`](https://github.com/stdlib-js/stdlib/commit/3cdc7dd8afc6a0199b09f99491133e33b1160d6e) - add `random.array.erlang` to namespace
--   [`cd115d4`](https://github.com/stdlib-js/stdlib/commit/cd115d4d5591e115d207541ea744ef8fa3a9acab) - add `random.array.cauchy` to namespace
--   [`3107668`](https://github.com/stdlib-js/stdlib/commit/31076683a4c816d69ebe498f0f2ae7a76bae9192) - add `random.array.t` to namespace
--   [`2ec1499`](https://github.com/stdlib-js/stdlib/commit/2ec1499e0623b2086919fd03dd99a83dffaabf2f) - add `random.array.chisquare` to namespace
--   [`2c8abf3`](https://github.com/stdlib-js/stdlib/commit/2c8abf31b71fb33f80f615da5883e6c6cf142a91) - add `random.array.chi` to namespace
--   [`bfed92a`](https://github.com/stdlib-js/stdlib/commit/bfed92a276b2e55b0e2557e90be83f8801bc83f1) - add `random.array.rayleigh` to namespace
--   [`78c2c91`](https://github.com/stdlib-js/stdlib/commit/78c2c91a3efc2ec79120e034059e5dc732ed9a3c) - add `random.array.geometric` and `random.array.poisson` to namespace
--   [`0cb1c96`](https://github.com/stdlib-js/stdlib/commit/0cb1c9609816ed86207fafdd9e57a30a3e946f8d) - add `random.array.bernoulli` to namespace
--   [`06416f0`](https://github.com/stdlib-js/stdlib/commit/06416f01456f8a99d056d8f3c685f2dbb374db2a) - add `numelDimension` to namespace
--   [`5117239`](https://github.com/stdlib-js/stdlib/commit/5117239a2516565e02d4d1f308a98388b811e088) - add `ndarrayFlag` to namespace
--   [`8aad631`](https://github.com/stdlib-js/stdlib/commit/8aad6312c906b6d805cc80d34a18fe0febc39535) - add `ndarrayFlags` to namespace
--   [`9874a20`](https://github.com/stdlib-js/stdlib/commit/9874a20386302e459cb0f2f3ac974789945792c3) - add `maybeBroadcastArrays` to namespace
--   [`49e7ac4`](https://github.com/stdlib-js/stdlib/commit/49e7ac4afe1f0153a6a71655515afce59384a928) - update REPL namespace [(#1164)](https://github.com/stdlib-js/stdlib/pull/1164)
--   [`9740fb4`](https://github.com/stdlib-js/stdlib/commit/9740fb4ca8f2ac5acd47909cfa3a69a8a55c81a0) - add `ndsliceFrom` to namespace
--   [`2d253ca`](https://github.com/stdlib-js/stdlib/commit/2d253ca915011cf9065748fa28bfa83896b17239) - add assertion utilities to namespace
--   [`e2d086c`](https://github.com/stdlib-js/stdlib/commit/e2d086cdf202fed9cd61e78489f5e5eaf4ff7eb9) - add `ndarrayStride` to namespace
--   [`bc6cb8e`](https://github.com/stdlib-js/stdlib/commit/bc6cb8e2805b61ef79465a642b2b12c2f86a78f0) - add `ndsliceTo` to namespace
--   [`7746224`](https://github.com/stdlib-js/stdlib/commit/7746224337fae4691bf87ae5d2640f87a4db694f) - add `add4` and `add5` to namespace
--   [`26aef28`](https://github.com/stdlib-js/stdlib/commit/26aef2895b8430b2db15e967df75e2eaebbac145) - add `base.add3` to namespace
--   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
--   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -1621,6 +724,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -1639,134 +755,9 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-11-08)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="repl-v0.1.0">
-
-#### [@stdlib/repl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl)
-
-<details>
-
 <section class="features">
 
-##### Features
-
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`15cde7c`](https://github.com/stdlib-js/stdlib/commit/15cde7c85f6228cd553af316f7e012ad1ea57273) - update REPL namespace (#1020) [(#1020)](https://github.com/stdlib-js/stdlib/pull/1020)
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
--   [`ce67626`](https://github.com/stdlib-js/stdlib/commit/ce67626b99ae18df2bab0fcf559dc918fbb5ed3b) - update REPL namespace [(#920)](https://github.com/stdlib-js/stdlib/pull/920)
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-##### Bug Fixes
-
--   [`ff35f38`](https://github.com/stdlib-js/stdlib/commit/ff35f3846e467adce5c8244342a04e2fd4a2ac84) - make CLI scripts executable [(#1111)](https://github.com/stdlib-js/stdlib/pull/1111)
-
-</section>
-
-<!-- /.bug-fixes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-code-blocks-v0.1.0">
-
-#### [@stdlib/repl/code-blocks](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/code-blocks)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`462cd43`](https://github.com/stdlib-js/stdlib/commit/462cd438bd5aecb87010717901b77b64f15e64e7) - update REPL namespace [(#952)](https://github.com/stdlib-js/stdlib/pull/952)
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`bf08114`](https://github.com/stdlib-js/stdlib/commit/bf08114c2712c22d767de42c41704f6374ad8129) - update REPL namespace [(#925)](https://github.com/stdlib-js/stdlib/pull/925)
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
--   [`ce67626`](https://github.com/stdlib-js/stdlib/commit/ce67626b99ae18df2bab0fcf559dc918fbb5ed3b) - update REPL namespace [(#920)](https://github.com/stdlib-js/stdlib/pull/920)
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-help-v0.1.0">
-
-#### [@stdlib/repl/help](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/help)
-
-<details>
-
-<section class="features">
-
-##### Features
+### Features
 
 -   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
 -   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
@@ -1806,6 +797,7 @@ No changes reported for this release.
 -   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
 -   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
 -   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`15cde7c`](https://github.com/stdlib-js/stdlib/commit/15cde7c85f6228cd553af316f7e012ad1ea57273) - update REPL namespace (#1020) [(#1020)](https://github.com/stdlib-js/stdlib/pull/1020)
 -   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
 -   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
 -   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
@@ -1824,108 +816,9 @@ No changes reported for this release.
 
 <!-- /.features -->
 
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-info-v0.1.0">
-
-#### [@stdlib/repl/info](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/info)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`462cd43`](https://github.com/stdlib-js/stdlib/commit/462cd438bd5aecb87010717901b77b64f15e64e7) - update REPL namespace [(#952)](https://github.com/stdlib-js/stdlib/pull/952)
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`bf08114`](https://github.com/stdlib-js/stdlib/commit/bf08114c2712c22d767de42c41704f6374ad8129) - update REPL namespace [(#925)](https://github.com/stdlib-js/stdlib/pull/925)
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
--   [`ce67626`](https://github.com/stdlib-js/stdlib/commit/ce67626b99ae18df2bab0fcf559dc918fbb5ed3b) - update REPL namespace [(#920)](https://github.com/stdlib-js/stdlib/pull/920)
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-presentation-v0.1.0">
-
-#### [@stdlib/repl/presentation](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/presentation)
-
-<details>
-
 <section class="bug-fixes">
 
-##### Bug Fixes
+### Bug Fixes
 
 -   [`ff35f38`](https://github.com/stdlib-js/stdlib/commit/ff35f3846e467adce5c8244342a04e2fd4a2ac84) - make CLI scripts executable [(#1111)](https://github.com/stdlib-js/stdlib/pull/1111)
 -   [`c300118`](https://github.com/stdlib-js/stdlib/commit/c3001189267fe1b3a75a3721e6a0dad612ff64d6) - rename to avoid duplicate variable name
@@ -1933,200 +826,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.bug-fixes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-server-v0.1.0">
-
-#### [@stdlib/repl/server](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/server)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-signature-v0.1.0">
-
-#### [@stdlib/repl/signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`462cd43`](https://github.com/stdlib-js/stdlib/commit/462cd438bd5aecb87010717901b77b64f15e64e7) - update REPL namespace [(#952)](https://github.com/stdlib-js/stdlib/pull/952)
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`bf08114`](https://github.com/stdlib-js/stdlib/commit/bf08114c2712c22d767de42c41704f6374ad8129) - update REPL namespace [(#925)](https://github.com/stdlib-js/stdlib/pull/925)
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
--   [`ce67626`](https://github.com/stdlib-js/stdlib/commit/ce67626b99ae18df2bab0fcf559dc918fbb5ed3b) - update REPL namespace [(#920)](https://github.com/stdlib-js/stdlib/pull/920)
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="repl-typed-signature-v0.1.0">
-
-#### [@stdlib/repl/typed-signature](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/repl/typed-signature)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`462cd43`](https://github.com/stdlib-js/stdlib/commit/462cd438bd5aecb87010717901b77b64f15e64e7) - update REPL namespace [(#952)](https://github.com/stdlib-js/stdlib/pull/952)
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`bf08114`](https://github.com/stdlib-js/stdlib/commit/bf08114c2712c22d767de42c41704f6374ad8129) - update REPL namespace [(#925)](https://github.com/stdlib-js/stdlib/pull/925)
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
--   [`ce67626`](https://github.com/stdlib-js/stdlib/commit/ce67626b99ae18df2bab0fcf559dc918fbb5ed3b) - update REPL namespace [(#920)](https://github.com/stdlib-js/stdlib/pull/920)
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -2139,20 +838,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 3 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
--   Planeshifter
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -2237,6 +922,20 @@ A total of 3 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Planeshifter
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
