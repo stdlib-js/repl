@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-23)
+## Unreleased (2025-06-24)
 
 <section class="features">
 
 ### Features
 
+-   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - add `isStruct` and `isStructConstructorLike` to namespace
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`19d5ec9`](https://github.com/stdlib-js/stdlib/commit/19d5ec9452cc6e106fea60c2900d021391beedff) - add logic for eager evaluation of additional expression types [(#5053)](https://github.com/stdlib-js/stdlib/pull/5053)
@@ -56,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - **feat:** add `isStruct` and `isStructConstructorLike` to namespace _(by Athan Reines)_
 -   [`28f9979`](https://github.com/stdlib-js/stdlib/commit/28f99791e07b4d5bc48b1d6ca42662208211cd8b) - **docs:** update REPL namespace documentation [(#7457)](https://github.com/stdlib-js/stdlib/pull/7457) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`0902a5b`](https://github.com/stdlib-js/stdlib/commit/0902a5b8ec9f8209d253e5fff7c0a73ec082cee7) - **docs:** update REPL namespace documentation [(#7444)](https://github.com/stdlib-js/stdlib/pull/7444) _(by stdlib-bot)_
 -   [`05e4da8`](https://github.com/stdlib-js/stdlib/commit/05e4da8247ce01c4b57c33b841094659f6823e36) - **docs:** update REPL namespace documentation [(#7432)](https://github.com/stdlib-js/stdlib/pull/7432) _(by stdlib-bot, Philipp Burckhardt)_
