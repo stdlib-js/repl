@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-26)
+## Unreleased (2025-06-28)
 
 <section class="features">
 
@@ -57,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`68510c1`](https://github.com/stdlib-js/stdlib/commit/68510c112e51359cc37e812fab3386d7d4a41cd9) - **docs:** update REPL namespace documentation [(#7496)](https://github.com/stdlib-js/stdlib/pull/7496) _(by stdlib-bot)_
 -   [`0698ee9`](https://github.com/stdlib-js/stdlib/commit/0698ee94d05c0f6e7481b7e519bd9117cc3f8ba1) - **docs:** update REPL namespace documentation [(#7490)](https://github.com/stdlib-js/stdlib/pull/7490) _(by stdlib-bot)_
 -   [`11b42d7`](https://github.com/stdlib-js/stdlib/commit/11b42d7053cd31a2327afaef0d0ac7289346f1c1) - **docs:** update REPL namespace documentation [(#7471)](https://github.com/stdlib-js/stdlib/pull/7471) _(by stdlib-bot)_
 -   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - **feat:** add `isStruct` and `isStructConstructorLike` to namespace _(by Athan Reines)_
