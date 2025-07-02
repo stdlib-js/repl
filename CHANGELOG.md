@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-01)
+## Unreleased (2025-07-02)
 
 <section class="features">
 
@@ -57,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`89be55e`](https://github.com/stdlib-js/stdlib/commit/89be55e995f3375183d7fb616d073887c0f35d8d) - **docs:** update REPL namespace documentation [(#7546)](https://github.com/stdlib-js/stdlib/pull/7546) _(by stdlib-bot)_
 -   [`f7e8910`](https://github.com/stdlib-js/stdlib/commit/f7e89105ceb7b0e26cb0dfb7a00e87bc951aca31) - **docs:** update REPL namespace documentation [(#7535)](https://github.com/stdlib-js/stdlib/pull/7535) _(by stdlib-bot)_
 -   [`fbfec64`](https://github.com/stdlib-js/stdlib/commit/fbfec64b3c35c762d0b5b7a3d1bf6a47b2af967b) - **docs:** update REPL namespace documentation [(#7521)](https://github.com/stdlib-js/stdlib/pull/7521) _(by stdlib-bot)_
 -   [`fa46668`](https://github.com/stdlib-js/stdlib/commit/fa46668f2a8b4d1d1c3be38595e917a3176a829c) - **docs:** update REPL namespace documentation [(#7513)](https://github.com/stdlib-js/stdlib/pull/7513) _(by stdlib-bot)_
