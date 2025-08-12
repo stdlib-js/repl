@@ -57,7 +57,6 @@ A total of 2 issues were closed in this release:
 
 <details>
 
--   [`aefc2e5`](https://github.com/stdlib-js/stdlib/commit/aefc2e5538354214bb93c31bb0cf83acd2d0a25b) - **docs:** update REPL namespace documentation [(#7857)](https://github.com/stdlib-js/stdlib/pull/7857) _(by stdlib-bot)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`0e9bfc8`](https://github.com/stdlib-js/stdlib/commit/0e9bfc8bd747d8fdefcd1c9df80864bbaf21dc45) - **docs:** update REPL namespace documentation [(#7826)](https://github.com/stdlib-js/stdlib/pull/7826) _(by stdlib-bot)_
 -   [`a7a8aa5`](https://github.com/stdlib-js/stdlib/commit/a7a8aa55f279292e38ffdd2a28d3666d8738520e) - **docs:** update REPL namespace documentation [(#7804)](https://github.com/stdlib-js/stdlib/pull/7804) _(by stdlib-bot)_
