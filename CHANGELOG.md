@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-13)
+## Unreleased (2025-08-14)
 
 <section class="features">
 
@@ -57,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`fdf0183`](https://github.com/stdlib-js/stdlib/commit/fdf01832bc9b4fd729fd9cc1ab13e22a651fcb36) - **docs:** update REPL namespace documentation [(#7874)](https://github.com/stdlib-js/stdlib/pull/7874) _(by stdlib-bot)_
 -   [`e006684`](https://github.com/stdlib-js/stdlib/commit/e00668463e01283b95585d54917d3e81207ceaed) - **docs:** update REPL namespace documentation [(#7859)](https://github.com/stdlib-js/stdlib/pull/7859) _(by stdlib-bot)_
 -   [`aefc2e5`](https://github.com/stdlib-js/stdlib/commit/aefc2e5538354214bb93c31bb0cf83acd2d0a25b) - **docs:** update REPL namespace documentation [(#7857)](https://github.com/stdlib-js/stdlib/pull/7857) _(by stdlib-bot)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
