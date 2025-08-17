@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-16)
+## Unreleased (2025-08-17)
 
 <section class="features">
 
@@ -57,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`c940d58`](https://github.com/stdlib-js/stdlib/commit/c940d5871c3e892cd67dd8fa2b1dbadd87465733) - **docs:** update REPL namespace documentation [(#7903)](https://github.com/stdlib-js/stdlib/pull/7903) _(by stdlib-bot)_
 -   [`ca26c53`](https://github.com/stdlib-js/stdlib/commit/ca26c53f8ecdd292c1addd920a11210dc5af7d9d) - **docs:** update REPL namespace documentation [(#7891)](https://github.com/stdlib-js/stdlib/pull/7891) _(by stdlib-bot)_
 -   [`4754d60`](https://github.com/stdlib-js/stdlib/commit/4754d60576057a62db0c9c99bfa2b886676b4530) - **docs:** update REPL namespace documentation [(#7879)](https://github.com/stdlib-js/stdlib/pull/7879) _(by stdlib-bot)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
