@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-18)
+## Unreleased (2025-09-19)
 
 <section class="features">
 
 ### Features
 
+-   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - add `DataType` to namespace
 -   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - add `isStruct` and `isStructConstructorLike` to namespace
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
@@ -57,6 +58,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - **feat:** add `DataType` to namespace _(by Athan Reines)_
 -   [`5fb74a0`](https://github.com/stdlib-js/stdlib/commit/5fb74a009cdab534f7a23e6e3a1d1c1a5d875e8a) - **docs:** update REPL namespace documentation [(#8097)](https://github.com/stdlib-js/stdlib/pull/8097) _(by stdlib-bot)_
 -   [`b5c98c2`](https://github.com/stdlib-js/stdlib/commit/b5c98c204d54cd74f3eb08278a995eca1b930742) - **docs:** update REPL namespace documentation [(#8070)](https://github.com/stdlib-js/stdlib/pull/8070) _(by stdlib-bot)_
 -   [`bea5b86`](https://github.com/stdlib-js/stdlib/commit/bea5b867c7905e4fb8f1648e8fe8acc436f55e14) - **docs:** update REPL namespace documentation [(#8064)](https://github.com/stdlib-js/stdlib/pull/8064) _(by stdlib-bot)_
