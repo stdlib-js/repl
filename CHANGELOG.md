@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-20)
+## Unreleased (2025-09-22)
 
 <section class="features">
 
@@ -58,6 +58,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`db475c9`](https://github.com/stdlib-js/stdlib/commit/db475c9e82f415b00c89fe590faa66d732415745) - **docs:** update REPL namespace documentation [(#8123)](https://github.com/stdlib-js/stdlib/pull/8123) _(by stdlib-bot)_
 -   [`aaeb369`](https://github.com/stdlib-js/stdlib/commit/aaeb369f0d8eb7bd2fba21019e58f7b93dab9111) - **docs:** update REPL namespace documentation [(#8106)](https://github.com/stdlib-js/stdlib/pull/8106) _(by stdlib-bot)_
 -   [`26142f9`](https://github.com/stdlib-js/stdlib/commit/26142f9229d2160cbb5a0defb26f63d50200d850) - **docs:** update REPL namespace documentation [(#8103)](https://github.com/stdlib-js/stdlib/pull/8103) _(by stdlib-bot)_
 -   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - **feat:** add `DataType` to namespace _(by Athan Reines)_
