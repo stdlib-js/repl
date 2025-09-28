@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-24)
+## Unreleased (2025-09-28)
 
 <section class="features">
 
@@ -58,6 +58,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`8131dc1`](https://github.com/stdlib-js/stdlib/commit/8131dc105845b56cf4517eff3fa15426df7b3e6d) - **docs:** update REPL namespace documentation [(#8144)](https://github.com/stdlib-js/stdlib/pull/8144) _(by stdlib-bot)_
 -   [`291b901`](https://github.com/stdlib-js/stdlib/commit/291b90133cad7a6efc3b2c27dfbcfff54bd1f128) - **refactor:** move `onDrain` function to outer scope [(#8111)](https://github.com/stdlib-js/stdlib/pull/8111) _(by Payal Goswami)_
 -   [`db475c9`](https://github.com/stdlib-js/stdlib/commit/db475c9e82f415b00c89fe590faa66d732415745) - **docs:** update REPL namespace documentation [(#8123)](https://github.com/stdlib-js/stdlib/pull/8123) _(by stdlib-bot)_
 -   [`aaeb369`](https://github.com/stdlib-js/stdlib/commit/aaeb369f0d8eb7bd2fba21019e58f7b93dab9111) - **docs:** update REPL namespace documentation [(#8106)](https://github.com/stdlib-js/stdlib/pull/8106) _(by stdlib-bot)_
