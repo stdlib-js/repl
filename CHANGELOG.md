@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-13)
+## Unreleased (2025-11-26)
 
 <section class="features">
 
@@ -44,9 +44,9 @@
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100)
+[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8593](https://github.com/stdlib-js/stdlib/issues/8593)
 
 </section>
 
@@ -58,6 +58,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`ecba1bf`](https://github.com/stdlib-js/stdlib/commit/ecba1bf4cd1d9b0729207b7bf58b62ad0652e924) - **chore:** fix JavaScript lint errors [(#8595)](https://github.com/stdlib-js/stdlib/pull/8595) _(by Divyanshu, Athan Reines)_
 -   [`be7259f`](https://github.com/stdlib-js/stdlib/commit/be7259f5ad5331829dc5345cae7c7903dab9d99d) - **docs:** update REPL namespace documentation [(#8516)](https://github.com/stdlib-js/stdlib/pull/8516) _(by stdlib-bot)_
 -   [`ad8f246`](https://github.com/stdlib-js/stdlib/commit/ad8f2462d142596f267a2ab2754b6f2610c85b6a) - **docs:** update REPL namespace documentation [(#8255)](https://github.com/stdlib-js/stdlib/pull/8255) _(by stdlib-bot)_
 -   [`0355c28`](https://github.com/stdlib-js/stdlib/commit/0355c28c356b55e1153077bc96d55d27bb012f1d) - **docs:** update REPL namespace documentation [(#8251)](https://github.com/stdlib-js/stdlib/pull/8251) _(by stdlib-bot)_
@@ -285,9 +286,10 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Divyanshu
 -   Gururaj Gurram
 -   Payal Goswami
 -   Philipp Burckhardt
