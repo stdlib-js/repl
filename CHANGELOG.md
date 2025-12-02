@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-01)
+## Unreleased (2025-12-02)
 
 <section class="features">
 
@@ -44,9 +44,9 @@
 
 ### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 6 issues were closed in this release:
 
-[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593)
+[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593), [#8670](https://github.com/stdlib-js/stdlib/issues/8670)
 
 </section>
 
@@ -58,6 +58,7 @@ A total of 5 issues were closed in this release:
 
 <details>
 
+-   [`bdee45c`](https://github.com/stdlib-js/stdlib/commit/bdee45c142a6e5a8d9dea6d28861900585fc3ac6) - **chore:** fix JavaScript lint errors [(#8686)](https://github.com/stdlib-js/stdlib/pull/8686) _(by Rohit R Bhat, Athan Reines)_
 -   [`0499950`](https://github.com/stdlib-js/stdlib/commit/049995079e9520c076b9da9bb612ac8c5b9887e5) - **docs:** update REPL namespace documentation [(#8671)](https://github.com/stdlib-js/stdlib/pull/8671) _(by stdlib-bot)_
 -   [`ff3ffda`](https://github.com/stdlib-js/stdlib/commit/ff3ffda7de5f780a240d5e4a385d3ac791b7deb4) - **docs:** update REPL namespace documentation [(#8638)](https://github.com/stdlib-js/stdlib/pull/8638) _(by stdlib-bot)_
 -   [`d7f19cc`](https://github.com/stdlib-js/stdlib/commit/d7f19cccf74cde79f8ce40ab12bd7adb4c77c101) - **chore:** fix JavaScript lint errors [(#8581)](https://github.com/stdlib-js/stdlib/pull/8581) _(by Divyanshu)_
@@ -289,13 +290,14 @@ A total of 5 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
 -   Gururaj Gurram
 -   Payal Goswami
 -   Philipp Burckhardt
+-   Rohit R Bhat
 -   Snehil Shah
 -   Vinit Pandit
 
