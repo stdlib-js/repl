@@ -58,6 +58,7 @@ A total of 6 issues were closed in this release:
 
 <details>
 
+-   [`35ce703`](https://github.com/stdlib-js/stdlib/commit/35ce70320886dd8f426225b2bd300114e7ea4c7d) - **docs:** remove duplicate words in documentation [(#9555)](https://github.com/stdlib-js/stdlib/pull/9555) _(by Shivam Mittal)_
 -   [`4bbb36f`](https://github.com/stdlib-js/stdlib/commit/4bbb36ffe5348c5f863bd34d2218464bc1c18f88) - **docs:** update REPL namespace documentation [(#9545)](https://github.com/stdlib-js/stdlib/pull/9545) _(by stdlib-bot)_
 -   [`2611bf7`](https://github.com/stdlib-js/stdlib/commit/2611bf70b28a222e72e051a4901c266f5d979412) - **docs:** update REPL namespace documentation [(#9529)](https://github.com/stdlib-js/stdlib/pull/9529) _(by stdlib-bot)_
 -   [`c681b91`](https://github.com/stdlib-js/stdlib/commit/c681b91b18f634d25dae56786f0e7389cdc05114) - **docs:** update REPL namespace documentation [(#9467)](https://github.com/stdlib-js/stdlib/pull/9467) _(by stdlib-bot, Philipp Burckhardt)_
@@ -311,7 +312,7 @@ A total of 6 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
@@ -319,6 +320,7 @@ A total of 8 people contributed to this release. Thank you to the following cont
 -   Payal Goswami
 -   Philipp Burckhardt
 -   Rohit R Bhat
+-   Shivam Mittal
 -   Snehil Shah
 -   Vinit Pandit
 
