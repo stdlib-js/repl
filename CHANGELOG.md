@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-12)
+## Unreleased (2026-01-13)
 
 <section class="features">
 
@@ -44,9 +44,9 @@
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593), [#8670](https://github.com/stdlib-js/stdlib/issues/8670)
+[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593), [#8670](https://github.com/stdlib-js/stdlib/issues/8670), [#9715](https://github.com/stdlib-js/stdlib/issues/9715)
 
 </section>
 
@@ -58,6 +58,7 @@ A total of 6 issues were closed in this release:
 
 <details>
 
+-   [`24c8448`](https://github.com/stdlib-js/stdlib/commit/24c84489858238aac982a4560b69a50634e71c60) - **chore:** fix JavaScript lint errors [(#9719)](https://github.com/stdlib-js/stdlib/pull/9719) _(by Shubham)_
 -   [`a3ddcf5`](https://github.com/stdlib-js/stdlib/commit/a3ddcf5aeb332dd504ec46745807dcdd6d52474e) - **docs:** update REPL namespace documentation [(#9701)](https://github.com/stdlib-js/stdlib/pull/9701) _(by stdlib-bot)_
 -   [`e882812`](https://github.com/stdlib-js/stdlib/commit/e882812a788d6648dd848e9e5667a11a1878bb3d) - **docs:** update REPL namespace documentation [(#9689)](https://github.com/stdlib-js/stdlib/pull/9689) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`d2b039b`](https://github.com/stdlib-js/stdlib/commit/d2b039b4d16169fa7e6c43ebbbda7300c2391a74) - **docs:** update REPL namespace documentation [(#9662)](https://github.com/stdlib-js/stdlib/pull/9662) _(by stdlib-bot, Philipp Burckhardt)_
@@ -317,7 +318,7 @@ A total of 6 issues were closed in this release:
 
 ### Contributors
 
-A total of 9 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
@@ -326,6 +327,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 -   Philipp Burckhardt
 -   Rohit R Bhat
 -   Shivam Mittal
+-   Shubham
 -   Snehil Shah
 -   Vinit Pandit
 
