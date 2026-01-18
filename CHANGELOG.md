@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-17)
+## Unreleased (2026-01-18)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 ### Bug Fixes
 
+-   [`ef082b9`](https://github.com/stdlib-js/stdlib/commit/ef082b94577dd75dcbd855e795bf22cf87cecf5e) - update require to new location
 -   [`079b5ac`](https://github.com/stdlib-js/stdlib/commit/079b5accfe214e1131ce3406091506a31b0c574e) - add `MemberExpression` check [(#5046)](https://github.com/stdlib-js/stdlib/pull/5046)
 -   [`da56225`](https://github.com/stdlib-js/stdlib/commit/da56225a2166c87339716018163780bbf8e8d21c) - catch unexpected errors from `acorn-loose` in REPL tokenizer [(#4956)](https://github.com/stdlib-js/stdlib/pull/4956)
 -   [`2de9ed7`](https://github.com/stdlib-js/stdlib/commit/2de9ed76d79a2f10a26a5246077199cf70819a89) - guard against proxy traps raising exceptions in REPL tokenizer [(#4457)](https://github.com/stdlib-js/stdlib/pull/4457)
@@ -58,6 +59,7 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`ef082b9`](https://github.com/stdlib-js/stdlib/commit/ef082b94577dd75dcbd855e795bf22cf87cecf5e) - **fix:** update require to new location _(by Philipp Burckhardt)_
 -   [`f8d3ce2`](https://github.com/stdlib-js/stdlib/commit/f8d3ce2b1a1be97a9706ca05559ab384e2587c54) - **docs:** update REPL namespace documentation [(#9795)](https://github.com/stdlib-js/stdlib/pull/9795) _(by stdlib-bot)_
 -   [`28c9d60`](https://github.com/stdlib-js/stdlib/commit/28c9d605d7fd1fd3c60a471d950b8553faf5f51f) - **docs:** update REPL namespace documentation [(#9774)](https://github.com/stdlib-js/stdlib/pull/9774) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`359927e`](https://github.com/stdlib-js/stdlib/commit/359927e885c436eec620032dd44ede85b96ab11b) - **docs:** update REPL namespace documentation [(#9758)](https://github.com/stdlib-js/stdlib/pull/9758) _(by stdlib-bot, Philipp Burckhardt)_
