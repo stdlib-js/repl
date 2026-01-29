@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-20)
+## Unreleased (2026-01-29)
 
 <section class="features">
 
@@ -45,9 +45,9 @@
 
 ### Closed Issues
 
-A total of 7 issues were closed in this release:
+A total of 8 issues were closed in this release:
 
-[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593), [#8670](https://github.com/stdlib-js/stdlib/issues/8670), [#9715](https://github.com/stdlib-js/stdlib/issues/9715)
+[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593), [#8670](https://github.com/stdlib-js/stdlib/issues/8670), [#9715](https://github.com/stdlib-js/stdlib/issues/9715), [#9965](https://github.com/stdlib-js/stdlib/issues/9965)
 
 </section>
 
@@ -59,6 +59,7 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`d4045a4`](https://github.com/stdlib-js/stdlib/commit/d4045a4b6c1bc9ead77c9b03068aec27a6cb863c) - **chore:** fix JavaScript lint errors [(#9968)](https://github.com/stdlib-js/stdlib/pull/9968) _(by Suyash Pathak, Athan Reines)_
 -   [`14448a8`](https://github.com/stdlib-js/stdlib/commit/14448a82bf9147190d1aa08a9aa756f7187227df) - **docs:** update REPL namespace documentation [(#9836)](https://github.com/stdlib-js/stdlib/pull/9836) _(by stdlib-bot)_
 -   [`ef082b9`](https://github.com/stdlib-js/stdlib/commit/ef082b94577dd75dcbd855e795bf22cf87cecf5e) - **fix:** update require to new location _(by Philipp Burckhardt)_
 -   [`f8d3ce2`](https://github.com/stdlib-js/stdlib/commit/f8d3ce2b1a1be97a9706ca05559ab384e2587c54) - **docs:** update REPL namespace documentation [(#9795)](https://github.com/stdlib-js/stdlib/pull/9795) _(by stdlib-bot)_
@@ -324,7 +325,7 @@ A total of 7 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
@@ -335,6 +336,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 -   Shivam Mittal
 -   Shubham
 -   Snehil Shah
+-   Suyash Pathak
 -   Vinit Pandit
 
 </section>
