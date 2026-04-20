@@ -59,6 +59,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`3ae26e4`](https://github.com/stdlib-js/stdlib/commit/3ae26e4204f41c6e7a0f235c8cc56e6df042813a) - **docs:** update REPL namespace documentation [(#11636)](https://github.com/stdlib-js/stdlib/pull/11636) _(by stdlib-bot)_
 -   [`49ee469`](https://github.com/stdlib-js/stdlib/commit/49ee469d0f77ca0b897f05877923b90b2a547070) - **bench:** refactor to use string interpolation in `repl` [(#11592)](https://github.com/stdlib-js/stdlib/pull/11592) _(by Karan Anand)_
 -   [`4ed570d`](https://github.com/stdlib-js/stdlib/commit/4ed570d24239a960485c499cf35fde922fc062cc) - **docs:** update REPL namespace documentation [(#11561)](https://github.com/stdlib-js/stdlib/pull/11561) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`068ed70`](https://github.com/stdlib-js/stdlib/commit/068ed707b2293238eed0f3dafa1a4c3001d4d01b) - **docs:** update REPL namespace documentation [(#11401)](https://github.com/stdlib-js/stdlib/pull/11401) _(by stdlib-bot)_
