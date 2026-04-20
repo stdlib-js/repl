@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-19)
+## Unreleased (2026-04-20)
 
 <section class="features">
 
@@ -59,6 +59,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`49ee469`](https://github.com/stdlib-js/stdlib/commit/49ee469d0f77ca0b897f05877923b90b2a547070) - **bench:** refactor to use string interpolation in `repl` [(#11592)](https://github.com/stdlib-js/stdlib/pull/11592) _(by Karan Anand)_
 -   [`4ed570d`](https://github.com/stdlib-js/stdlib/commit/4ed570d24239a960485c499cf35fde922fc062cc) - **docs:** update REPL namespace documentation [(#11561)](https://github.com/stdlib-js/stdlib/pull/11561) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`068ed70`](https://github.com/stdlib-js/stdlib/commit/068ed707b2293238eed0f3dafa1a4c3001d4d01b) - **docs:** update REPL namespace documentation [(#11401)](https://github.com/stdlib-js/stdlib/pull/11401) _(by stdlib-bot)_
 -   [`5b64e30`](https://github.com/stdlib-js/stdlib/commit/5b64e30f979a9cfb6812936b05ead5d6f4087065) - **docs:** update REPL namespace documentation [(#11357)](https://github.com/stdlib-js/stdlib/pull/11357) _(by stdlib-bot)_
@@ -337,11 +338,12 @@ A total of 8 issues were closed in this release:
 
 ### Contributors
 
-A total of 11 people contributed to this release. Thank you to the following contributors:
+A total of 12 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
 -   Gururaj Gurram
+-   Karan Anand
 -   Payal Goswami
 -   Philipp Burckhardt
 -   Rohit R Bhat
