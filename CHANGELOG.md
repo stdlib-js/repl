@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-20)
+## Unreleased (2026-04-23)
 
 <section class="features">
 
 ### Features
 
+-   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - add `Float64Vector` to namespace
 -   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - add `DataType` to namespace
 -   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - add `isStruct` and `isStructConstructorLike` to namespace
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
@@ -59,6 +60,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - **feat:** add `Float64Vector` to namespace _(by Athan Reines)_
 -   [`3ae26e4`](https://github.com/stdlib-js/stdlib/commit/3ae26e4204f41c6e7a0f235c8cc56e6df042813a) - **docs:** update REPL namespace documentation [(#11636)](https://github.com/stdlib-js/stdlib/pull/11636) _(by stdlib-bot)_
 -   [`49ee469`](https://github.com/stdlib-js/stdlib/commit/49ee469d0f77ca0b897f05877923b90b2a547070) - **bench:** refactor to use string interpolation in `repl` [(#11592)](https://github.com/stdlib-js/stdlib/pull/11592) _(by Karan Anand)_
 -   [`4ed570d`](https://github.com/stdlib-js/stdlib/commit/4ed570d24239a960485c499cf35fde922fc062cc) - **docs:** update REPL namespace documentation [(#11561)](https://github.com/stdlib-js/stdlib/pull/11561) _(by stdlib-bot, Philipp Burckhardt)_
