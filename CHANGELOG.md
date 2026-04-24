@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-23)
+## Unreleased (2026-04-24)
 
 <section class="features">
 
@@ -60,6 +60,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`07dd7da`](https://github.com/stdlib-js/stdlib/commit/07dd7da4d498d76b380b741fa3ea135f46861dbd) - **docs:** update REPL namespace documentation [(#11753)](https://github.com/stdlib-js/stdlib/pull/11753) _(by stdlib-bot)_
 -   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - **feat:** add `Float64Vector` to namespace _(by Athan Reines)_
 -   [`3ae26e4`](https://github.com/stdlib-js/stdlib/commit/3ae26e4204f41c6e7a0f235c8cc56e6df042813a) - **docs:** update REPL namespace documentation [(#11636)](https://github.com/stdlib-js/stdlib/pull/11636) _(by stdlib-bot)_
 -   [`49ee469`](https://github.com/stdlib-js/stdlib/commit/49ee469d0f77ca0b897f05877923b90b2a547070) - **bench:** refactor to use string interpolation in `repl` [(#11592)](https://github.com/stdlib-js/stdlib/pull/11592) _(by Karan Anand)_
