@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-26)
+## Unreleased (2026-04-27)
 
 <section class="features">
 
@@ -46,9 +46,9 @@
 
 ### Closed Issues
 
-A total of 8 issues were closed in this release:
+A total of 9 issues were closed in this release:
 
-[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593), [#8670](https://github.com/stdlib-js/stdlib/issues/8670), [#9715](https://github.com/stdlib-js/stdlib/issues/9715), [#9965](https://github.com/stdlib-js/stdlib/issues/9965)
+[#2647](https://github.com/stdlib-js/stdlib/issues/2647), [#5045](https://github.com/stdlib-js/stdlib/issues/5045), [#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8593](https://github.com/stdlib-js/stdlib/issues/8593), [#8670](https://github.com/stdlib-js/stdlib/issues/8670), [#9715](https://github.com/stdlib-js/stdlib/issues/9715), [#9965](https://github.com/stdlib-js/stdlib/issues/9965), [#11803](https://github.com/stdlib-js/stdlib/issues/11803)
 
 </section>
 
@@ -60,6 +60,8 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`bb1eae9`](https://github.com/stdlib-js/stdlib/commit/bb1eae9b25d30411bbe6dd1c5a4d9e4a7cf9a578) - **chore:** fix JavaScript lint errors [(#11813)](https://github.com/stdlib-js/stdlib/pull/11813) _(by Matt Van Horn)_
+-   [`0dc62ae`](https://github.com/stdlib-js/stdlib/commit/0dc62ae39a4817ff888e9736c3ea599f6beff4e5) - **build:** replace `eslint-plugin-node` with `eslint-plugin-n` [(#10952)](https://github.com/stdlib-js/stdlib/pull/10952) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f11ab39`](https://github.com/stdlib-js/stdlib/commit/f11ab39a51dc0d6b287c4426b929fe01b4dba072) - **docs:** update REPL namespace documentation [(#11788)](https://github.com/stdlib-js/stdlib/pull/11788) _(by stdlib-bot)_
 -   [`cc0ab62`](https://github.com/stdlib-js/stdlib/commit/cc0ab62448395c0044c20fa8de044752a4edace2) - **docs:** add missing trailing periods in README descriptions [(#11751)](https://github.com/stdlib-js/stdlib/pull/11751) _(by Philipp Burckhardt)_
 -   [`07dd7da`](https://github.com/stdlib-js/stdlib/commit/07dd7da4d498d76b380b741fa3ea135f46861dbd) - **docs:** update REPL namespace documentation [(#11753)](https://github.com/stdlib-js/stdlib/pull/11753) _(by stdlib-bot)_
@@ -344,12 +346,13 @@ A total of 8 issues were closed in this release:
 
 ### Contributors
 
-A total of 12 people contributed to this release. Thank you to the following contributors:
+A total of 13 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
 -   Gururaj Gurram
 -   Karan Anand
+-   Matt Van Horn
 -   Payal Goswami
 -   Philipp Burckhardt
 -   Rohit R Bhat
