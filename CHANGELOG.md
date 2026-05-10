@@ -10,6 +10,9 @@
 
 ### Features
 
+-   [`67382e1`](https://github.com/stdlib-js/stdlib/commit/67382e1fa3073d0cd5bfdba88e9ae7b61fe61b89) - add top-level `random.*` symbols to namespace
+-   [`ed859e6`](https://github.com/stdlib-js/stdlib/commit/ed859e6a91a865638a312e0c5db6b96f328f0178) - add `*Vector` symbols to namespace
+-   [`3198cb8`](https://github.com/stdlib-js/stdlib/commit/3198cb8a04d95ec673c694c241739264be5c79ef) - add `Float16Array` to namespace
 -   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - add `Float64Vector` to namespace
 -   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - add `DataType` to namespace
 -   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - add `isStruct` and `isStructConstructorLike` to namespace
@@ -60,6 +63,9 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`67382e1`](https://github.com/stdlib-js/stdlib/commit/67382e1fa3073d0cd5bfdba88e9ae7b61fe61b89) - **feat:** add top-level `random.*` symbols to namespace _(by Athan Reines)_
+-   [`ed859e6`](https://github.com/stdlib-js/stdlib/commit/ed859e6a91a865638a312e0c5db6b96f328f0178) - **feat:** add `*Vector` symbols to namespace _(by Athan Reines)_
+-   [`3198cb8`](https://github.com/stdlib-js/stdlib/commit/3198cb8a04d95ec673c694c241739264be5c79ef) - **feat:** add `Float16Array` to namespace _(by Athan Reines)_
 -   [`1b392bd`](https://github.com/stdlib-js/stdlib/commit/1b392bdb5d3316f569af43bfbb4faef088602579) - **docs:** update REPL namespace documentation [(#12035)](https://github.com/stdlib-js/stdlib/pull/12035) _(by stdlib-bot)_
 -   [`ddb2fb7`](https://github.com/stdlib-js/stdlib/commit/ddb2fb7e6d200d3f8f8f32e832aa9634c4db3f54) - **docs:** update REPL namespace documentation [(#11984)](https://github.com/stdlib-js/stdlib/pull/11984) _(by stdlib-bot)_
 -   [`a8648c9`](https://github.com/stdlib-js/stdlib/commit/a8648c9487598f7e112f9693f75aeff4d8e572a0) - **docs:** update REPL namespace documentation [(#11960)](https://github.com/stdlib-js/stdlib/pull/11960) _(by stdlib-bot)_
