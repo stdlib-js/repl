@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-10)
+## Unreleased (2026-05-11)
 
 <section class="features">
 
@@ -63,6 +63,7 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`64f925e`](https://github.com/stdlib-js/stdlib/commit/64f925e5d31880233d25e9ff7376b84478d68e63) - **docs:** update REPL docs _(by Athan Reines)_
 -   [`67382e1`](https://github.com/stdlib-js/stdlib/commit/67382e1fa3073d0cd5bfdba88e9ae7b61fe61b89) - **feat:** add top-level `random.*` symbols to namespace _(by Athan Reines)_
 -   [`ed859e6`](https://github.com/stdlib-js/stdlib/commit/ed859e6a91a865638a312e0c5db6b96f328f0178) - **feat:** add `*Vector` symbols to namespace _(by Athan Reines)_
 -   [`3198cb8`](https://github.com/stdlib-js/stdlib/commit/3198cb8a04d95ec673c694c241739264be5c79ef) - **feat:** add `Float16Array` to namespace _(by Athan Reines)_
