@@ -2878,6 +2878,7 @@ exists.sync,"\nexists.sync( path:string|Buffer )\n    Synchronously tests whethe
 expandAcronyms,"\nexpandAcronyms( str:string )\n    Expands acronyms in a string.\n"
 expandContractions,"\nexpandContractions( str:string )\n    Expands all contractions to their formal equivalents.\n"
 extname,"\nextname( filename:string )\n    Returns a filename extension.\n"
+falses,"\nfalses( shape:ArrayLikeObject<integer>|integer[, options:Object] )\n    Returns an ndarray filled with `false` values and having a specified shape\n    and data type.\n"
 FancyArray,"\nFancyArray( dtype:string, buffer:ArrayLikeObject|TypedArray|Buffer, \n  shape:ArrayLikeObject<integer>, strides:ArrayLikeObject<integer>, \n  offset:integer, order:string[, options:Object] )\n    Returns a FancyArray instance.\n"
 FancyArray.prototype.byteLength,"\nFancyArray.prototype.byteLength\n    Size (in bytes) of the array (if known).\n"
 FancyArray.prototype.BYTES_PER_ELEMENT,"\nFancyArray.prototype.BYTES_PER_ELEMENT\n    Size (in bytes) of each array element (if known).\n"
