@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`73eceba`](https://github.com/stdlib-js/stdlib/commit/73ecebacddec71de84b2bbf7200c18c6a052be72) - add `truesLike` to namespace
 -   [`acd9cb5`](https://github.com/stdlib-js/stdlib/commit/acd9cb534835702c42a2aae8f3c6f6ba6fd527a5) - add `falsesLike` to namespace
 -   [`84009d5`](https://github.com/stdlib-js/stdlib/commit/84009d55a5b7bada4eaec2c91275ff4c2983eb4f) - add `trues` to namespace
 -   [`b0c396f`](https://github.com/stdlib-js/stdlib/commit/b0c396f89a069c46c0318356f3746ad833130f50) - add `falses` to namespace
@@ -66,6 +67,7 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`73eceba`](https://github.com/stdlib-js/stdlib/commit/73ecebacddec71de84b2bbf7200c18c6a052be72) - **feat:** add `truesLike` to namespace _(by Athan Reines)_
 -   [`acd9cb5`](https://github.com/stdlib-js/stdlib/commit/acd9cb534835702c42a2aae8f3c6f6ba6fd527a5) - **feat:** add `falsesLike` to namespace _(by Athan Reines)_
 -   [`f91d31a`](https://github.com/stdlib-js/stdlib/commit/f91d31a01867a5a39298fed8985d823b41c155a8) - **docs:** update REPL namespace documentation [(#12188)](https://github.com/stdlib-js/stdlib/pull/12188) _(by stdlib-bot)_
 -   [`84009d5`](https://github.com/stdlib-js/stdlib/commit/84009d55a5b7bada4eaec2c91275ff4c2983eb4f) - **feat:** add `trues` to namespace _(by Athan Reines)_
