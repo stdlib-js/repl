@@ -65,6 +65,7 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`f91d31a`](https://github.com/stdlib-js/stdlib/commit/f91d31a01867a5a39298fed8985d823b41c155a8) - **docs:** update REPL namespace documentation [(#12188)](https://github.com/stdlib-js/stdlib/pull/12188) _(by stdlib-bot)_
 -   [`84009d5`](https://github.com/stdlib-js/stdlib/commit/84009d55a5b7bada4eaec2c91275ff4c2983eb4f) - **feat:** add `trues` to namespace _(by Athan Reines)_
 -   [`b0c396f`](https://github.com/stdlib-js/stdlib/commit/b0c396f89a069c46c0318356f3746ad833130f50) - **feat:** add `falses` to namespace _(by Athan Reines)_
 -   [`4b2c95c`](https://github.com/stdlib-js/stdlib/commit/4b2c95c780601dfa59f0c020c4437b663e576b22) - **docs:** update REPL namespace documentation [(#12108)](https://github.com/stdlib-js/stdlib/pull/12108) _(by stdlib-bot)_
