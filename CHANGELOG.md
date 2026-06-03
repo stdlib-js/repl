@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`dfee746`](https://github.com/stdlib-js/stdlib/commit/dfee7462421d4117f86f91f175ff2391fb35012f) - add `Uint64` to namespace
 -   [`73eceba`](https://github.com/stdlib-js/stdlib/commit/73ecebacddec71de84b2bbf7200c18c6a052be72) - add `truesLike` to namespace
 -   [`acd9cb5`](https://github.com/stdlib-js/stdlib/commit/acd9cb534835702c42a2aae8f3c6f6ba6fd527a5) - add `falsesLike` to namespace
 -   [`84009d5`](https://github.com/stdlib-js/stdlib/commit/84009d55a5b7bada4eaec2c91275ff4c2983eb4f) - add `trues` to namespace
@@ -67,6 +68,7 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`dfee746`](https://github.com/stdlib-js/stdlib/commit/dfee7462421d4117f86f91f175ff2391fb35012f) - **feat:** add `Uint64` to namespace _(by Athan Reines)_
 -   [`25447e0`](https://github.com/stdlib-js/stdlib/commit/25447e07b6674c21caa6d661064be6e692e7cff9) - **docs:** update REPL namespace documentation [(#12479)](https://github.com/stdlib-js/stdlib/pull/12479) _(by stdlib-bot)_
 -   [`8777ff6`](https://github.com/stdlib-js/stdlib/commit/8777ff69551cc48a679827ae527efcbf634afa89) - **docs:** update REPL namespace documentation [(#12327)](https://github.com/stdlib-js/stdlib/pull/12327) _(by stdlib-bot)_
 -   [`2f2bf7b`](https://github.com/stdlib-js/stdlib/commit/2f2bf7bb321873e8a31d472cbee5d038b9659307) - **docs:** update REPL namespace documentation [(#12271)](https://github.com/stdlib-js/stdlib/pull/12271) _(by stdlib-bot)_
