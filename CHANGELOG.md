@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-04)
+## Unreleased (2026-06-05)
 
 <section class="features">
 
@@ -68,6 +68,7 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`ec39d31`](https://github.com/stdlib-js/stdlib/commit/ec39d31a0239ca04c70a89fc91a9c625f61b0cb7) - **docs:** update REPL namespace documentation [(#12551)](https://github.com/stdlib-js/stdlib/pull/12551) _(by stdlib-bot)_
 -   [`7c170bd`](https://github.com/stdlib-js/stdlib/commit/7c170bda512238e72c07d5e8b0552b50887d8a7f) - **docs:** update REPL namespace documentation [(#12520)](https://github.com/stdlib-js/stdlib/pull/12520) _(by stdlib-bot)_
 -   [`dfee746`](https://github.com/stdlib-js/stdlib/commit/dfee7462421d4117f86f91f175ff2391fb35012f) - **feat:** add `Uint64` to namespace _(by Athan Reines)_
 -   [`25447e0`](https://github.com/stdlib-js/stdlib/commit/25447e07b6674c21caa6d661064be6e692e7cff9) - **docs:** update REPL namespace documentation [(#12479)](https://github.com/stdlib-js/stdlib/pull/12479) _(by stdlib-bot)_
