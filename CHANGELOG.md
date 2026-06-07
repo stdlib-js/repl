@@ -2,6 +2,28 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8eb23b7`](https://github.com/stdlib-js/stdlib/commit/8eb23b7237b9ed9ddd33d352023e6403c69eb2fa) - **docs:** update REPL namespace documentation [(#12659)](https://github.com/stdlib-js/stdlib/pull/12659) _(by stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.4.1">
 
 ## 0.4.1 (2026-06-05)
