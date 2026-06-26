@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-24)
+## Unreleased (2026-06-26)
 
 <section class="commits">
 
@@ -12,7 +12,8 @@
 
 <details>
 
--   [`83c47eb`](https://github.com/stdlib-js/stdlib/commit/83c47eb71aa68f2ed50d05479d26f7a46f8e0ab2) - **docs:** update REPL namespace documentation [(#13101)](https://github.com/stdlib-js/stdlib/pull/13101) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`5715620`](https://github.com/stdlib-js/stdlib/commit/5715620b75c53fe6a0f23fc4472eda3272937ab8) - **docs:** update REPL namespace documentation [(#13144)](https://github.com/stdlib-js/stdlib/pull/13144) _(by stdlib-bot)_
+-   [`5f6e999`](https://github.com/stdlib-js/stdlib/commit/5f6e9997a7425306445848d39a8d09b63ece264e) - **docs:** update REPL namespace documentation [(#13101)](https://github.com/stdlib-js/stdlib/pull/13101) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`b90c43d`](https://github.com/stdlib-js/stdlib/commit/b90c43daff5a2a506e0ec64220a26e70618b7e60) - **docs:** update REPL namespace documentation [(#13076)](https://github.com/stdlib-js/stdlib/pull/13076) _(by stdlib-bot)_
 -   [`ea94fd1`](https://github.com/stdlib-js/stdlib/commit/ea94fd16157e0fceed17ab1c553d459fa2e89930) - **docs:** update REPL namespace documentation [(#13008)](https://github.com/stdlib-js/stdlib/pull/13008) _(by stdlib-bot)_
 -   [`b2adbd2`](https://github.com/stdlib-js/stdlib/commit/b2adbd26ec98c65edb138929e4bb20a5c7dd5d2b) - **docs:** update REPL namespace documentation [(#12930)](https://github.com/stdlib-js/stdlib/pull/12930) _(by stdlib-bot)_
