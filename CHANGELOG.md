@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-26)
+## Unreleased (2026-06-28)
+
+<section class="features">
+
+### Features
+
+-   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - update namespace
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - **feat:** update namespace _(by Athan Reines)_
 -   [`5715620`](https://github.com/stdlib-js/stdlib/commit/5715620b75c53fe6a0f23fc4472eda3272937ab8) - **docs:** update REPL namespace documentation [(#13144)](https://github.com/stdlib-js/stdlib/pull/13144) _(by stdlib-bot)_
 -   [`5f6e999`](https://github.com/stdlib-js/stdlib/commit/5f6e9997a7425306445848d39a8d09b63ece264e) - **docs:** update REPL namespace documentation [(#13101)](https://github.com/stdlib-js/stdlib/pull/13101) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`b90c43d`](https://github.com/stdlib-js/stdlib/commit/b90c43daff5a2a506e0ec64220a26e70618b7e60) - **docs:** update REPL namespace documentation [(#13076)](https://github.com/stdlib-js/stdlib/pull/13076) _(by stdlib-bot)_
@@ -32,8 +43,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
