@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-14)
+## Unreleased (2026-07-16)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c9ab947`](https://github.com/stdlib-js/stdlib/commit/c9ab9472f8811bca801511466651a70d291d0440) - **docs:** update REPL namespace documentation [(#13493)](https://github.com/stdlib-js/stdlib/pull/13493) _(by stdlib-bot)_
 -   [`679e53b`](https://github.com/stdlib-js/stdlib/commit/679e53b8ef0c17e1e849f19783f1817e9b633dbc) - **docs:** update REPL namespace documentation [(#13464)](https://github.com/stdlib-js/stdlib/pull/13464) _(by stdlib-bot)_
 -   [`1396582`](https://github.com/stdlib-js/stdlib/commit/1396582a1c2c075d60f79d72115145b5ee2dd245) - **chore:** fix JavaScript lint errors [(#11211)](https://github.com/stdlib-js/stdlib/pull/11211) _(by Jean Carlos Vargas, Athan Reines)_
 -   [`a6daac4`](https://github.com/stdlib-js/stdlib/commit/a6daac47ee66987524b8cd4b5b6038fcacb6e3f2) - **docs:** update REPL namespace documentation [(#13319)](https://github.com/stdlib-js/stdlib/pull/13319) _(by stdlib-bot)_
