@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7d78500`](https://github.com/stdlib-js/stdlib/commit/7d785001518fef87b607c8397e99c519715ee86f) - **build:** ensure correct operator precedence when using a dynamic `require` expression [(#13537)](https://github.com/stdlib-js/stdlib/pull/13537) _(by Abdul Kaium)_
 -   [`2c65266`](https://github.com/stdlib-js/stdlib/commit/2c652662d0ac5272086f060243858c7a40b943f7) - **docs:** update REPL namespace documentation [(#13528)](https://github.com/stdlib-js/stdlib/pull/13528) _(by stdlib-bot)_
 -   [`b8618bf`](https://github.com/stdlib-js/stdlib/commit/b8618bf1769f355fc9ac7b9dd26206f41dba46b4) - **build:** support dynamic package resolution _(by Athan Reines)_
 -   [`c9ab947`](https://github.com/stdlib-js/stdlib/commit/c9ab9472f8811bca801511466651a70d291d0440) - **docs:** update REPL namespace documentation [(#13493)](https://github.com/stdlib-js/stdlib/pull/13493) _(by stdlib-bot)_
@@ -63,8 +64,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Abdul Kaium
 -   Athan Reines
 -   Jean Carlos Vargas
 -   Philipp Burckhardt
