@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-18)
+## Unreleased (2026-08-19)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fd16a2f`](https://github.com/stdlib-js/stdlib/commit/fd16a2f49cc7f6b16b610dc0b6ce5382d4d9f88f) - **build:** migrate JSDoc linting off removed core rules  [(#10965)](https://github.com/stdlib-js/stdlib/pull/10965) _(by Athan Reines)_
 -   [`513eef6`](https://github.com/stdlib-js/stdlib/commit/513eef6f9c2c70bff4dc3c0a719d4c6dbfe2e8a4) - **docs:** add missing space and fix punctuation [(#14226)](https://github.com/stdlib-js/stdlib/pull/14226) _(by Philipp Burckhardt)_
 -   [`d03ebc4`](https://github.com/stdlib-js/stdlib/commit/d03ebc45317cd30add7e28564775814e3e6646ef) - **docs:** update REPL namespace documentation [(#14186)](https://github.com/stdlib-js/stdlib/pull/14186) _(by stdlib-bot)_
 -   [`48465b4`](https://github.com/stdlib-js/stdlib/commit/48465b4552e59fba2ef42dd760a891a363c9d34d) - **docs:** update REPL namespace documentation [(#14159)](https://github.com/stdlib-js/stdlib/pull/14159) _(by stdlib-bot)_
