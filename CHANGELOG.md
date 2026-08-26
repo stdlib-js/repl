@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-08-26)
 
 <section class="features">
 
 ### Features
 
+-   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - add `Int64Array` to namespace and update related packages
+-   [`88aae8a`](https://github.com/stdlib-js/stdlib/commit/88aae8a4611072452af8f0f791f3223ce2eed486) - add support for pretty printing specialized array types
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - update namespace
 
 </section>
@@ -34,6 +36,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - **feat:** add `Int64Array` to namespace and update related packages _(by Athan Reines)_
+-   [`88aae8a`](https://github.com/stdlib-js/stdlib/commit/88aae8a4611072452af8f0f791f3223ce2eed486) - **feat:** add support for pretty printing specialized array types _(by Athan Reines)_
 -   [`fd16a2f`](https://github.com/stdlib-js/stdlib/commit/fd16a2f49cc7f6b16b610dc0b6ce5382d4d9f88f) - **build:** migrate JSDoc linting off removed core rules  [(#10965)](https://github.com/stdlib-js/stdlib/pull/10965) _(by Athan Reines)_
 -   [`513eef6`](https://github.com/stdlib-js/stdlib/commit/513eef6f9c2c70bff4dc3c0a719d4c6dbfe2e8a4) - **docs:** add missing space and fix punctuation [(#14226)](https://github.com/stdlib-js/stdlib/pull/14226) _(by Philipp Burckhardt)_
 -   [`d03ebc4`](https://github.com/stdlib-js/stdlib/commit/d03ebc45317cd30add7e28564775814e3e6646ef) - **docs:** update REPL namespace documentation [(#14186)](https://github.com/stdlib-js/stdlib/pull/14186) _(by stdlib-bot)_

@@ -47,6 +47,7 @@
   "dependencies": {
     "@stdlib/array": "github:stdlib-js/array#main",
     "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/blas": "github:stdlib-js/blas#main",
     "@stdlib/boolean": "github:stdlib-js/boolean#main",
     "@stdlib/cli": "github:stdlib-js/cli#main",
     "@stdlib/datasets": "github:stdlib-js/datasets#main",
