@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-26)
+## Unreleased (2026-08-27)
 
 <section class="features">
 
@@ -18,13 +18,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`7fc2896`](https://github.com/stdlib-js/stdlib/commit/7fc289607ea39199d1d1d1c94680dc458820a4eb) - add support for wrapped line syntax highlighting and terminal resizing in the `REPL` output stream [(#14701)](https://github.com/stdlib-js/stdlib/pull/14701)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#11209](https://github.com/stdlib-js/stdlib/issues/11209)
+[#11209](https://github.com/stdlib-js/stdlib/issues/11209), [#14646](https://github.com/stdlib-js/stdlib/issues/14646)
 
 </section>
 
@@ -36,6 +46,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7fc2896`](https://github.com/stdlib-js/stdlib/commit/7fc289607ea39199d1d1d1c94680dc458820a4eb) - **fix:** add support for wrapped line syntax highlighting and terminal resizing in the `REPL` output stream [(#14701)](https://github.com/stdlib-js/stdlib/pull/14701) _(by JoyBoy)_
 -   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - **feat:** add `Int64Array` to namespace and update related packages _(by Athan Reines)_
 -   [`88aae8a`](https://github.com/stdlib-js/stdlib/commit/88aae8a4611072452af8f0f791f3223ce2eed486) - **feat:** add support for pretty printing specialized array types _(by Athan Reines)_
 -   [`fd16a2f`](https://github.com/stdlib-js/stdlib/commit/fd16a2f49cc7f6b16b610dc0b6ce5382d4d9f88f) - **build:** migrate JSDoc linting off removed core rules  [(#10965)](https://github.com/stdlib-js/stdlib/pull/10965) _(by Athan Reines)_
@@ -76,11 +87,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
 -   Jean Carlos Vargas
+-   JoyBoy
 -   Philipp Burckhardt
 
 </section>
