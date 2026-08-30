@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-27)
+## Unreleased (2026-08-30)
 
 <section class="features">
 
@@ -46,6 +46,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f4bbfe5`](https://github.com/stdlib-js/stdlib/commit/f4bbfe55989caa31df37da6f9a92a7c31f53ab21) - **docs:** update REPL namespace documentation [(#14800)](https://github.com/stdlib-js/stdlib/pull/14800) _(by stdlib-bot)_
 -   [`7fc2896`](https://github.com/stdlib-js/stdlib/commit/7fc289607ea39199d1d1d1c94680dc458820a4eb) - **fix:** add support for wrapped line syntax highlighting and terminal resizing in the `REPL` output stream [(#14701)](https://github.com/stdlib-js/stdlib/pull/14701) _(by JoyBoy)_
 -   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - **feat:** add `Int64Array` to namespace and update related packages _(by Athan Reines)_
 -   [`88aae8a`](https://github.com/stdlib-js/stdlib/commit/88aae8a4611072452af8f0f791f3223ce2eed486) - **feat:** add support for pretty printing specialized array types _(by Athan Reines)_
