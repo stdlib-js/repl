@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-01)
+## Unreleased (2026-09-19)
 
 <section class="features">
 
@@ -47,6 +47,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f273c33`](https://github.com/stdlib-js/stdlib/commit/f273c33c83c898645e47b4c4d6f4ebb483abf6af) - **docs:** update REPL namespace documentation [(#15339)](https://github.com/stdlib-js/stdlib/pull/15339) _(by stdlib-bot)_
 -   [`c3f1bfb`](https://github.com/stdlib-js/stdlib/commit/c3f1bfb78296e1bcd243029930445c4b70fff79d) - **feat:** adapt `REPL` welcome message to terminal width [(#14848)](https://github.com/stdlib-js/stdlib/pull/14848) _(by JoyBoy, Athan Reines)_
 -   [`f4bbfe5`](https://github.com/stdlib-js/stdlib/commit/f4bbfe55989caa31df37da6f9a92a7c31f53ab21) - **docs:** update REPL namespace documentation [(#14800)](https://github.com/stdlib-js/stdlib/pull/14800) _(by stdlib-bot)_
 -   [`7fc2896`](https://github.com/stdlib-js/stdlib/commit/7fc289607ea39199d1d1d1c94680dc458820a4eb) - **fix:** add support for wrapped line syntax highlighting and terminal resizing in the `REPL` output stream [(#14701)](https://github.com/stdlib-js/stdlib/pull/14701) _(by JoyBoy)_
