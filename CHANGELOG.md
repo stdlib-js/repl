@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-03)
+## Unreleased (2026-10-11)
 
 <section class="features">
 
@@ -47,6 +47,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`ac97b0e`](https://github.com/stdlib-js/stdlib/commit/ac97b0e3156280fd9b6a8b3e0bef89d5f43b9824) - **docs:** update REPL namespace documentation [(#15836)](https://github.com/stdlib-js/stdlib/pull/15836) _(by stdlib-bot)_
 -   [`a8b875b`](https://github.com/stdlib-js/stdlib/commit/a8b875bfb05205c2845a4814a175a2cbfe59d15a) - **chore:** clean-up [(#15566)](https://github.com/stdlib-js/stdlib/pull/15566) _(by Philipp Burckhardt)_
 -   [`f273c33`](https://github.com/stdlib-js/stdlib/commit/f273c33c83c898645e47b4c4d6f4ebb483abf6af) - **docs:** update REPL namespace documentation [(#15339)](https://github.com/stdlib-js/stdlib/pull/15339) _(by stdlib-bot)_
 -   [`c3f1bfb`](https://github.com/stdlib-js/stdlib/commit/c3f1bfb78296e1bcd243029930445c4b70fff79d) - **feat:** adapt `REPL` welcome message to terminal width [(#14848)](https://github.com/stdlib-js/stdlib/pull/14848) _(by JoyBoy, Athan Reines)_
