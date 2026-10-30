@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-14)
+## Unreleased (2026-10-30)
 
 <section class="features">
 
 ### Features
 
+-   [`63fa046`](https://github.com/stdlib-js/stdlib/commit/63fa0462c82fa0612e0ae35a95edddaf0510d4b8) - add pretty print support for known custom class instances [(#16315)](https://github.com/stdlib-js/stdlib/pull/16315)
 -   [`c3f1bfb`](https://github.com/stdlib-js/stdlib/commit/c3f1bfb78296e1bcd243029930445c4b70fff79d) - adapt `REPL` welcome message to terminal width [(#14848)](https://github.com/stdlib-js/stdlib/pull/14848)
 -   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - add `Int64Array` to namespace and update related packages
 -   [`88aae8a`](https://github.com/stdlib-js/stdlib/commit/88aae8a4611072452af8f0f791f3223ce2eed486) - add support for pretty printing specialized array types
@@ -47,6 +48,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`0786aab`](https://github.com/stdlib-js/stdlib/commit/0786aabfbcb29b5b379f4139a6e3a6cc37a062b0) - **docs:** update REPL namespace documentation [(#16373)](https://github.com/stdlib-js/stdlib/pull/16373) _(by stdlib-bot)_
+-   [`63fa046`](https://github.com/stdlib-js/stdlib/commit/63fa0462c82fa0612e0ae35a95edddaf0510d4b8) - **feat:** add pretty print support for known custom class instances [(#16315)](https://github.com/stdlib-js/stdlib/pull/16315) _(by Abdul Kaium, Athan Reines)_
 -   [`2124c44`](https://github.com/stdlib-js/stdlib/commit/2124c440197cce968ed1854c7b7bf054dae2ccb4) - **docs:** update REPL namespace documentation [(#16129)](https://github.com/stdlib-js/stdlib/pull/16129) _(by stdlib-bot)_
 -   [`34abcbe`](https://github.com/stdlib-js/stdlib/commit/34abcbe8b94597b6a2409328f0b41795bbe631cf) - **docs:** update REPL namespace documentation [(#16074)](https://github.com/stdlib-js/stdlib/pull/16074) _(by stdlib-bot)_
 -   [`ac97b0e`](https://github.com/stdlib-js/stdlib/commit/ac97b0e3156280fd9b6a8b3e0bef89d5f43b9824) - **docs:** update REPL namespace documentation [(#15836)](https://github.com/stdlib-js/stdlib/pull/15836) _(by stdlib-bot)_
