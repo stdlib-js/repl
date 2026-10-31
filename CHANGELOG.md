@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-30)
+## Unreleased (2026-10-31)
 
 <section class="features">
 
 ### Features
 
+-   [`5492397`](https://github.com/stdlib-js/stdlib/commit/5492397c9793721709993f55f7fef06b2547407c) - add various symbols to namespace
 -   [`63fa046`](https://github.com/stdlib-js/stdlib/commit/63fa0462c82fa0612e0ae35a95edddaf0510d4b8) - add pretty print support for known custom class instances [(#16315)](https://github.com/stdlib-js/stdlib/pull/16315)
 -   [`c3f1bfb`](https://github.com/stdlib-js/stdlib/commit/c3f1bfb78296e1bcd243029930445c4b70fff79d) - adapt `REPL` welcome message to terminal width [(#14848)](https://github.com/stdlib-js/stdlib/pull/14848)
 -   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - add `Int64Array` to namespace and update related packages
@@ -48,6 +49,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`5492397`](https://github.com/stdlib-js/stdlib/commit/5492397c9793721709993f55f7fef06b2547407c) - **feat:** add various symbols to namespace _(by Athan Reines)_
 -   [`0786aab`](https://github.com/stdlib-js/stdlib/commit/0786aabfbcb29b5b379f4139a6e3a6cc37a062b0) - **docs:** update REPL namespace documentation [(#16373)](https://github.com/stdlib-js/stdlib/pull/16373) _(by stdlib-bot)_
 -   [`63fa046`](https://github.com/stdlib-js/stdlib/commit/63fa0462c82fa0612e0ae35a95edddaf0510d4b8) - **feat:** add pretty print support for known custom class instances [(#16315)](https://github.com/stdlib-js/stdlib/pull/16315) _(by Abdul Kaium, Athan Reines)_
 -   [`2124c44`](https://github.com/stdlib-js/stdlib/commit/2124c440197cce968ed1854c7b7bf054dae2ccb4) - **docs:** update REPL namespace documentation [(#16129)](https://github.com/stdlib-js/stdlib/pull/16129) _(by stdlib-bot)_
