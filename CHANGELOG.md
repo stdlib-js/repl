@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-05)
+## Unreleased (2026-11-06)
 
 <section class="features">
 
 ### Features
 
+-   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - add `GenericVector` and `GenericMatrix` to namespace
 -   [`ef38572`](https://github.com/stdlib-js/stdlib/commit/ef38572e3e1111ec3660bed84b07789b588849fd) - add `arraybuffer2ndarray` to namespace
 -   [`5492397`](https://github.com/stdlib-js/stdlib/commit/5492397c9793721709993f55f7fef06b2547407c) - add various symbols to namespace
 -   [`63fa046`](https://github.com/stdlib-js/stdlib/commit/63fa0462c82fa0612e0ae35a95edddaf0510d4b8) - add pretty print support for known custom class instances [(#16315)](https://github.com/stdlib-js/stdlib/pull/16315)
@@ -50,6 +51,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - **feat:** add `GenericVector` and `GenericMatrix` to namespace _(by Athan Reines)_
 -   [`7cf5642`](https://github.com/stdlib-js/stdlib/commit/7cf56423a8fe3e959bd334981a00f8428d086127) - **chore:** clean-up [(#16491)](https://github.com/stdlib-js/stdlib/pull/16491) _(by Philipp Burckhardt)_
 -   [`9cb9abe`](https://github.com/stdlib-js/stdlib/commit/9cb9abe70fefd01019499ac807ac2ed3f4b6518b) - **docs:** update REPL namespace documentation [(#16483)](https://github.com/stdlib-js/stdlib/pull/16483) _(by stdlib-bot)_
 -   [`a775fc5`](https://github.com/stdlib-js/stdlib/commit/a775fc537effb611a9ef26150ae691b8096706f9) - **docs:** update REPL namespace documentation [(#16457)](https://github.com/stdlib-js/stdlib/pull/16457) _(by stdlib-bot)_
