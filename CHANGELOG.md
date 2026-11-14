@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`b8735f5`](https://github.com/stdlib-js/stdlib/commit/b8735f537688806517ad087313de6bf05dba4c82) - add `isNumberOrComplexLike` to namespace
 -   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - add `GenericVector` and `GenericMatrix` to namespace
 -   [`ef38572`](https://github.com/stdlib-js/stdlib/commit/ef38572e3e1111ec3660bed84b07789b588849fd) - add `arraybuffer2ndarray` to namespace
 -   [`5492397`](https://github.com/stdlib-js/stdlib/commit/5492397c9793721709993f55f7fef06b2547407c) - add various symbols to namespace
@@ -51,6 +52,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`b8735f5`](https://github.com/stdlib-js/stdlib/commit/b8735f537688806517ad087313de6bf05dba4c82) - **feat:** add `isNumberOrComplexLike` to namespace _(by Athan Reines)_
 -   [`5549502`](https://github.com/stdlib-js/stdlib/commit/554950248078227a27fc4aa56ace285efa79a8a5) - **docs:** update REPL namespace documentation [(#16620)](https://github.com/stdlib-js/stdlib/pull/16620) _(by stdlib-bot)_
 -   [`c51e054`](https://github.com/stdlib-js/stdlib/commit/c51e0544298f0124391a52cb44c5a4fb239c46c8) - **docs:** update REPL namespace documentation [(#16514)](https://github.com/stdlib-js/stdlib/pull/16514) _(by stdlib-bot)_
 -   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - **feat:** add `GenericVector` and `GenericMatrix` to namespace _(by Athan Reines)_
