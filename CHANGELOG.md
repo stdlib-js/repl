@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-06)
+## Unreleased (2026-11-14)
 
 <section class="features">
 
@@ -51,6 +51,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`5549502`](https://github.com/stdlib-js/stdlib/commit/554950248078227a27fc4aa56ace285efa79a8a5) - **docs:** update REPL namespace documentation [(#16620)](https://github.com/stdlib-js/stdlib/pull/16620) _(by stdlib-bot)_
 -   [`c51e054`](https://github.com/stdlib-js/stdlib/commit/c51e0544298f0124391a52cb44c5a4fb239c46c8) - **docs:** update REPL namespace documentation [(#16514)](https://github.com/stdlib-js/stdlib/pull/16514) _(by stdlib-bot)_
 -   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - **feat:** add `GenericVector` and `GenericMatrix` to namespace _(by Athan Reines)_
 -   [`7cf5642`](https://github.com/stdlib-js/stdlib/commit/7cf56423a8fe3e959bd334981a00f8428d086127) - **chore:** clean-up [(#16491)](https://github.com/stdlib-js/stdlib/pull/16491) _(by Philipp Burckhardt)_
