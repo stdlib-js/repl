@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-15)
+## Unreleased (2026-11-16)
 
 <section class="features">
 
 ### Features
 
+-   [`b994f2e`](https://github.com/stdlib-js/stdlib/commit/b994f2e137ebebe2e88958f91aa97e672f7bfbf3) - add various zero-dimensional ndarray constructors to namespace
 -   [`b8735f5`](https://github.com/stdlib-js/stdlib/commit/b8735f537688806517ad087313de6bf05dba4c82) - add `isNumberOrComplexLike` to namespace
 -   [`b93d8cc`](https://github.com/stdlib-js/stdlib/commit/b93d8ccaff2fd338f81387ac3a37aad66739bcdb) - add `GenericVector` and `GenericMatrix` to namespace
 -   [`ef38572`](https://github.com/stdlib-js/stdlib/commit/ef38572e3e1111ec3660bed84b07789b588849fd) - add `arraybuffer2ndarray` to namespace
@@ -52,6 +53,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`b994f2e`](https://github.com/stdlib-js/stdlib/commit/b994f2e137ebebe2e88958f91aa97e672f7bfbf3) - **feat:** add various zero-dimensional ndarray constructors to namespace _(by Athan Reines)_
 -   [`d2021e7`](https://github.com/stdlib-js/stdlib/commit/d2021e718d724e9d5aa81b56026ffeadd25ca189) - **docs:** update REPL namespace documentation [(#16631)](https://github.com/stdlib-js/stdlib/pull/16631) _(by stdlib-bot)_
 -   [`b8735f5`](https://github.com/stdlib-js/stdlib/commit/b8735f537688806517ad087313de6bf05dba4c82) - **feat:** add `isNumberOrComplexLike` to namespace _(by Athan Reines)_
 -   [`5549502`](https://github.com/stdlib-js/stdlib/commit/554950248078227a27fc4aa56ace285efa79a8a5) - **docs:** update REPL namespace documentation [(#16620)](https://github.com/stdlib-js/stdlib/pull/16620) _(by stdlib-bot)_
